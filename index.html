@@ -7,10 +7,27 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="toggle-bar">
-    <button id="lang-toggle">🇬🇧 English</button>
+  <div class="header">
+    <h1>God Knowledge Compilation</h1>
+    <div class="lang-select">
+      <label for="lang-selector">Language:</label>
+      <select id="lang-selector">
+        <option value="eng">English</option>
+        <option value="kor">한국어</option>
+      </select>
+    </div>
   </div>
+
   <div class="container" id="content"></div>
-  <script src="script.js"></script>
+
+  <!-- JS modules -->
+  <script src="js/toggleLang.js"></script>
+  <script src="js/expand.js"></script>
+  <script src="js/references.js"></script>
+  <script>
+    const metaPath = 'data/meta.json';
+    const modulesPath = 'data/GodKnowledge.json';
+  </script>
+  <script src="js/loadModules.js"></script>
 </body>
 </html>

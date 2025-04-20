@@ -1,683 +1,1624 @@
 {
-  "intro": {
-    "eng": "V1.0 02/02/2025 Thank you for coming here. This is about a 20 minute read. The url can be shared with anyone you'd like. It has been numbered for easy reference. It has a general order, so there is some flow but not all ordering is deliberate. The english is more accurate than the Korean so refer to the english if the Korean is not clear. Ask me anything, via message. Happy reading! 😊 -Joshua Kim",
-    "kor": "여기에 와주셔서 감사합니다. 이 글은 약 20분 정도 소요됩니다. URL을 누구에게든 자유롭게 공유하셔도 됩니다. 참고하기 쉽도록 번호를 매겼습니다. 전반적인 흐름이 있지만, 모든 순서가 의도된 것은 아닙니다. 한국어 번역보다 영어 원문이 더 정확하므로, 이해가 어려운 부분이 있으면 영어를 참고해주세요. 질문이 있다면 언제든지 메시지로 남겨주세요. 즐거운 독서 되세요! 😊 -김진혁 Insta: @gonaenz Intent, right or wrong, and amount. Are we doing it for the right reason? Is it the right thing to do? And, Are we doing it? Too much? Too little? Keep your actions as pure as your intent, which is God.\t우리가 하는 모든 행동에는 세 가지 차원이 있습니다. 의도, 옳고 그름, 그리고 정도. 우리는 올바른 이유로 행동하고 있나요? 그 행동이 옳은가요? 그리고 행동하고 있나요? 너무 과하거나 부족하지 않나요? 우리의 행동이 하나님인 순수한 의도만큼 깨끗하길 바랍니다. We follow God... 1. When it is convenient for us. 2. Even when we don't want to. 3. We no longer don't want to. 4. Despite great personal sacrifice. The less we factor in, the greater the mental fortitude. Practice this.\t정신적 강인함의 단계. 우리는 하나님을 따릅니다... 1.우리의 상황에 편할 때 2.원하지 않을 때도 3.하나님을 따르고 싶어서 4.큰 개인적 희생이 따르더라도 고려할 것이 적을수록 정신적 강인함은 커집니다. 이를 실천하세요. 1. We know what others have told us 2. Following literal instructions from the Bible. 3. Understanding deeper intents and meanings in the Bible 4. Understanding the source of the intent behind the Bible. This makes you the most basic prophet. 하나님과의 친밀함의 단계 1. 다른 사람들이 전해준 것을 아는 단계 2. 성경의 문자적 계명을 따르는 단계 3. 성경의 깊은 뜻과 교훈을 깨닫는 단계 4. 성경의 교훈 뒤에 있는 하나님의 뜻을 깨닫는 단계. 이 단계는 당신을 가장 기본적인 선지자로 만듭니다. Dont take anything personally. Dont take anything emotionally. Lift others and lower yourself Have the humility to learn from anyone Know we are fallible.\t우리의 자아가 하나님과 성령 안에 있을 때, 우리는 다른 사람과 자신을 비교하지 않습니다. 어떤 일도 개인적으로 받아들이지 말고, 감정적으로 받아들이지 마세요. 다른 사람을 높이고 자신을 낮추세요. 누구에게서든 배울 수 있는 겸손을 가지세요. 우리는 누구나 실수할 수 있음을 기억하세요."
-  },
-  "content": [
+  "modules": [
     {
       "id": 1,
-      "eng": "In the beginning is God and in the end is God",
-      "kor": "처음에 하나님이 계시고 끝에도 하나님이 계신다."
+      "content": {
+        "eng": "In the beginning is God and in the end is God",
+        "kor": "처음에 하나님이 계시고 끝에도 하나님이 계신다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 2,
-      "eng": "God created the universe means God is not anything in the universe. No animal, plant or rock is God. No material substance is God. God is incorporeal. Be wary of any image you form of God for he is no thing.",
-      "kor": "하나님이 세상을 창조하셨다는 것은 하나님이 세상 안의 어떤 것도 아니라는 뜻이다. 어떤 동물도, 식물도, 돌도 하나님이 아니다. 어떤 물질도 하나님이 아니다. 하나님은 무형이시다. 하나님에 대해 어떤 형상을 떠올릴 때 조심하라, 하나님은 어떤 것도 아니기 때문이다."
+      "content": {
+        "eng": "God created the universe means God is not anything in the universe. No animal, plant or rock is God. No material substance is God. God is incorporeal. Be wary of any image you form of God for he is no thing.",
+        "kor": "하나님이 세상을 창조하셨다는 것은 하나님이 세상 안의 어떤 것도 아니라는 뜻이다. 어떤 동물도, 식물도, 돌도 하나님이 아니다. 어떤 물질도 하나님이 아니다. 하나님은 무형이시다. 하나님에 대해 어떤 형상을 떠올릴 때 조심하라, 하나님은 어떤 것도 아니기 때문이다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 3,
-      "eng": "God created the universe means God's existence is not dependent on the universe. God was the only thing that existed in nothing and so the only thing that can take responsibility as the cause for everything else. God's existence is unconditional.",
-      "kor": "하나님이 세상을 창조하셨다는 것은 하나님의 존재가 세상에 의존하지 않는다는 뜻이다. 하나님은 아무것도 없는 상태에서 유일하게 존재하셨으며, 그러므로 모든 것의 원인으로 책임을 질 수 있는 유일한 분이시다. 하나님의 존재는 무조건적이다."
+      "content": {
+        "eng": "God created the universe means God's existence is not dependent on the universe. God was the only thing that existed in nothing and so the only thing that can take responsibility as the cause for everything else. God's existence is unconditional.",
+        "kor": "하나님이 세상을 창조하셨다는 것은 하나님의 존재가 세상에 의존하지 않는다는 뜻이다. 하나님은 아무것도 없는 상태에서 유일하게 존재하셨으며, 그러므로 모든 것의 원인으로 책임을 질 수 있는 유일한 분이시다. 하나님의 존재는 무조건적이다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 4,
-      "eng": "Truth is what aligns with reality. The bible and God are true, so they must align with reality. The bible cannot be literally true as that does not align with reality. When we consider reality while studying the bible, we are able to discern what the deeper truths may be.",
-      "kor": "진리는 현실과 일치하는 것이다. 성경과 하나님은 진리이기에, 그들은 반드시 현실과 일치해야 한다. 성경을 문자 그대로 받아들일 수는 없다, 왜냐하면 그것이 현실과 일치하지 않기 때문이다. 우리가 성경을 공부하면서 현실을 고려할 때, 더 깊은 진리를 분별할 수 있게 된다."
+      "content": {
+        "eng": "Truth is what aligns with reality. The bible and God are true, so they must align with reality. The bible cannot be literally true as that does not align with reality. When we consider reality while studying the bible, we are able to discern what the deeper truths may be.",
+        "kor": "진리는 현실과 일치하는 것이다. 성경과 하나님은 진리이기에, 그들은 반드시 현실과 일치해야 한다. 성경을 문자 그대로 받아들일 수는 없다, 왜냐하면 그것이 현실과 일치하지 않기 때문이다. 우리가 성경을 공부하면서 현실을 고려할 때, 더 깊은 진리를 분별할 수 있게 된다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 5,
-      "eng": "The point of the bible is not to be a historically accurate record. The point is to convey to its readers the nature of God. The bible has historic stories that may or may not have happened because we can see the hand of God through these stories.",
-      "kor": "성경의 목적은 역사적으로 정확한 기록을 제공하는 것이 아니다. 성경의 목적은 독자들에게 하나님의 본성을 전하는 것이다. 성경에는 실제로 일어났을 수도 있고 그렇지 않을 수도 있는 역사적 이야기들이 담겨 있는데, 그 이유는 이 이야기들을 통해 하나님의 손길을 볼 수 있기 때문이다."
+      "content": {
+        "eng": "The point of the bible is not to be a historically accurate record. The point is to convey to its readers the nature of God. The bible has historic stories that may or may not have happened because we can see the hand of God through these stories.",
+        "kor": "성경의 목적은 역사적으로 정확한 기록을 제공하는 것이 아니다. 성경의 목적은 독자들에게 하나님의 본성을 전하는 것이다. 성경에는 실제로 일어났을 수도 있고 그렇지 않을 수도 있는 역사적 이야기들이 담겨 있는데, 그 이유는 이 이야기들을 통해 하나님의 손길을 볼 수 있기 때문이다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 6,
-      "eng": "When I say \"the sea was angry\" you have a clear image of what the sea might look like. But we know the sea does not have emotions. When the sea looks or does something, we attribute an emotion to it that we relate to. God's emotions are the same.",
-      "kor": "\"바다가 화가 났다\"라고 말하면, 우리는 바다가 어떤 모습일지 분명히 상상할 수 있다. 하지만 우리는 바다에 감정이 없다는 것을 알고 있다. 바다가 어떤 모습이거나 무언가를 할 때, 우리는 우리가 느끼는 감정을 그것에 투영한다. 하나님의 감정도 마찬가지다."
+      "content": {
+        "eng": "When I say \"the sea was angry\" you have a clear image of what the sea might look like. But we know the sea does not have emotions. When the sea looks or does something, we attribute an emotion to it that we relate to. God's emotions are the same.",
+        "kor": "\"바다가 화가 났다\"라고 말하면, 우리는 바다가 어떤 모습일지 분명히 상상할 수 있다. 하지만 우리는 바다에 감정이 없다는 것을 알고 있다. 바다가 어떤 모습이거나 무언가를 할 때, 우리는 우리가 느끼는 감정을 그것에 투영한다. 하나님의 감정도 마찬가지다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 7,
-      "eng": "Every human has their core value. For most, this is self benefit. When you assess the deepest reason behind your own actions, \"because I like to\" might be the final reason. For followers of God, the final reason is God. God will be the reason for all our actions.",
-      "kor": "모든 사람은 자신만의 핵심 가치를 가지고 있다. 대부분의 경우, 그것은 자기 이익이다. 자신의 행동에 대한 가장 깊은 이유를 평가할 때, \"내가 좋아서\"가 최종적인 이유일 수 있다. 그러나 하나님의 추종자들에게는 최종적인 이유가 하나님이다. 하나님이 우리의 모든 행동의 이유가 될 것이다."
+      "content": {
+        "eng": "Every human has their core value. For most, this is self benefit. When you assess the deepest reason behind your own actions, \"because I like to\" might be the final reason. For followers of God, the final reason is God. God will be the reason for all our actions.",
+        "kor": "모든 사람은 자신만의 핵심 가치를 가지고 있다. 대부분의 경우, 그것은 자기 이익이다. 자신의 행동에 대한 가장 깊은 이유를 평가할 때, \"내가 좋아서\"가 최종적인 이유일 수 있다. 그러나 하나님의 추종자들에게는 최종적인 이유가 하나님이다. 하나님이 우리의 모든 행동의 이유가 될 것이다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 8,
-      "eng": "The perfection of God is beyond human measurement. When we say God is great, he is not actually great. He is on a totally different dimension of great such that the word fails to describe him. This applies to any positive attribute.",
-      "kor": "하나님의 완전함은 인간의 기준으로 측정할 수 없는 것이다. 우리가 하나님이 위대하시다고 말할 때, 사실 그분은 위대하신 것이 아니다. 그는 완전히 다른 차원의 위대함을 지니고 계셔서, 이런 단어나 속성으로 설명할수 없다. 무슨 긍정적인 속성이든 그런다."
+      "content": {
+        "eng": "The perfection of God is beyond human measurement. When we say God is great, he is not actually great. He is on a totally different dimension of great such that the word fails to describe him. This applies to any positive attribute.",
+        "kor": "하나님의 완전함은 인간의 기준으로 측정할 수 없는 것이다. 우리가 하나님이 위대하시다고 말할 때, 사실 그분은 위대하신 것이 아니다. 그는 완전히 다른 차원의 위대함을 지니고 계셔서, 이런 단어나 속성으로 설명할수 없다. 무슨 긍정적인 속성이든 그런다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 9,
-      "eng": "Positive attributes as descriptors can only apply to creation as positive attributes only exist after creation. God existed before creation. The only way to describe God accurately is to say what he is not.",
-      "kor": "긍정적인 속성은 창조 이후에만 존재하므로, 이러한 속성들은 오직 창조물에만 적용될 수 있다. 하나님은 창조 이전에 존재하셨기 때문에, 하나님을 정확하게 설명하는 유일한 방법은 \"하나님은 xxx이 아니다\"라고 말하는 것이다."
+      "content": {
+        "eng": "Positive attributes as descriptors can only apply to creation as positive attributes only exist after creation. God existed before creation. The only way to describe God accurately is to say what he is not.",
+        "kor": "긍정적인 속성은 창조 이후에만 존재하므로, 이러한 속성들은 오직 창조물에만 적용될 수 있다. 하나님은 창조 이전에 존재하셨기 때문에, 하나님을 정확하게 설명하는 유일한 방법은 \"하나님은 xxx이 아니다\"라고 말하는 것이다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 10,
-      "eng": "We were made in the image of God, does not mean we look like him. God who existed before everything has no image.",
-      "kor": "우리는 하나님의 형상대로 지음받았지만, 그것이 곧 하나님의 외형을 닮았다는 뜻은 아닙니다. 만물 이전부터 계셨던 하나님은 형상이 없으신 분입니다"
+      "content": {
+        "eng": "We were made in the image of God, does not mean we look like him. God who existed before everything has no image.",
+        "kor": "우리는 하나님의 형상대로 지음받았지만, 그것이 곧 하나님의 외형을 닮았다는 뜻은 아닙니다. 만물 이전부터 계셨던 하나님은 형상이 없으신 분입니다"
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 11,
-      "eng": "God is not real. There is no tangible form we can associate with him. But he still exists. As such, when we were made in the image of God, it is not a physical similarity, but our capacity to understand God. Us knowing God is his reflection in us.",
-      "kor": "하나님은 살아 계시지 않다. 하나님을 아무 물질적인 형상이랑 연관할 수 없다. 그래도 하나님은 존재하신다. 우리가 하나님의 형상대로 창조되었다는 것은 육체적인게 아니라, 우리가 하나님을 이해할 수 있다는 것을 의미한다. 우리가 하나님을 아는 것이 곧 하나님이 우리 안에 계시는 것이다."
+      "content": {
+        "eng": "God is not real. There is no tangible form we can associate with him. But he still exists. As such, when we were made in the image of God, it is not a physical similarity, but our capacity to understand God. Us knowing God is his reflection in us.",
+        "kor": "하나님은 살아 계시지 않다. 하나님을 아무 물질적인 형상이랑 연관할 수 없다. 그래도 하나님은 존재하신다. 우리가 하나님의 형상대로 창조되었다는 것은 육체적인게 아니라, 우리가 하나님을 이해할 수 있다는 것을 의미한다. 우리가 하나님을 아는 것이 곧 하나님이 우리 안에 계시는 것이다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 12,
-      "eng": "Time is only relevant when stuff happens over time. When there is no stuff, there is no time. God exists where there is no stuff, so no time, so God is not influenced by time.",
-      "kor": "시간은 무언가가 시간에 걸쳐 일어날 때만 의미가 있다. 아무것도 존재하지 않으면 시간도 존재하지 않는다. 하나님은 아무것도 없는 곳에 존재하시기 때문에 시간의 제약을 받지 않으신다."
+      "content": {
+        "eng": "Time is only relevant when stuff happens over time. When there is no stuff, there is no time. God exists where there is no stuff, so no time, so God is not influenced by time.",
+        "kor": "시간은 무언가가 시간에 걸쳐 일어날 때만 의미가 있다. 아무것도 존재하지 않으면 시간도 존재하지 않는다. 하나님은 아무것도 없는 곳에 존재하시기 때문에 시간의 제약을 받지 않으신다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 13,
-      "eng": "Change is something that can only happen over time. God is unaffected by time, so is unchanging.  This means his thoughts, will, ideas and actions don't change. God's will constantly acts upon all things. The different effects are due to different situations.",
-      "kor": "변화는 시간이 지나야만 일어날 수 있는 것이다. 하나님은 시간의 영향을 받지 않으시기 때문에 변하지 않으신다. 이는 하나님의 생각, 뜻, 아이디어, 그리고 행동이 변하지 않는다는 것을 의미한다. 하나님의 뜻은 모든 것에 항상 작용하며, 그 결과가 다르게 나타나는 것은 각기 다른 상황 때문이다."
+      "content": {
+        "eng": "Change is something that can only happen over time. God is unaffected by time, so is unchanging.  This means his thoughts, will, ideas and actions don't change. God's will constantly acts upon all things. The different effects are due to different situations.",
+        "kor": "변화는 시간이 지나야만 일어날 수 있는 것이다. 하나님은 시간의 영향을 받지 않으시기 때문에 변하지 않으신다. 이는 하나님의 생각, 뜻, 아이디어, 그리고 행동이 변하지 않는다는 것을 의미한다. 하나님의 뜻은 모든 것에 항상 작용하며, 그 결과가 다르게 나타나는 것은 각기 다른 상황 때문이다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 14,
-      "eng": "Idol worship has multiple meanings. Creating an incorrect idea of God to worship is Idol worship. Giving him any form or image is creating an idol. The golden calf is such an example. Remember, there is no physical likeness we can associate with God.",
-      "kor": "우상 숭배는 여러 가지 의미를 가지고 있다. 하나님에 대한 잘못된 개념을 만들어 숭배하는 것 또한 우상 숭배이다. 하나님께 어떤 형태나 이미지를 부여하는 것은 우상을 만드는 것이다. 금송아지가 그 한 예이다. 하나님과 연관지을 수 있는 물리적 형상은 없다."
+      "content": {
+        "eng": "Idol worship has multiple meanings. Creating an incorrect idea of God to worship is Idol worship. Giving him any form or image is creating an idol. The golden calf is such an example. Remember, there is no physical likeness we can associate with God.",
+        "kor": "우상 숭배는 여러 가지 의미를 가지고 있다. 하나님에 대한 잘못된 개념을 만들어 숭배하는 것 또한 우상 숭배이다. 하나님께 어떤 형태나 이미지를 부여하는 것은 우상을 만드는 것이다. 금송아지가 그 한 예이다. 하나님과 연관지을 수 있는 물리적 형상은 없다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 15,
-      "eng": "Imagine a spring gushing out water. The spring could create a river, pond, lake, flood. It can be the life of a forest or farmland. All the spring does is exist. The various outcomes are due to the environment. The spring is God. His Will is in constant action.",
-      "kor": "샘이 물을 쏟아내는 모습을 상상해 보라. 샘은 강, 연못, 호수, 홍수를 만들 수 있고, 숲이나 농장의 생명줄이 될 수도 있다. 샘이 하는 일은 단지 존재하는 것뿐이다. 다양한 결과는 환경에 따른 것이다. 이 샘이 바로 하나님이시다. 하나님의 뜻은 끊임없이 작용하고 있다."
+      "content": {
+        "eng": "Imagine a spring gushing out water. The spring could create a river, pond, lake, flood. It can be the life of a forest or farmland. All the spring does is exist. The various outcomes are due to the environment. The spring is God. His Will is in constant action.",
+        "kor": "샘이 물을 쏟아내는 모습을 상상해 보라. 샘은 강, 연못, 호수, 홍수를 만들 수 있고, 숲이나 농장의 생명줄이 될 수도 있다. 샘이 하는 일은 단지 존재하는 것뿐이다. 다양한 결과는 환경에 따른 것이다. 이 샘이 바로 하나님이시다. 하나님의 뜻은 끊임없이 작용하고 있다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 16,
-      "eng": "Science tries to understand reality. They do a good job of it. Scientists are a group of people who will accept valid proofs and ideas. What they consider true is not grounded on faith. Don't argue against science. Only other scientists can do so.",
-      "kor": "과학은 현실을 이해하려고 한다. 그 일을 매우 잘 해내고 있다. 과학자들은 유효한 증거와 아이디어를 받아들이는 사람들이다. 그냥 믿으라고 해서 진리로 여기는게 없다. 과학에 반대해서는 안 된다. 과학에 반박할 수 있는 사람은 오직 다른 과학자들뿐이다."
+      "content": {
+        "eng": "Science tries to understand reality. They do a good job of it. Scientists are a group of people who will accept valid proofs and ideas. What they consider true is not grounded on faith. Don't argue against science. Only other scientists can do so.",
+        "kor": "과학은 현실을 이해하려고 한다. 그 일을 매우 잘 해내고 있다. 과학자들은 유효한 증거와 아이디어를 받아들이는 사람들이다. 그냥 믿으라고 해서 진리로 여기는게 없다. 과학에 반대해서는 안 된다. 과학에 반박할 수 있는 사람은 오직 다른 과학자들뿐이다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 17,
-      "eng": "To be a follower of God is to put God above all else. Everything we do isn't for ourselves or for others, but for God. He is the criteria to which we determine what action to take. This is the best way for me to explain God applied to us.",
-      "kor": "하나님의 제자자가 된다는 것은 하나님을 모든 것보다 우선시하는 것을 의미한다. 우리가 하는 모든 일은 자신이나 다른 사람을 위한 것이 아니라, 하나님을 위한 것이다. 우리는 하나님을 기준으로 삼아 어떤 행동을 할지 결정한다. 이것이 하나님을 우리 삶에 적용하는대 제일 좋은 설명이다."
+      "content": {
+        "eng": "To be a follower of God is to put God above all else. Everything we do isn't for ourselves or for others, but for God. He is the criteria to which we determine what action to take. This is the best way for me to explain God applied to us.",
+        "kor": "하나님의 제자자가 된다는 것은 하나님을 모든 것보다 우선시하는 것을 의미한다. 우리가 하는 모든 일은 자신이나 다른 사람을 위한 것이 아니라, 하나님을 위한 것이다. 우리는 하나님을 기준으로 삼아 어떤 행동을 할지 결정한다. 이것이 하나님을 우리 삶에 적용하는대 제일 좋은 설명이다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 18,
-      "eng": "Why do you believe in God? If you have a reason, that reason is more important than God. When God is no longer able to fulfil that reason, your faith will shake. Believe in God for no reason. That way there is nothing more important than God.",
-      "kor": "왜 하나님을 믿는가? 만약 당신에게 이유가 있다면, 그 이유는 하나님보다 더 중요한 것이 된다. 하나님이 그 이유를 충족시키지 못할 때, 당신의 믿음은 흔들릴 것이다. 아무 이유 없이 하나님을 믿어라. 그렇게 하면 하나님보다 더 중요한 것은 없게 된다."
+      "content": {
+        "eng": "Why do you believe in God? If you have a reason, that reason is more important than God. When God is no longer able to fulfil that reason, your faith will shake. Believe in God for no reason. That way there is nothing more important than God.",
+        "kor": "왜 하나님을 믿는가? 만약 당신에게 이유가 있다면, 그 이유는 하나님보다 더 중요한 것이 된다. 하나님이 그 이유를 충족시키지 못할 때, 당신의 믿음은 흔들릴 것이다. 아무 이유 없이 하나님을 믿어라. 그렇게 하면 하나님보다 더 중요한 것은 없게 된다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 19,
-      "eng": "Anyone following any moral code will have subjectively chosen it. There is no way to determine which is better than the other as that requires a subjectively chosen criteria. Long term benefits of society is a valid code. It is hard to argue against others' premises. What God is, is Truth. The option is for us to live in alignment with Truth or something else",
-      "kor": "어떤 도덕적 기준을 따르는 사람이라도 결국 그것을 주관적으로 선택한 것입니다. 어느 기준이 더 나은지 결정하려면 또 다른 주관적인 기준이 필요하기 때문에, 객관적으로 우열을 가릴 방법은 없습니다. 사회의 장기적 이익을 기준으로 삼는 것도 하나의 유효한 선택입니다. 하지만 다른 이들의 도덕적 전제를 반박하기란 쉽지 않습니다. 하나님은 진리이십니다. 우리에게 주어진 선택은, 진리에 맞추어 살아가느냐, 혹은 다른 무엇을 따르느냐 하는 것입니다."
+      "content": {
+        "eng": "Anyone following any moral code will have subjectively chosen it. There is no way to determine which is better than the other as that requires a subjectively chosen criteria. Long term benefits of society is a valid code. It is hard to argue against others' premises. What God is, is Truth. The option is for us to live in alignment with Truth or something else",
+        "kor": "어떤 도덕적 기준을 따르는 사람이라도 결국 그것을 주관적으로 선택한 것입니다. 어느 기준이 더 나은지 결정하려면 또 다른 주관적인 기준이 필요하기 때문에, 객관적으로 우열을 가릴 방법은 없습니다. 사회의 장기적 이익을 기준으로 삼는 것도 하나의 유효한 선택입니다. 하지만 다른 이들의 도덕적 전제를 반박하기란 쉽지 않습니다. 하나님은 진리이십니다. 우리에게 주어진 선택은, 진리에 맞추어 살아가느냐, 혹은 다른 무엇을 따르느냐 하는 것입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 20,
-      "eng": "Being religious is hard. It is constant work. Giving yourself up. Personal sacrifice. Are you prepared to lose everything for the sake of God? Only when you are prepared to lose it all, can you gain everything.",
-      "kor": "종교적으로 산다는 것은 어려운 일이다. 그것은 끊임없는 노력이며, 자신을 내려놓고 개인적인 희생을 요구한다. 당신은 하나님의 뜻을 위해 모든 것을 잃을 준비가 되어 있는가? 오직 모든 것을 잃을 준비가 되었을 때만, 모든 것을 얻을 수 있다."
+      "content": {
+        "eng": "Being religious is hard. It is constant work. Giving yourself up. Personal sacrifice. Are you prepared to lose everything for the sake of God? Only when you are prepared to lose it all, can you gain everything.",
+        "kor": "종교적으로 산다는 것은 어려운 일이다. 그것은 끊임없는 노력이며, 자신을 내려놓고 개인적인 희생을 요구한다. 당신은 하나님의 뜻을 위해 모든 것을 잃을 준비가 되어 있는가? 오직 모든 것을 잃을 준비가 되었을 때만, 모든 것을 얻을 수 있다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 21,
-      "eng": "Idol worship has many meanings. Putting something else as more important than God is idol worship. This could be money, fame, popularity, sex, and anything else. This is referred to as \"slave to sin\".",
-      "kor": "우상 숭배는 여러 가지 의미를 가진다. 하나님보다 다른 것을 더 중요하게 여기는 것이 우상 숭배이다. 이것은 돈, 명성, 인기, 성적 욕망 등 무엇이든 될 수 있다. 이를 \"죄의 종\"이라고 한다."
+      "content": {
+        "eng": "Idol worship has many meanings. Putting something else as more important than God is idol worship. This could be money, fame, popularity, sex, and anything else. This is referred to as \"slave to sin\".",
+        "kor": "우상 숭배는 여러 가지 의미를 가진다. 하나님보다 다른 것을 더 중요하게 여기는 것이 우상 숭배이다. 이것은 돈, 명성, 인기, 성적 욕망 등 무엇이든 될 수 있다. 이를 \"죄의 종\"이라고 한다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 22,
-      "eng": "All our sin can be categorised in 2 ways. Something you knew you shouldn't do and did, or something you didn't know and did. When we know it is sin, why would we still do it? At that moment, our personal desire is stronger than our desire to follow God.",
-      "kor": "우리의 모든 죄는 두 가지로 분류될 수 있다. 알면서도 저지른 죄, 또는 알지 못하고 저지른 죄이다. 우리가 그것이 죄라는 것을 알면서도 왜 여전히 죄를 지을까? 그 순간에는 우리의 개인적인 욕망이 하나님을 따르고자 하는 마음보다 더 강하기 때문이다."
+      "content": {
+        "eng": "All our sin can be categorised in 2 ways. Something you knew you shouldn't do and did, or something you didn't know and did. When we know it is sin, why would we still do it? At that moment, our personal desire is stronger than our desire to follow God.",
+        "kor": "우리의 모든 죄는 두 가지로 분류될 수 있다. 알면서도 저지른 죄, 또는 알지 못하고 저지른 죄이다. 우리가 그것이 죄라는 것을 알면서도 왜 여전히 죄를 지을까? 그 순간에는 우리의 개인적인 욕망이 하나님을 따르고자 하는 마음보다 더 강하기 때문이다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 23,
-      "eng": "We can sin without knowing. Study, meditation and self reflection is needed for us to learn from others and also from ourselves. Learn to criticise ourselves and to accept criticism. This is humility.",
-      "kor": "우리는 알지 못한 채로 죄를 지을 수 있다. 이를 방지하기 위해서는 공부, 명상, 그리고 자기 성찰이 필요하다. 우리는 타인과 자신으로부터 배워야 한다. 스스로를 비판하는 법을 배우고, 비판을 받아들이는 법을 배워야 한다. 이것이 겸손이다."
+      "content": {
+        "eng": "We can sin without knowing. Study, meditation and self reflection is needed for us to learn from others and also from ourselves. Learn to criticise ourselves and to accept criticism. This is humility.",
+        "kor": "우리는 알지 못한 채로 죄를 지을 수 있다. 이를 방지하기 위해서는 공부, 명상, 그리고 자기 성찰이 필요하다. 우리는 타인과 자신으로부터 배워야 한다. 스스로를 비판하는 법을 배우고, 비판을 받아들이는 법을 배워야 한다. 이것이 겸손이다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 24,
-      "eng": "Being objective is to be Holy. To be objective you need a criteria to work against. That criteria is God. Our critical thinking is what will allow us to know what course of action to take. Constantly think about what you should do. That is also a form of prayer.",
-      "kor": "객관적이 된다는 것은 거룩해진다는 것이다. 객관적이 되기 위해서는 기준이 필요하며, 그 기준이 바로 하나님이다. 우리의 비판적 사고는 어떤 행동을 취해야 할지 알게 해주는 도구이다. 끊임없이 무엇을 해야 할지 생각하는 것은 하나의 기도의 형태이기도 하다."
+      "content": {
+        "eng": "Being objective is to be Holy. To be objective you need a criteria to work against. That criteria is God. Our critical thinking is what will allow us to know what course of action to take. Constantly think about what you should do. That is also a form of prayer.",
+        "kor": "객관적이 된다는 것은 거룩해진다는 것이다. 객관적이 되기 위해서는 기준이 필요하며, 그 기준이 바로 하나님이다. 우리의 비판적 사고는 어떤 행동을 취해야 할지 알게 해주는 도구이다. 끊임없이 무엇을 해야 할지 생각하는 것은 하나의 기도의 형태이기도 하다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 25,
-      "eng": "I pray every moment of my life, because how else will I know what God wants me to do? It is a prayer for me because when I determine the best course of action, the best is what God would want. For most people, the best course of action is what's best for them.",
-      "kor": "저는 매 순간 기도합니다. 그렇지 않으면 하나님이 내가 무엇을 하길 원하시는지 어떻게 알겠습니까? 내가 가장 좋은 행동 방침을 결정할 때, 그 ‘가장 좋음’은 하나님이 원하시는 것입니다. 대부분의 사람들에게는 가장 좋은 행동 방침이 그들에게 가장 이익이 되는 것입니다."
+      "content": {
+        "eng": "I pray every moment of my life, because how else will I know what God wants me to do? It is a prayer for me because when I determine the best course of action, the best is what God would want. For most people, the best course of action is what's best for them.",
+        "kor": "저는 매 순간 기도합니다. 그렇지 않으면 하나님이 내가 무엇을 하길 원하시는지 어떻게 알겠습니까? 내가 가장 좋은 행동 방침을 결정할 때, 그 ‘가장 좋음’은 하나님이 원하시는 것입니다. 대부분의 사람들에게는 가장 좋은 행동 방침이 그들에게 가장 이익이 되는 것입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 26,
-      "eng": "God does not act on our prayers. Do not confuse benefits in the world as answers to prayers. Prayer can be a consultation with God to help us focus and listen to the Holy Spirit better. To ask God to do something directly imposes our own desires on God and put an expectation on Him to fulfil. Our belief in God is not dependant on whether he grants our wishes. So asking anything of him is an irrelevant prayer. Trust in Gods guidance and learn to listen to Him well.",
-      "kor": "하나님은 우리의 기도에 따라 직접 행동하시는 것이 아닙니다. 세상에서 얻는 유익을 기도의 응답으로 착각하지 마세요. 기도는 하나님과 상담하는 시간이 될 수 있으며, 우리가 성령의 인도하심에 더 집중하고 귀 기울이도록 돕습니다. 하나님께 무언가를 직접 요구하는 것은 우리의 욕망을 하나님께 강요하고, 그분이 그것을 이루셔야 한다는 기대를 품게 만듭니다. 그러나 우리의 믿음은 하나님이 우리의 소원을 들어주시는지에 달려 있지 않습니다. 그러므로 기도는 하나님께 무엇을 구하는 것이 아니라, 그분의 인도하심을 신뢰하고 잘 듣는 법을 배우는 시간이 되어야 합니다."
+      "content": {
+        "eng": "God does not act on our prayers. Do not confuse benefits in the world as answers to prayers. Prayer can be a consultation with God to help us focus and listen to the Holy Spirit better. To ask God to do something directly imposes our own desires on God and put an expectation on Him to fulfil. Our belief in God is not dependant on whether he grants our wishes. So asking anything of him is an irrelevant prayer. Trust in Gods guidance and learn to listen to Him well.",
+        "kor": "하나님은 우리의 기도에 따라 직접 행동하시는 것이 아닙니다. 세상에서 얻는 유익을 기도의 응답으로 착각하지 마세요. 기도는 하나님과 상담하는 시간이 될 수 있으며, 우리가 성령의 인도하심에 더 집중하고 귀 기울이도록 돕습니다. 하나님께 무언가를 직접 요구하는 것은 우리의 욕망을 하나님께 강요하고, 그분이 그것을 이루셔야 한다는 기대를 품게 만듭니다. 그러나 우리의 믿음은 하나님이 우리의 소원을 들어주시는지에 달려 있지 않습니다. 그러므로 기도는 하나님께 무엇을 구하는 것이 아니라, 그분의 인도하심을 신뢰하고 잘 듣는 법을 배우는 시간이 되어야 합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 27,
-      "eng": "We are all sinners. This is because no one can live an optimal life to their own ideal. For us, this ideal is God. And we fail every day.",
-      "kor": "우리는 모두 죄인이다. 그 이유는 아무도 자신의 이상에 맞춰 완벽한 삶을 살 수 없기 때문이다. 우리에게 그 이상은 하나님이시며, 우리는 매일 그 기준에 미치지 못하고 실패합니다."
+      "content": {
+        "eng": "We are all sinners. This is because no one can live an optimal life to their own ideal. For us, this ideal is God. And we fail every day.",
+        "kor": "우리는 모두 죄인이다. 그 이유는 아무도 자신의 이상에 맞춰 완벽한 삶을 살 수 없기 때문이다. 우리에게 그 이상은 하나님이시며, 우리는 매일 그 기준에 미치지 못하고 실패합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 28,
-      "eng": "To sin is to be subjective. This is to think and act based on personal opinion rather than truth. We should act on truth, which is God, and so be objective. But we are not robots. So we fail.",
-      "kor": "죄를 짓는다는 것은 주관적이 된다는 뜻입니다. 즉, 진리보다는 개인적인 의견에 따라 생각하고 행동하는 것입니다. 우리는 진리, 즉 하나님을 기준으로 행동해야 하며, 그것이 객관적인 행동입니다. 하지만 우리는 로봇이 아니기에 실패할 수밖에 없습니다."
+      "content": {
+        "eng": "To sin is to be subjective. This is to think and act based on personal opinion rather than truth. We should act on truth, which is God, and so be objective. But we are not robots. So we fail.",
+        "kor": "죄를 짓는다는 것은 주관적이 된다는 뜻입니다. 즉, 진리보다는 개인적인 의견에 따라 생각하고 행동하는 것입니다. 우리는 진리, 즉 하나님을 기준으로 행동해야 하며, 그것이 객관적인 행동입니다. 하지만 우리는 로봇이 아니기에 실패할 수밖에 없습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 29,
-      "eng": "Throw away your fleshly desires and give your body up to God. This is to no longer be driven by subjective desires, be driven by objectively chosen actions based on God.",
-      "kor": "육신의 욕망을 버리고 당신의 몸을 하나님께 맡기십시오. 이것은 더 이상 주관적인 욕망에 이끌리지 않고, 하나님을 기준으로 한 객관적으로 선택된 행동에 의해 이끌리는 삶을 사는 것입니다."
+      "content": {
+        "eng": "Throw away your fleshly desires and give your body up to God. This is to no longer be driven by subjective desires, be driven by objectively chosen actions based on God.",
+        "kor": "육신의 욕망을 버리고 당신의 몸을 하나님께 맡기십시오. 이것은 더 이상 주관적인 욕망에 이끌리지 않고, 하나님을 기준으로 한 객관적으로 선택된 행동에 의해 이끌리는 삶을 사는 것입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 30,
-      "eng": "Failure to be perfect is still perfect. It is the attempt at perfection which is perfection. We must acknowledge we are sinners and keep trying for something we can never achieve. This may seem pointless, but this is the whole point. Grasping this is perfection.",
-      "kor": "실패조차도 여전히 완벽입니다. 완벽을 향한 시도가 바로 완벽함이기 때문입니다. 우리는 죄인임을 인정하고, 결코 이룰 수 없는 완벽함을 계속해서 추구해야 합니다. 이것이 무의미하게 보일 수 있지만, 바로 그것이 의미입니다. 그러므로 우리는 완벽할 수 있습니다."
+      "content": {
+        "eng": "Failure to be perfect is still perfect. It is the attempt at perfection which is perfection. We must acknowledge we are sinners and keep trying for something we can never achieve. This may seem pointless, but this is the whole point. Grasping this is perfection.",
+        "kor": "실패조차도 여전히 완벽입니다. 완벽을 향한 시도가 바로 완벽함이기 때문입니다. 우리는 죄인임을 인정하고, 결코 이룰 수 없는 완벽함을 계속해서 추구해야 합니다. 이것이 무의미하게 보일 수 있지만, 바로 그것이 의미입니다. 그러므로 우리는 완벽할 수 있습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 31,
-      "eng": "Idol worship has many meanings. Attaching arbitrary meaning to anything is idol worship. Idols are things that were given arbitrary meaning. Our thoughts and opinions should be based on facts and logically derived from such. Be careful of information you're told to just accept.",
-      "kor": "우상 숭배는 여러 가지 의미를 가지고 있다. 무엇에 임의로 의미를 부여하는 것이 바로 우상 숭배이다. 우상은 임의로 부여된 의미를 가진 것들이다. 우리의 생각과 의견은 사실에 근거하고, 사실로부터 논리적으로 도출되어야 합니다. 그냥 받아들이라고 하는 정보에 대해서는 신중해야 합니다."
+      "content": {
+        "eng": "Idol worship has many meanings. Attaching arbitrary meaning to anything is idol worship. Idols are things that were given arbitrary meaning. Our thoughts and opinions should be based on facts and logically derived from such. Be careful of information you're told to just accept.",
+        "kor": "우상 숭배는 여러 가지 의미를 가지고 있다. 무엇에 임의로 의미를 부여하는 것이 바로 우상 숭배이다. 우상은 임의로 부여된 의미를 가진 것들이다. 우리의 생각과 의견은 사실에 근거하고, 사실로부터 논리적으로 도출되어야 합니다. 그냥 받아들이라고 하는 정보에 대해서는 신중해야 합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 32,
-      "eng": "Jesus is the name given to the Way to God. The Way to God is acknowledging we are sinners and that we should follow God anyway. Jesus shows us this in many ways.",
-      "kor": "예수는 하나님께 이르는 길에 부여된 이름입니다. 하나님께 이르는 길은 우리가 죄인임을 인정하고, 그럼에도 불구하고 하나님을 따라야 한다는 것입니다. 예수님은 우리에게 이 길을 여러 가지 방식으로 보여주셨습니다."
+      "content": {
+        "eng": "Jesus is the name given to the Way to God. The Way to God is acknowledging we are sinners and that we should follow God anyway. Jesus shows us this in many ways.",
+        "kor": "예수는 하나님께 이르는 길에 부여된 이름입니다. 하나님께 이르는 길은 우리가 죄인임을 인정하고, 그럼에도 불구하고 하나님을 따라야 한다는 것입니다. 예수님은 우리에게 이 길을 여러 가지 방식으로 보여주셨습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 33,
-      "eng": "Jesus is the perfect role model. He was so close to God that he was God. He is man and God, so our path to God. Get close to Jesus, and therefore close to God.",
-      "kor": "예수님은 완벽한 롤 모델입니다. 그분은 하나님과 너무 가까워서 곧 하나님이셨습니다. 예수님은 인간이자 하나님이시며, 그래서 우리에게 하나님께 이르는 길이 됩니다. 예수님께 가까이 가는 것은 곧 하나님께 가까이 가는 것입니다."
+      "content": {
+        "eng": "Jesus is the perfect role model. He was so close to God that he was God. He is man and God, so our path to God. Get close to Jesus, and therefore close to God.",
+        "kor": "예수님은 완벽한 롤 모델입니다. 그분은 하나님과 너무 가까워서 곧 하나님이셨습니다. 예수님은 인간이자 하나님이시며, 그래서 우리에게 하나님께 이르는 길이 됩니다. 예수님께 가까이 가는 것은 곧 하나님께 가까이 가는 것입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 34,
-      "eng": "Jesus died bearing all our sins, and came back to life to ascend. This is the redemption process. We must kill our sinful self, not for forgiveness, but so we do not sin again. This is continual growth we must undergo that never ends.",
-      "kor": "예수님은 우리의 모든 죄를 짊어지고 죽으셨으며, 부활하셔서 승천하셨습니다. 이것이 구원의 과정입니다. 우리는 용서를 받기 위해서가 아니라, 다시는 죄를 짓지 않기 위해 우리의 죄 많은 자아를 죽여야 합니다. 이것은 끝나지 않는, 우리가 계속해서 겪어야 하는 끊임없는 성장 과정입니다."
+      "content": {
+        "eng": "Jesus died bearing all our sins, and came back to life to ascend. This is the redemption process. We must kill our sinful self, not for forgiveness, but so we do not sin again. This is continual growth we must undergo that never ends.",
+        "kor": "예수님은 우리의 모든 죄를 짊어지고 죽으셨으며, 부활하셔서 승천하셨습니다. 이것이 구원의 과정입니다. 우리는 용서를 받기 위해서가 아니라, 다시는 죄를 짓지 않기 위해 우리의 죄 많은 자아를 죽여야 합니다. 이것은 끝나지 않는, 우리가 계속해서 겪어야 하는 끊임없는 성장 과정입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 35,
-      "eng": "Our root is God. Our core principle is God. For everything we do, we ask, does it align with God? We study God so we can learn to answer this very question in as many scenarios as possible.",
-      "kor": "우리의 뿌리는 하나님이며, 우리의 핵심 원칙도 하나님입니다. 우리가 하는 모든 일에 대해 \"이것이 하나님과 일치하는가?\"라고 물어야 합니다. 이 질문을 무슨 상황에서 답할 수 있도록, 우리는 하나님을 공부하며 답을 찾는 법을 배웁니다."
+      "content": {
+        "eng": "Our root is God. Our core principle is God. For everything we do, we ask, does it align with God? We study God so we can learn to answer this very question in as many scenarios as possible.",
+        "kor": "우리의 뿌리는 하나님이며, 우리의 핵심 원칙도 하나님입니다. 우리가 하는 모든 일에 대해 \"이것이 하나님과 일치하는가?\"라고 물어야 합니다. 이 질문을 무슨 상황에서 답할 수 있도록, 우리는 하나님을 공부하며 답을 찾는 법을 배웁니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 36,
-      "eng": "The Holy Spirit guides us. This is the conclusion of God applied to us in the world. The thoughts and actions we should have that are aligned with God is the Holy Spirit. Train your subconscious to match with the Holy Spirit.",
-      "kor": "성령께서 우리를 인도하십니다. 이는 하나님이 세상에서 우리에게 적용된 결론입니다. 하나님과 일치하는 우리의 생각과 행동이 바로 성령입니다. 우리의 잠재의식을 성령과 일치하도록 훈련해야 합니다."
+      "content": {
+        "eng": "The Holy Spirit guides us. This is the conclusion of God applied to us in the world. The thoughts and actions we should have that are aligned with God is the Holy Spirit. Train your subconscious to match with the Holy Spirit.",
+        "kor": "성령께서 우리를 인도하십니다. 이는 하나님이 세상에서 우리에게 적용된 결론입니다. 하나님과 일치하는 우리의 생각과 행동이 바로 성령입니다. 우리의 잠재의식을 성령과 일치하도록 훈련해야 합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 37,
-      "eng": "The Jews Holy Spirit are the rules. For Christians, it is within us. The rules are not our criteria. The burden of determining the criteria falls on each of us in our unique situations. With God in our heart and peace in our mind, the Holy Spirit will guide our actions.",
-      "kor": "유대인들에게 성령님은 율법입니다. 하지만 기독교인들에게 성령님은 우리 안에 있습니다. 율법이 우리의 기준이 아니며, 각자의 독특한 상황 속에서 기준을 정하는 책임은 우리 각자에게 있습니다. 마음속에 하나님을 담고, 지혜롭게 생각하면, 성령께서 우리를 인도하실 것입니다."
+      "content": {
+        "eng": "The Jews Holy Spirit are the rules. For Christians, it is within us. The rules are not our criteria. The burden of determining the criteria falls on each of us in our unique situations. With God in our heart and peace in our mind, the Holy Spirit will guide our actions.",
+        "kor": "유대인들에게 성령님은 율법입니다. 하지만 기독교인들에게 성령님은 우리 안에 있습니다. 율법이 우리의 기준이 아니며, 각자의 독특한 상황 속에서 기준을 정하는 책임은 우리 각자에게 있습니다. 마음속에 하나님을 담고, 지혜롭게 생각하면, 성령께서 우리를 인도하실 것입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 38,
-      "eng": "It is impossible to determine someone's intent. We can only guess from their actions and words. Our intent is always to follow God. But money, fame and other intentions may come through. Only God and I know our intent. Be sure to watch yourself. Do not corrupt your intent.",
-      "kor": "누군가의 의도를 정확히 파악하는 것은 불가능한다. 행동과 말로부터 추측할 수 있을 뿐이다. 우리의 의도는 항상 하나님을 따르는 것이어야 하지만, 돈, 명성, 그리고 다른 욕망들이 섞여들어올 수 있다. 스스로를 주의 깊게 살피고, 우리의 의도가 타락하지 않도록 경계하십시오."
+      "content": {
+        "eng": "It is impossible to determine someone's intent. We can only guess from their actions and words. Our intent is always to follow God. But money, fame and other intentions may come through. Only God and I know our intent. Be sure to watch yourself. Do not corrupt your intent.",
+        "kor": "누군가의 의도를 정확히 파악하는 것은 불가능한다. 행동과 말로부터 추측할 수 있을 뿐이다. 우리의 의도는 항상 하나님을 따르는 것이어야 하지만, 돈, 명성, 그리고 다른 욕망들이 섞여들어올 수 있다. 스스로를 주의 깊게 살피고, 우리의 의도가 타락하지 않도록 경계하십시오."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 39,
-      "eng": "People rely on gut feeling and their conscience to tell what is right and wrong. This may be right often, but it is impossible to establish truth based on it. Different people will have a different conscience. I feel this way is a valid statement, but not a valid argument.",
-      "kor": "사람들은 직감과 양심에 의존하여 옳고 그름을 판단합니다. 이것이 종종 맞을 수 있지만, 이를 바탕으로 진리를 확립하는 것은 불가능합니다. 사람마다 양심이 다르기 때문입니다. \"나는 이렇게 느낀다\"는 유효한 진술일 수 있지만, 타당한 논증은 아닙니다."
+      "content": {
+        "eng": "People rely on gut feeling and their conscience to tell what is right and wrong. This may be right often, but it is impossible to establish truth based on it. Different people will have a different conscience. I feel this way is a valid statement, but not a valid argument.",
+        "kor": "사람들은 직감과 양심에 의존하여 옳고 그름을 판단합니다. 이것이 종종 맞을 수 있지만, 이를 바탕으로 진리를 확립하는 것은 불가능합니다. 사람마다 양심이 다르기 때문입니다. \"나는 이렇게 느낀다\"는 유효한 진술일 수 있지만, 타당한 논증은 아닙니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 40,
-      "eng": "God does not speak. God does not have vocal organs, nor does he create soundwaves. His word is the expression of his will. Will here is the conversion of what God is, acting in our world. God's Will is a difficult subject.",
-      "kor": "하나님은 말씀하지 않으십니다. 하나님께는 성대가 없고, 소리를 만들지 않으십니다. 하나님의 말씀은 그분의 뜻을 표현한 것입니다. 여기서 '뜻'은 하나님 자신이 우리 세상에서 작용하는 방식으로 변환된 것입니다. 하나님의 뜻은 이해하기 어려운 주제입니다."
+      "content": {
+        "eng": "God does not speak. God does not have vocal organs, nor does he create soundwaves. His word is the expression of his will. Will here is the conversion of what God is, acting in our world. God's Will is a difficult subject.",
+        "kor": "하나님은 말씀하지 않으십니다. 하나님께는 성대가 없고, 소리를 만들지 않으십니다. 하나님의 말씀은 그분의 뜻을 표현한 것입니다. 여기서 '뜻'은 하나님 자신이 우리 세상에서 작용하는 방식으로 변환된 것입니다. 하나님의 뜻은 이해하기 어려운 주제입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 41,
-      "eng": "Jesus is the manifestation of God's grace. Jesus shows grace and mercy throughout his life. He is willing to accept anyone who will follow him wholeheartedly. No matter who they were before. We all have the invitation, accept it wholeheartedly.",
-      "kor": "예수님은 하나님의 은혜의 현현입니다. 예수님은 그의 삶을 통해 은혜와 자비를 보여주셨습니다. 그는 과거가 어떠했든 진심으로 그를 따르려는 모든 사람을 기꺼이 받아들이십니다. 우리 모두에게 그 초대가 주어졌으며, 진심으로 받아들이십시오."
+      "content": {
+        "eng": "Jesus is the manifestation of God's grace. Jesus shows grace and mercy throughout his life. He is willing to accept anyone who will follow him wholeheartedly. No matter who they were before. We all have the invitation, accept it wholeheartedly.",
+        "kor": "예수님은 하나님의 은혜의 현현입니다. 예수님은 그의 삶을 통해 은혜와 자비를 보여주셨습니다. 그는 과거가 어떠했든 진심으로 그를 따르려는 모든 사람을 기꺼이 받아들이십니다. 우리 모두에게 그 초대가 주어졌으며, 진심으로 받아들이십시오."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 42,
-      "eng": "The Trinity is simple. The Father is the principle. Jesus is the grace that allows us to follow God. The Holy Spirit is our actions in reality. They are all different as described. But they are all God.",
-      "kor": "삼위일체는 간단합니다. 성부는 원칙이시고, 예수님은 우리가 하나님을 따를 수 있게 해주는 은혜입니다. 성령은 현실에서의 우리의 행동입니다. 이들은 각기 다르게 설명되지만, 모두 하나님이십니다."
+      "content": {
+        "eng": "The Trinity is simple. The Father is the principle. Jesus is the grace that allows us to follow God. The Holy Spirit is our actions in reality. They are all different as described. But they are all God.",
+        "kor": "삼위일체는 간단합니다. 성부는 원칙이시고, 예수님은 우리가 하나님을 따를 수 있게 해주는 은혜입니다. 성령은 현실에서의 우리의 행동입니다. 이들은 각기 다르게 설명되지만, 모두 하나님이십니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 43,
-      "eng": "God loves us unconditionally. He will accept us no matter who we are or what we do. Do you love God unconditionally? Are you willing to follow him, no matter how much you suffer? Our love of God is not conditional on a good time. God is more important than a good time.",
-      "kor": "하나님은 우리를 조건 없이 사랑하십니다. 우리가 누구이든, 무엇을 하든 하나님은 우리를 받아들이십니다. 그렇다면 당신은 하나님을 조건 없이 사랑하십니까? 아무리 고통을 겪더라도 하나님을 따를 준비가 되어 있습니까? 하나님을 사랑하는 것은 모든 일이 잘 풀릴 때에만 해당되는 것이 아니다."
+      "content": {
+        "eng": "God loves us unconditionally. He will accept us no matter who we are or what we do. Do you love God unconditionally? Are you willing to follow him, no matter how much you suffer? Our love of God is not conditional on a good time. God is more important than a good time.",
+        "kor": "하나님은 우리를 조건 없이 사랑하십니다. 우리가 누구이든, 무엇을 하든 하나님은 우리를 받아들이십니다. 그렇다면 당신은 하나님을 조건 없이 사랑하십니까? 아무리 고통을 겪더라도 하나님을 따를 준비가 되어 있습니까? 하나님을 사랑하는 것은 모든 일이 잘 풀릴 때에만 해당되는 것이 아니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 44,
-      "eng": "Loving God is following God. The commitment we chose to make. God doesn't care or want your empty praise, singing, or worship. He cares about your commitment to follow him no matter what. That all you do is in his name.",
-      "kor": "하나님을 사랑하는 것은 하나님께 헌신하는 것이다. 사랑은 곧 헌신이기 때문이다. 하나님은 우리의 공허한 찬양이나 노래, 예배에 관심이 없으시다. 그분이 원하시는 것은 우리가 어떤 상황에서도 하나님을 따르겠다는 헌신입니다. 우리의 모든 행동이 하나님의 이름 안에서 이루어지기를 바라십니다."
+      "content": {
+        "eng": "Loving God is following God. The commitment we chose to make. God doesn't care or want your empty praise, singing, or worship. He cares about your commitment to follow him no matter what. That all you do is in his name.",
+        "kor": "하나님을 사랑하는 것은 하나님께 헌신하는 것이다. 사랑은 곧 헌신이기 때문이다. 하나님은 우리의 공허한 찬양이나 노래, 예배에 관심이 없으시다. 그분이 원하시는 것은 우리가 어떤 상황에서도 하나님을 따르겠다는 헌신입니다. 우리의 모든 행동이 하나님의 이름 안에서 이루어지기를 바라십니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 45,
-      "eng": "The Bible is a book containing Truth. It contains the premise, logical derivations, and conclusions. All in seemingly random order, all converted into stories. Picking out what leads to what and which parts are more important than others is hard.",
-      "kor": "성경은 진리를 담고 있는 책입니다. 그 안에는 전제, 논리적 추론, 그리고 결론이 담겨 있습니다. 이 모든 것이 겉으로는 무작위 순서로 배열되어 있으며, 이야기로 변환되어 있습니다. 무엇이 무엇으로 이어지는지, 어떤 부분이 다른 부분보다 중요한지 구별하는 것은 매우 어렵습니다."
+      "content": {
+        "eng": "The Bible is a book containing Truth. It contains the premise, logical derivations, and conclusions. All in seemingly random order, all converted into stories. Picking out what leads to what and which parts are more important than others is hard.",
+        "kor": "성경은 진리를 담고 있는 책입니다. 그 안에는 전제, 논리적 추론, 그리고 결론이 담겨 있습니다. 이 모든 것이 겉으로는 무작위 순서로 배열되어 있으며, 이야기로 변환되어 있습니다. 무엇이 무엇으로 이어지는지, 어떤 부분이 다른 부분보다 중요한지 구별하는 것은 매우 어렵습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 46,
-      "eng": "There is no such thing as good or bad results. Whatever happens happens. Our priority is whether we are following God, not seeking a specific result. You do everything right and the result does not matter.",
-      "kor": "일이 잘되든 못되든 상관없습니다. 무엇이 일어나든, 그저 일어나는 것입니다. 우리의 우선순위는 어떤 결과를 추구하는 것이 아니라, 우리가 하나님을 따르고 있는가에 있습니다. 우리가 모든 것을 올바르게 했을 때, 그 결과는 중요하지 않습니다."
+      "content": {
+        "eng": "There is no such thing as good or bad results. Whatever happens happens. Our priority is whether we are following God, not seeking a specific result. You do everything right and the result does not matter.",
+        "kor": "일이 잘되든 못되든 상관없습니다. 무엇이 일어나든, 그저 일어나는 것입니다. 우리의 우선순위는 어떤 결과를 추구하는 것이 아니라, 우리가 하나님을 따르고 있는가에 있습니다. 우리가 모든 것을 올바르게 했을 때, 그 결과는 중요하지 않습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 47,
-      "eng": "The criteria for good and bad is not \"what is best for us\". The criteria is, \"what is Godly and not Godly\". This criteria means nothing to our situations. All situations are equal. It is our actions we measure to the criteria. Good luck everyone.",
-      "kor": "좋고 나쁨의 기준은 \"우리에게 가장 좋은 것\"이 아닙니다. 그 기준은 \"하나님께 합당한가, 합당하지 않은가\"입니다. 이 기준은 우리의 상황과는 상관이 없습니다. 모든 상황은 동등하며, 우리가 평가해야 할 것은 그 상황에서 우리가 한 행동입니다. 다들 잘하기를 바라며, 파이팅!"
+      "content": {
+        "eng": "The criteria for good and bad is not \"what is best for us\". The criteria is, \"what is Godly and not Godly\". This criteria means nothing to our situations. All situations are equal. It is our actions we measure to the criteria. Good luck everyone.",
+        "kor": "좋고 나쁨의 기준은 \"우리에게 가장 좋은 것\"이 아닙니다. 그 기준은 \"하나님께 합당한가, 합당하지 않은가\"입니다. 이 기준은 우리의 상황과는 상관이 없습니다. 모든 상황은 동등하며, 우리가 평가해야 할 것은 그 상황에서 우리가 한 행동입니다. 다들 잘하기를 바라며, 파이팅!"
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 48,
-      "eng": "For every action we do, there are 3 dimensions to consider.",
-      "kor": ""
+      "content": {
+        "eng": "For every action we do, there are 3 dimensions to consider.",
+        "kor": ""
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 49,
-      "eng": "In terms of existence, my best attempt to explain God is Maths. Pure maths has no physical form nor force nor energy, but it has a definite influence on the entire universe. The maths says xyz. Maths is objective. Maths is true. So is God.",
-      "kor": "존재의 관점에서 하나님을 설명하려는 나의 최선의 시도는 수학입니다. 순수 수학은 물리적 형태도, 힘도, 에너지도 없지만, 우주 전체에 분명한 영향을 미칩니다. 수학은 우리한테 말할 수 있고. 수학은 객관적이고. 수학은 진리입니다. 하나님도 그렇습니다."
+      "content": {
+        "eng": "In terms of existence, my best attempt to explain God is Maths. Pure maths has no physical form nor force nor energy, but it has a definite influence on the entire universe. The maths says xyz. Maths is objective. Maths is true. So is God.",
+        "kor": "존재의 관점에서 하나님을 설명하려는 나의 최선의 시도는 수학입니다. 순수 수학은 물리적 형태도, 힘도, 에너지도 없지만, 우주 전체에 분명한 영향을 미칩니다. 수학은 우리한테 말할 수 있고. 수학은 객관적이고. 수학은 진리입니다. 하나님도 그렇습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 50,
-      "eng": "God has a personal relationship with every single one of you. Because every person is different, in a different situation, and with a different level of belief/ understanding. The same God applied to each person can appear different. The better you can apply God the more personal he is.",
-      "kor": "하나님은 모든 사람과 개인적인 관계를 맺고 계십니다. 각 사람은 상황도 다르고, 믿음과 이해의 수준도 다르기 때문에, 같은 하나님이라도 사람마다 다르게 느껴질 수 있습니다. 하나님을 더 깊이 적용할수록, 하나님은 더욱 개인적으로 다가오십니다."
+      "content": {
+        "eng": "God has a personal relationship with every single one of you. Because every person is different, in a different situation, and with a different level of belief/ understanding. The same God applied to each person can appear different. The better you can apply God the more personal he is.",
+        "kor": "하나님은 모든 사람과 개인적인 관계를 맺고 계십니다. 각 사람은 상황도 다르고, 믿음과 이해의 수준도 다르기 때문에, 같은 하나님이라도 사람마다 다르게 느껴질 수 있습니다. 하나님을 더 깊이 적용할수록, 하나님은 더욱 개인적으로 다가오십니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 51,
-      "eng": "When you create media based on reality, many interpretations are possible, some of which the creators did not intend. All of which can be true. The creator may have some idea of what he creates, but they leave it to reality for the true meanings to come out.",
-      "kor": "현실을 바탕으로 미디어를 창작할 때, 다양한 해석이 가능합니다. 그 중 많은 해석은 창작자가 의도하지 않은 것일 수 있지만, 모두가 진실일 수 있습니다. 창작자는 자신의 작품에 대한 생각을 가지고 있을지 몰라도, 진정한 의미는 현실 속에서 드러나게 됩니다."
+      "content": {
+        "eng": "When you create media based on reality, many interpretations are possible, some of which the creators did not intend. All of which can be true. The creator may have some idea of what he creates, but they leave it to reality for the true meanings to come out.",
+        "kor": "현실을 바탕으로 미디어를 창작할 때, 다양한 해석이 가능합니다. 그 중 많은 해석은 창작자가 의도하지 않은 것일 수 있지만, 모두가 진실일 수 있습니다. 창작자는 자신의 작품에 대한 생각을 가지고 있을지 몰라도, 진정한 의미는 현실 속에서 드러나게 됩니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 52,
-      "eng": "The Bible has stories. Stories are based on Reality. Reality has reflections of God. The Bible was especially compiled with the best known stories that reflect God the most. That is why the Bible is written with God's breath.",
-      "kor": "성경에는 이야기들이 있습니다. 이야기들은 현실을 바탕으로 합니다. 현실에는 하나님의 반영이 담겨 있습니다. 성경은 특히 하나님을 가장 잘 반영하는 것으로 알려진 이야기들로 구성되었습니다. 그래서 성경은 하나님의 숨결로 쓰여졌다고 합니다."
+      "content": {
+        "eng": "The Bible has stories. Stories are based on Reality. Reality has reflections of God. The Bible was especially compiled with the best known stories that reflect God the most. That is why the Bible is written with God's breath.",
+        "kor": "성경에는 이야기들이 있습니다. 이야기들은 현실을 바탕으로 합니다. 현실에는 하나님의 반영이 담겨 있습니다. 성경은 특히 하나님을 가장 잘 반영하는 것으로 알려진 이야기들로 구성되었습니다. 그래서 성경은 하나님의 숨결로 쓰여졌다고 합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 53,
-      "eng": "Writing out derivations gives exact interpretations. But it limits the information conveyed to only what I know. Writing reality is as true as it can get. Open to interpretation means many truths can be derived. It is also more engaging. That's why the Bible has many stories.",
-      "kor": "유도 과정을 글로 쓰면 정확한 해석을 제공합니다. 하지만 내가 아는 정보에만 한정됩니다. 현실을 글로 쓰는 것은 최대한 진실에 가깝습니다. 해석의 여지는 여러 진리가 도출될 수 있음을 뜻하며, 더 흥미롭습니다. 그래서 성경에 많은 이야기가 있는 것입니다."
+      "content": {
+        "eng": "Writing out derivations gives exact interpretations. But it limits the information conveyed to only what I know. Writing reality is as true as it can get. Open to interpretation means many truths can be derived. It is also more engaging. That's why the Bible has many stories.",
+        "kor": "유도 과정을 글로 쓰면 정확한 해석을 제공합니다. 하지만 내가 아는 정보에만 한정됩니다. 현실을 글로 쓰는 것은 최대한 진실에 가깝습니다. 해석의 여지는 여러 진리가 도출될 수 있음을 뜻하며, 더 흥미롭습니다. 그래서 성경에 많은 이야기가 있는 것입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 54,
-      "eng": "Throw yourself away and fill this empty vessel with the waters of God. You are a physical manifestation with unique talents, to be used in the execution of God's will. Don't let anything else determine your actions.",
-      "kor": "자신을 버리고 이 빈 그릇을 하나님의 물로 채우세요. 당신은 하나님의 뜻을 실행하기 위해 주어진 특별한 재능을 가진 물리적 존재입니다. 그 외의 어떤 것도 당신의 행동을 결정하지 못하게 하세요."
+      "content": {
+        "eng": "Throw yourself away and fill this empty vessel with the waters of God. You are a physical manifestation with unique talents, to be used in the execution of God's will. Don't let anything else determine your actions.",
+        "kor": "자신을 버리고 이 빈 그릇을 하나님의 물로 채우세요. 당신은 하나님의 뜻을 실행하기 위해 주어진 특별한 재능을 가진 물리적 존재입니다. 그 외의 어떤 것도 당신의 행동을 결정하지 못하게 하세요."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 55,
-      "eng": "I strive to be no one. No ego, no self. Just our flesh and talents that we move according to the will of God. Allow ourselves to be God’s vessel on Earth and be a part of Heaven on Earth.",
-      "kor": "나는 아무도 아니다. 자아도, 자신도 없습니다. 오직 우리의 육체와 재능을 하나님의 뜻에 따라 움직입니다. 우리 자신을 하나님의 도구로 내어드려, 이 땅에서 하늘의 일부가 되길 원합니다."
+      "content": {
+        "eng": "I strive to be no one. No ego, no self. Just our flesh and talents that we move according to the will of God. Allow ourselves to be God’s vessel on Earth and be a part of Heaven on Earth.",
+        "kor": "나는 아무도 아니다. 자아도, 자신도 없습니다. 오직 우리의 육체와 재능을 하나님의 뜻에 따라 움직입니다. 우리 자신을 하나님의 도구로 내어드려, 이 땅에서 하늘의 일부가 되길 원합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 56,
-      "eng": "Religion is closer to philosophy than science. But it only has answers as the questions have been lost to time. Relies on tradition to keep future generations in alignment with God. To understand God, you must understand the role of Religion, and step beyond the known surface.",
-      "kor": "종교는 과학보다 철학에 가깝습니다. 그러나 시간이 지나면서 질문은 잃어버리고, 답만 남았습니다. 전통에 의존해 미래 세대가 하나님과의 관계를 유지하도록 합니다. 하나님을 이해하려면, 종교의 역할을 이해하고 알려진 표면을 넘어서는 것이 필요합니다."
+      "content": {
+        "eng": "Religion is closer to philosophy than science. But it only has answers as the questions have been lost to time. Relies on tradition to keep future generations in alignment with God. To understand God, you must understand the role of Religion, and step beyond the known surface.",
+        "kor": "종교는 과학보다 철학에 가깝습니다. 그러나 시간이 지나면서 질문은 잃어버리고, 답만 남았습니다. 전통에 의존해 미래 세대가 하나님과의 관계를 유지하도록 합니다. 하나님을 이해하려면, 종교의 역할을 이해하고 알려진 표면을 넘어서는 것이 필요합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 57,
-      "eng": "Philosophy deals with the nature of truth and morality. Science does not. Religion engages with morality and defines Truth. These Truths are abstracted into stories or parables, making moral lessons easier to grasp, but seeing the Truth may require further reflection.",
-      "kor": "철학은 진리와 도덕의 본질을 다룹니다. 과학은 그렇지 않습니다. 종교는 도덕과 진리를 다루며, 이 진리들은 이야기나 비유로 추상화되어 도덕적 교훈을 쉽게 이해할 수 있게 합니다. 그러나 진리를 제대로 이해하려면 더 깊은 성찰이 필요할 수 있습니다."
+      "content": {
+        "eng": "Philosophy deals with the nature of truth and morality. Science does not. Religion engages with morality and defines Truth. These Truths are abstracted into stories or parables, making moral lessons easier to grasp, but seeing the Truth may require further reflection.",
+        "kor": "철학은 진리와 도덕의 본질을 다룹니다. 과학은 그렇지 않습니다. 종교는 도덕과 진리를 다루며, 이 진리들은 이야기나 비유로 추상화되어 도덕적 교훈을 쉽게 이해할 수 있게 합니다. 그러나 진리를 제대로 이해하려면 더 깊은 성찰이 필요할 수 있습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 58,
-      "eng": "Everything we do is about doing the right thing right now. This principle applies everywhere, always. Sometimes this can turn out badly. But that doesn't matter, as success is measured by how often we do right, not by outcomes. Let us all be crucified for doing what's right.",
-      "kor": "우리가 하는 모든 일은 지금 이 순간 올바른 일을 하는 것에 달려 있습니다. 이 원칙은 언제 어디서나 적용됩니다. 때로는 결과가 좋지 않을 수 있지만, 중요한 것은 결과가 아니라 얼마나 자주 올바르게 행동하느냐입니다. 우리 모두 옳은 일을 위해 십자가를 질 준비가 되어 있어야 합니다."
+      "content": {
+        "eng": "Everything we do is about doing the right thing right now. This principle applies everywhere, always. Sometimes this can turn out badly. But that doesn't matter, as success is measured by how often we do right, not by outcomes. Let us all be crucified for doing what's right.",
+        "kor": "우리가 하는 모든 일은 지금 이 순간 올바른 일을 하는 것에 달려 있습니다. 이 원칙은 언제 어디서나 적용됩니다. 때로는 결과가 좋지 않을 수 있지만, 중요한 것은 결과가 아니라 얼마나 자주 올바르게 행동하느냐입니다. 우리 모두 옳은 일을 위해 십자가를 질 준비가 되어 있어야 합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 59,
-      "eng": "Human rights are a way to view morality. Biblically, people don't have rights, but obligations to not treat others badly. We don't love others because of their rights, we love them because it is our duty to love.",
-      "kor": "인권은 도덕을 바라보는 하나의 관점입니다. 그러나 성경적으로 보면, 사람에게는 ‘권리’가 아니라, 타인을 함부로 대하지 않을 ‘책임’이 있습니다. 우리는 다른 사람을 그들의 권리 때문이 아니라, 사랑해야 할 의무가 있기 때문에 사랑합니다."
+      "content": {
+        "eng": "Human rights are a way to view morality. Biblically, people don't have rights, but obligations to not treat others badly. We don't love others because of their rights, we love them because it is our duty to love.",
+        "kor": "인권은 도덕을 바라보는 하나의 관점입니다. 그러나 성경적으로 보면, 사람에게는 ‘권리’가 아니라, 타인을 함부로 대하지 않을 ‘책임’이 있습니다. 우리는 다른 사람을 그들의 권리 때문이 아니라, 사랑해야 할 의무가 있기 때문에 사랑합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 60,
-      "eng": "There is no such thing as hardship. All circumstances are equal. It is your own subjective feeling which thinks some are harder than others. In reality, it is always possible to follow God, so it is always possible to do the right thing. Do not let difficulty be a factor to sway us.",
-      "kor": "고난이라는 것은 없습니다. 모든 상황은 동등합니다. 어떤 상황이 더 어렵다고 느끼는 것은 당신의 주관적 감정일 뿐입니다. 현실은 언제나 하나님을 따를 수 있다는 것이며, 따라서 언제나 올바른 일을 할 수 있습니다. 어려움이 우리의 결정을 흔들도록 두지 마세요."
+      "content": {
+        "eng": "There is no such thing as hardship. All circumstances are equal. It is your own subjective feeling which thinks some are harder than others. In reality, it is always possible to follow God, so it is always possible to do the right thing. Do not let difficulty be a factor to sway us.",
+        "kor": "고난이라는 것은 없습니다. 모든 상황은 동등합니다. 어떤 상황이 더 어렵다고 느끼는 것은 당신의 주관적 감정일 뿐입니다. 현실은 언제나 하나님을 따를 수 있다는 것이며, 따라서 언제나 올바른 일을 할 수 있습니다. 어려움이 우리의 결정을 흔들도록 두지 마세요."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 61,
-      "eng": "Living is suffering. Even if not for you, it may be for someone else. Feel the suffering of the world to empathize with others who suffer. We push through this hardship with the power from God, as God is always there to guide us. Trust in God and all hardships can be traversed.",
-      "kor": "사는 것은 고난입니다. 비록 당신에게 해당되지 않더라도, 다른 누군가에게는 그럴 수 있습니다. 세상의 고통을 느끼며 고통받는 이들과 공감하세요. 우리는 하나님의 힘으로 이 고난을 이겨냅니다. 하나님은 항상 우리를 인도하시기 때문입니다. 하나님을 신뢰하면 모든 고난을 극복할 수 있습니다."
+      "content": {
+        "eng": "Living is suffering. Even if not for you, it may be for someone else. Feel the suffering of the world to empathize with others who suffer. We push through this hardship with the power from God, as God is always there to guide us. Trust in God and all hardships can be traversed.",
+        "kor": "사는 것은 고난입니다. 비록 당신에게 해당되지 않더라도, 다른 누군가에게는 그럴 수 있습니다. 세상의 고통을 느끼며 고통받는 이들과 공감하세요. 우리는 하나님의 힘으로 이 고난을 이겨냅니다. 하나님은 항상 우리를 인도하시기 때문입니다. 하나님을 신뢰하면 모든 고난을 극복할 수 있습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 62,
-      "eng": "All models are false. Some are helpful. The Bible is a model of God. History is a model of God. Nature is a model of God. Our life is a model of God. All not God, but still helpful in understanding him.",
-      "kor": "모든 모델은 틀렸습니다. 하지만 도움이 될 수 있습니다. 성경은 하나님의 모델입니다. 역사는 하나님의 모델입니다. 자연은 하나님의 모델입니다. 우리의 삶도 하나님의 모델입니다. 이들은 모두 하나님 그 자체는 아니며, 완전히 옳지 않지만 하나님을 이해하는 데 여전히 유용합니다."
+      "content": {
+        "eng": "All models are false. Some are helpful. The Bible is a model of God. History is a model of God. Nature is a model of God. Our life is a model of God. All not God, but still helpful in understanding him.",
+        "kor": "모든 모델은 틀렸습니다. 하지만 도움이 될 수 있습니다. 성경은 하나님의 모델입니다. 역사는 하나님의 모델입니다. 자연은 하나님의 모델입니다. 우리의 삶도 하나님의 모델입니다. 이들은 모두 하나님 그 자체는 아니며, 완전히 옳지 않지만 하나님을 이해하는 데 여전히 유용합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 63,
-      "eng": "Stages of Mental fortitude.",
-      "kor": ""
+      "content": {
+        "eng": "Stages of Mental fortitude.",
+        "kor": ""
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 64,
-      "eng": "Stages of closeness with God",
-      "kor": ""
+      "content": {
+        "eng": "Stages of closeness with God",
+        "kor": ""
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 65,
-      "eng": "Once we set God as most important, it is not out of the question for us to do whatever it takes to follow God. With the correct criteria and thinking, we can trust the decisions we make. But knowing is not the same as believing. So we fake it till we make it.",
-      "kor": "우리가 하나님을 가장 중요하게 여기게 되면, 하나님을 따르기 위해 무엇이든 할 수 있다는 것은 당연한 일입니다. 올바른 기준과 생각을 가지고 있다면, 우리가 내리는 결정을 신뢰할 수 있습니다. 그러나 아는 것과 믿는 것은 다릅니다. 그래서 우리는 이루기까지 믿는 척하며 나아갑니다."
+      "content": {
+        "eng": "Once we set God as most important, it is not out of the question for us to do whatever it takes to follow God. With the correct criteria and thinking, we can trust the decisions we make. But knowing is not the same as believing. So we fake it till we make it.",
+        "kor": "우리가 하나님을 가장 중요하게 여기게 되면, 하나님을 따르기 위해 무엇이든 할 수 있다는 것은 당연한 일입니다. 올바른 기준과 생각을 가지고 있다면, 우리가 내리는 결정을 신뢰할 수 있습니다. 그러나 아는 것과 믿는 것은 다릅니다. 그래서 우리는 이루기까지 믿는 척하며 나아갑니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 66,
-      "eng": "When we know the right thing to do, sometimes we don't want to do it. It initially takes willpower to overcome. Understand that the point is not to improve your willpower. It is to learn to want to do it. It is what God wants, therefore what you want. Nothing else matters.",
-      "kor": "옳은 일을 알면서도 때로는 하고 싶지 않을 때가 있습니다. 처음에는 의지로 극복해야 할 때도 있습니다. 하지만 중요한 것은 의지를 강화하는 것이 아니라, 그 일을 하고 싶어지는 법을 배우는 것입니다. 그것이 하나님의 뜻이기에, 곧 당신의 뜻이 됩니다. 다른 것은 중요하지 않습니다."
+      "content": {
+        "eng": "When we know the right thing to do, sometimes we don't want to do it. It initially takes willpower to overcome. Understand that the point is not to improve your willpower. It is to learn to want to do it. It is what God wants, therefore what you want. Nothing else matters.",
+        "kor": "옳은 일을 알면서도 때로는 하고 싶지 않을 때가 있습니다. 처음에는 의지로 극복해야 할 때도 있습니다. 하지만 중요한 것은 의지를 강화하는 것이 아니라, 그 일을 하고 싶어지는 법을 배우는 것입니다. 그것이 하나님의 뜻이기에, 곧 당신의 뜻이 됩니다. 다른 것은 중요하지 않습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 67,
-      "eng": "Intuitively, we have a sense of right and wrong. This is not a suitable foundation for understanding God as 2 peoples intuition can be different to each other. It needs to be rationalized, argued and criticised to be confirmed as correct. It is still a reliable indicator.",
-      "kor": "직관적으로 우리는 옳고 그름에 대한 감각을 가지고 있습니다. 하지만 두 사람의 직관이 서로 다를 수 있기 때문에, 하나님을 이해하는 데에 적합할 수 없습니다. 올바른 것을 확인하려면 이성을 바탕으로 논의하고 비판해야 합니다. 그럼에도 직관은 여전히 유용한 참고점이 될 수 있습니다."
+      "content": {
+        "eng": "Intuitively, we have a sense of right and wrong. This is not a suitable foundation for understanding God as 2 peoples intuition can be different to each other. It needs to be rationalized, argued and criticised to be confirmed as correct. It is still a reliable indicator.",
+        "kor": "직관적으로 우리는 옳고 그름에 대한 감각을 가지고 있습니다. 하지만 두 사람의 직관이 서로 다를 수 있기 때문에, 하나님을 이해하는 데에 적합할 수 없습니다. 올바른 것을 확인하려면 이성을 바탕으로 논의하고 비판해야 합니다. 그럼에도 직관은 여전히 유용한 참고점이 될 수 있습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 68,
-      "eng": "We can train our subconscious, intuition and instincts by training our conscious state. Following God mindfully and constantly seeps into our subconscious. We can have a more accurate sense of the right thing in urgent situations, and also when we aren't paying attention.",
-      "kor": "우리의 의식적인 상태를 훈련함으로써 잠재의식, 직관, 그리고 본능을 훈련할 수 있습니다. 하나님을 의식적으로 따르는 것이 우리의 잠재의식에 스며들게 됩니다. 이를 통해 긴급한 상황이나 주의를 기울이지 않을 때에도 옳은 일을 더 정확하게 인식할 수 있게 됩니다."
+      "content": {
+        "eng": "We can train our subconscious, intuition and instincts by training our conscious state. Following God mindfully and constantly seeps into our subconscious. We can have a more accurate sense of the right thing in urgent situations, and also when we aren't paying attention.",
+        "kor": "우리의 의식적인 상태를 훈련함으로써 잠재의식, 직관, 그리고 본능을 훈련할 수 있습니다. 하나님을 의식적으로 따르는 것이 우리의 잠재의식에 스며들게 됩니다. 이를 통해 긴급한 상황이나 주의를 기울이지 않을 때에도 옳은 일을 더 정확하게 인식할 수 있게 됩니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 69,
-      "eng": "Our emotional state is something we can take advantage of. Once we know what to do, we need to do it. Find the joy, the dopamine, the sense of achievement from doing the right thing. Let it fuel you to keep going. It is not the reason we do it, but makes it easier.",
-      "kor": "우리의 감정 상태는 우리가 활용할 수 있는 것입니다. 무엇을 해야 할지 알게 되면, 그것을 실행해야 합니다. 옳은 일을 함으로써 기쁨, 도파민, 성취감을 찾으세요. 그것이 당신을 계속 나아가게 하는 원동력이 될 수 있습니다. 우리가 옳은 일을 하는 이유는 아니지만, 과정을 더 쉽게 만듭니다."
+      "content": {
+        "eng": "Our emotional state is something we can take advantage of. Once we know what to do, we need to do it. Find the joy, the dopamine, the sense of achievement from doing the right thing. Let it fuel you to keep going. It is not the reason we do it, but makes it easier.",
+        "kor": "우리의 감정 상태는 우리가 활용할 수 있는 것입니다. 무엇을 해야 할지 알게 되면, 그것을 실행해야 합니다. 옳은 일을 함으로써 기쁨, 도파민, 성취감을 찾으세요. 그것이 당신을 계속 나아가게 하는 원동력이 될 수 있습니다. 우리가 옳은 일을 하는 이유는 아니지만, 과정을 더 쉽게 만듭니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 70,
-      "eng": "Nothing matters except for our duty. All factors are irrelevant to you. No one can stop you. Not even yourself. By treating everything as irrelevant, we can dismiss all factors stopping us. Nothing outweighs the importance of God's duty.",
-      "kor": "우리의 의무 외에는 아무것도 중요하지 않습니다. 모든 요소는 당신에게 무의미합니다. 아무도 당신을 막을 수 없습니다. 심지어 당신 자신조차도. 모든 것을 무관하게 여기면, 우리를 막는 모든 요소를 무시할 수 있습니다. 하나님의 의무보다 중요한 것은 없습니다."
+      "content": {
+        "eng": "Nothing matters except for our duty. All factors are irrelevant to you. No one can stop you. Not even yourself. By treating everything as irrelevant, we can dismiss all factors stopping us. Nothing outweighs the importance of God's duty.",
+        "kor": "우리의 의무 외에는 아무것도 중요하지 않습니다. 모든 요소는 당신에게 무의미합니다. 아무도 당신을 막을 수 없습니다. 심지어 당신 자신조차도. 모든 것을 무관하게 여기면, 우리를 막는 모든 요소를 무시할 수 있습니다. 하나님의 의무보다 중요한 것은 없습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 71,
-      "eng": "Nothing matters except for our duty. This is easier when we know our duty is possible to do. But there may be times we need to do our duty even when it is impossible to do. Because doing our duty is also our duty. Everything is in the doing. Thus, it is not pointless.",
-      "kor": "우리의 의무 외에는 아무것도 중요하지 않습니다. 의무가 가능할 때는 자르기 쉽지만, 때로는 불가능해 보일 때도 있습니다. 그럼에도 불구하고 우리는 해야 합니다. 의무를 다하는 것 자체가 우리의 의무이기 때문입니다. 중요한 것은 행동 그 자체이며, 그렇기에 결코 무의미하지 않습니다."
+      "content": {
+        "eng": "Nothing matters except for our duty. This is easier when we know our duty is possible to do. But there may be times we need to do our duty even when it is impossible to do. Because doing our duty is also our duty. Everything is in the doing. Thus, it is not pointless.",
+        "kor": "우리의 의무 외에는 아무것도 중요하지 않습니다. 의무가 가능할 때는 자르기 쉽지만, 때로는 불가능해 보일 때도 있습니다. 그럼에도 불구하고 우리는 해야 합니다. 의무를 다하는 것 자체가 우리의 의무이기 때문입니다. 중요한 것은 행동 그 자체이며, 그렇기에 결코 무의미하지 않습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 72,
-      "eng": "The only reason to not do our duty is if God tells us not to. How will God tell us? Listen to others, they may see what you do not. Think again, ensure your premise and logic is in line with God. You may have made a mistake. Reset your conclusion and keep going.",
-      "kor": "우리의 의무를 하지 않을 이유는 하나님께서 하지 말라고 하실 때뿐이다. 하나님은 어떻게 말씀하실까요? 다른 사람의 의견을 들으세요. 남들은 당신이 보지 못한 것을 볼 수 있습니다. 다시 생각해 보세요. 당신의 전제와 논리가 하나님과 일치하는지 확인하세요. 결론을 재설정하고 계속 나아가세요."
+      "content": {
+        "eng": "The only reason to not do our duty is if God tells us not to. How will God tell us? Listen to others, they may see what you do not. Think again, ensure your premise and logic is in line with God. You may have made a mistake. Reset your conclusion and keep going.",
+        "kor": "우리의 의무를 하지 않을 이유는 하나님께서 하지 말라고 하실 때뿐이다. 하나님은 어떻게 말씀하실까요? 다른 사람의 의견을 들으세요. 남들은 당신이 보지 못한 것을 볼 수 있습니다. 다시 생각해 보세요. 당신의 전제와 논리가 하나님과 일치하는지 확인하세요. 결론을 재설정하고 계속 나아가세요."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 73,
-      "eng": "People who have not trained their ability to hear God and rely on their leaders to receive the message are prone to religious fanaticism and extremist activity. If their leader is full of error, they too will follow suit. Either you or others need the ability of discernment.",
-      "kor": "하나님을 듣는 능력을 훈련하지 않고 지도자에게 의존해 하나님의 메시지를 받으려는 사람들은 종교적 광신과 극단적 행동에 빠질 수 있습니다. 만약 그들의 지도자가 오류에 빠진다면, 그들도 같은 길을 따르게 됩니다. 당신 또는 다른 사람들이 분별력을 갖출 필요가 있습니다."
+      "content": {
+        "eng": "People who have not trained their ability to hear God and rely on their leaders to receive the message are prone to religious fanaticism and extremist activity. If their leader is full of error, they too will follow suit. Either you or others need the ability of discernment.",
+        "kor": "하나님을 듣는 능력을 훈련하지 않고 지도자에게 의존해 하나님의 메시지를 받으려는 사람들은 종교적 광신과 극단적 행동에 빠질 수 있습니다. 만약 그들의 지도자가 오류에 빠진다면, 그들도 같은 길을 따르게 됩니다. 당신 또는 다른 사람들이 분별력을 갖출 필요가 있습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 74,
-      "eng": "Leaders must be held to scrutiny. Not to undermine their authority, but to keep them humble. How can someone be right all the time? Support our leaders as they are in a difficult position. I question the legitimacy of those who dismiss your concerns.",
-      "kor": "지도자들은 검증을 받아야 합니다. 그들의 권위를 훼손하려는 것이 아니라, 겸손을 유지하게 하기 위함입니다. 어떻게 누군가가 항상 옳을 수 있겠습니까? 지도자들이 어려운 위치에 있으니 그들을 지지해야 합니다. 그러나 당신의 우려를 무시하는 지도자들의 정당성을 나는 의심합니다."
+      "content": {
+        "eng": "Leaders must be held to scrutiny. Not to undermine their authority, but to keep them humble. How can someone be right all the time? Support our leaders as they are in a difficult position. I question the legitimacy of those who dismiss your concerns.",
+        "kor": "지도자들은 검증을 받아야 합니다. 그들의 권위를 훼손하려는 것이 아니라, 겸손을 유지하게 하기 위함입니다. 어떻게 누군가가 항상 옳을 수 있겠습니까? 지도자들이 어려운 위치에 있으니 그들을 지지해야 합니다. 그러나 당신의 우려를 무시하는 지도자들의 정당성을 나는 의심합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 75,
-      "eng": "No one knows everything and no one is perfect. Anyone can be wrong. Knowing we can be wrong is humility. Knowing we can learn from others is humility. Being in the learning state is humility. It does not need to be about lowering our importance.",
-      "kor": "아무도 모든 것을 알지 못하고, 아무도 완벽하지 않습니다. 누구든 틀릴 수 있습니다. 우리가 틀릴 수 있다는 것을 아는 것이 겸손입니다. 다른 사람에게서 배울 수 있다는 것을 아는 것이 겸손입니다. 배우는 상태에 있는 것이 바로 겸손입니다. 그것은 우리 자신의 중요성을 낮추는 것이 아닙니다."
+      "content": {
+        "eng": "No one knows everything and no one is perfect. Anyone can be wrong. Knowing we can be wrong is humility. Knowing we can learn from others is humility. Being in the learning state is humility. It does not need to be about lowering our importance.",
+        "kor": "아무도 모든 것을 알지 못하고, 아무도 완벽하지 않습니다. 누구든 틀릴 수 있습니다. 우리가 틀릴 수 있다는 것을 아는 것이 겸손입니다. 다른 사람에게서 배울 수 있다는 것을 아는 것이 겸손입니다. 배우는 상태에 있는 것이 바로 겸손입니다. 그것은 우리 자신의 중요성을 낮추는 것이 아닙니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 76,
-      "eng": "Fear cannot control us because only God can. Either, fear is not a factor we consider and we dismiss it, or we are brave enough to overcome it. Both is only possible because we have Christ in our hearts and the Holy Spirit to guide our way, to know what to dismiss and overcome",
-      "kor": "두려움은 우리를 지배할 수 없습니다. 오직 하나님만이 우리를 다스리십니다. 두려움을 고려하지 않고 물리치거나, 모든 두려움을 극복할 용기가 있습니다. 이는 그리스도께서 우리 마음에 계시고 성령께서 길을 인도하시기 때문입니다."
+      "content": {
+        "eng": "Fear cannot control us because only God can. Either, fear is not a factor we consider and we dismiss it, or we are brave enough to overcome it. Both is only possible because we have Christ in our hearts and the Holy Spirit to guide our way, to know what to dismiss and overcome",
+        "kor": "두려움은 우리를 지배할 수 없습니다. 오직 하나님만이 우리를 다스리십니다. 두려움을 고려하지 않고 물리치거나, 모든 두려움을 극복할 용기가 있습니다. 이는 그리스도께서 우리 마음에 계시고 성령께서 길을 인도하시기 때문입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 77,
-      "eng": "Letting go and forgiveness are so important to us. All we do, we should do in the name of God, yet grudges and resentment will affect our hearts and take us away from God. Forgiveness is to not let these negative feelings affect our judgement to do the right thing in God.",
-      "kor": "놓아주는 것과 용서는 우리에게 매우 중요합니다. 우리가 하는 모든 일은 하나님의 이름으로 해야 하지만, 원한과 분노는 우리의 마음을 병들게 하고 하나님과 멀어지게 만듭니다. 용서란 이런 부정적인 감정이 우리의 판단을 흐리지 않도록 하여, 하나님의 뜻대로 바른 길을 가게 하는 것입니다."
+      "content": {
+        "eng": "Letting go and forgiveness are so important to us. All we do, we should do in the name of God, yet grudges and resentment will affect our hearts and take us away from God. Forgiveness is to not let these negative feelings affect our judgement to do the right thing in God.",
+        "kor": "놓아주는 것과 용서는 우리에게 매우 중요합니다. 우리가 하는 모든 일은 하나님의 이름으로 해야 하지만, 원한과 분노는 우리의 마음을 병들게 하고 하나님과 멀어지게 만듭니다. 용서란 이런 부정적인 감정이 우리의 판단을 흐리지 않도록 하여, 하나님의 뜻대로 바른 길을 가게 하는 것입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 78,
-      "eng": "Christians are inherently hypocrites, striving for God's perfect standards, yet always falling short. This hypocrisy humbles us, reminding us of our sin and need for grace. Thank Jesus for the path that turns our failure into repentance and transformation.",
-      "kor": "그리스도인은 본래 위선자입니다. 하나님의 완전한 기준을 향해 나아가지만, 언제나 부족함을 느끼기 때문입니다. 그러나 이 위선이 우리를 겸손하게 하고, 우리의 죄와 은혜의 필요를 일깨워 줍니다. 우리의 실패를 회개와 변화로 이끄시는 길을 열어주신 예수님께 감사드립니다."
+      "content": {
+        "eng": "Christians are inherently hypocrites, striving for God's perfect standards, yet always falling short. This hypocrisy humbles us, reminding us of our sin and need for grace. Thank Jesus for the path that turns our failure into repentance and transformation.",
+        "kor": "그리스도인은 본래 위선자입니다. 하나님의 완전한 기준을 향해 나아가지만, 언제나 부족함을 느끼기 때문입니다. 그러나 이 위선이 우리를 겸손하게 하고, 우리의 죄와 은혜의 필요를 일깨워 줍니다. 우리의 실패를 회개와 변화로 이끄시는 길을 열어주신 예수님께 감사드립니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 79,
-      "eng": "God is constant and active. This is only possible in our lives through methodology. This means every moment we act according to our circumstances, not with an outcome in mind. Live every moment following the Will of God.",
-      "kor": "하나님은 항상 변함없으시며 적극적으로 역사하십니다. 이는 우리의 삶에서 하나님의 뜻을 따르는 방법론을 통해서만 가능합니다. 즉, 결과를 염두에 두지 않고, 매 순간 우리의 상황에 맞게 행동하는 것을 의미합니다. 하나님의 뜻을 따르며 매 순간을 살아가십시오."
+      "content": {
+        "eng": "God is constant and active. This is only possible in our lives through methodology. This means every moment we act according to our circumstances, not with an outcome in mind. Live every moment following the Will of God.",
+        "kor": "하나님은 항상 변함없으시며 적극적으로 역사하십니다. 이는 우리의 삶에서 하나님의 뜻을 따르는 방법론을 통해서만 가능합니다. 즉, 결과를 염두에 두지 않고, 매 순간 우리의 상황에 맞게 행동하는 것을 의미합니다. 하나님의 뜻을 따르며 매 순간을 살아가십시오."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 80,
-      "eng": "Asking, 'What do I need to do for xyz to happen?' misses the point. Following God isn't about chasing outcomes but embracing a way of life. It's about living each day in a manner pleasing to God, focusing on faithfulness rather than results.",
-      "kor": "어떻게 해야 이것을 이룰 수 있을까?’라는 질문은 핵심을 놓치는 것입니다. 하나님을 따른다는 것은 결과를 좇는 것이 아니라, 하나님이 기뻐하시는 삶의 방식을 받아들이는 것입니다. 하루하루를 신실함에 초점을 맞추며 살아가는 것이지, 결과에 매달리는 것이 아닙니다."
+      "content": {
+        "eng": "Asking, 'What do I need to do for xyz to happen?' misses the point. Following God isn't about chasing outcomes but embracing a way of life. It's about living each day in a manner pleasing to God, focusing on faithfulness rather than results.",
+        "kor": "어떻게 해야 이것을 이룰 수 있을까?’라는 질문은 핵심을 놓치는 것입니다. 하나님을 따른다는 것은 결과를 좇는 것이 아니라, 하나님이 기뻐하시는 삶의 방식을 받아들이는 것입니다. 하루하루를 신실함에 초점을 맞추며 살아가는 것이지, 결과에 매달리는 것이 아닙니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 81,
-      "eng": "Religion is a way of life. Learn, meditate, and understand your beliefs so they convert into everyday actions. True faith transforms life; let Godliness emanate from all you do, bridging belief and action. This goes beyond what is merely good and evil. The goal is not to be morally correct. The goal is to follow God.",
-      "kor": "종교는 삶의 방식입니다. 배우고, 묵상하고, 자신의 믿음을 이해하여 그것이 일상 속 행동으로 이어지게 하세요. 진정한 신앙은 삶을 변화시킵니다. 경건함이 모든 행동에서 흘러나와 믿음과 실천을 잇게 하세요. 이것은 단순히 선과 악을 구분하는 것을 넘어섭니다. 목표는 도덕적으로 올바른 사람이 되는 것이 아니라, 하나님을 따르는 것입니다."
+      "content": {
+        "eng": "Religion is a way of life. Learn, meditate, and understand your beliefs so they convert into everyday actions. True faith transforms life; let Godliness emanate from all you do, bridging belief and action. This goes beyond what is merely good and evil. The goal is not to be morally correct. The goal is to follow God.",
+        "kor": "종교는 삶의 방식입니다. 배우고, 묵상하고, 자신의 믿음을 이해하여 그것이 일상 속 행동으로 이어지게 하세요. 진정한 신앙은 삶을 변화시킵니다. 경건함이 모든 행동에서 흘러나와 믿음과 실천을 잇게 하세요. 이것은 단순히 선과 악을 구분하는 것을 넘어섭니다. 목표는 도덕적으로 올바른 사람이 되는 것이 아니라, 하나님을 따르는 것입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 82,
-      "eng": "A Godly way of life is applicable to every aspect and dimension of our life. No matter what we are doing, it is possible to do it in a way pleasing to God. You will never be lost with your faith in God as long as you keep following Christ.",
-      "kor": "경건한 삶의 방식은 우리 삶의 모든 영역에 적용될 수 있습니다. 무엇을 하든 하나님을 기쁘시게 하는 방법으로 행할 수 있습니다. 그리스도를 계속 따르기만 한다면, 하나님 안에서 결코 길을 잃지 않을 것입니다."
+      "content": {
+        "eng": "A Godly way of life is applicable to every aspect and dimension of our life. No matter what we are doing, it is possible to do it in a way pleasing to God. You will never be lost with your faith in God as long as you keep following Christ.",
+        "kor": "경건한 삶의 방식은 우리 삶의 모든 영역에 적용될 수 있습니다. 무엇을 하든 하나님을 기쁘시게 하는 방법으로 행할 수 있습니다. 그리스도를 계속 따르기만 한다면, 하나님 안에서 결코 길을 잃지 않을 것입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 83,
-      "eng": "To truly follow God, we must choose Him for no reason at all. If we have a reason, that reason takes precedence over God. Since choosing without reason is an irrational act, it cannot be expected from anyone. This is why who makes the choice is up to God.",
-      "kor": "하나님을 진정으로 따르려면, 아무 이유 없이 그분을 선택해야 합니다. 만약 우리가 이유를 가지고 선택한다면, 그 이유가 하나님보다 우선하게 됩니다. 이유 없이 선택하는 것은 비이성적인 행위이기에 누구에게나 기대할 수 있는 일이 아닙니다. 그래서 선택의 주체는 하나님이십니다."
+      "content": {
+        "eng": "To truly follow God, we must choose Him for no reason at all. If we have a reason, that reason takes precedence over God. Since choosing without reason is an irrational act, it cannot be expected from anyone. This is why who makes the choice is up to God.",
+        "kor": "하나님을 진정으로 따르려면, 아무 이유 없이 그분을 선택해야 합니다. 만약 우리가 이유를 가지고 선택한다면, 그 이유가 하나님보다 우선하게 됩니다. 이유 없이 선택하는 것은 비이성적인 행위이기에 누구에게나 기대할 수 있는 일이 아닙니다. 그래서 선택의 주체는 하나님이십니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 84,
-      "eng": "Who is God? What is God? We can build a deeper understanding of him starting with some simple assumptions and building up.  We exist in an existing world. There are ways we can show this, but this is an easy assumption based on our own experiences. There are other possibilities, but they can also use similar logic to what we will do here to show God. For now, assume we exist in an existing world.",
-      "kor": "하나님은 누구신가요? 하나님은 무엇인가요? 간단한 가정에서 출발해 조금씩 쌓아가며 하나님을 깊이 이해할 수 있습니다. 우리는 존재하는 세상 속에 살고 있습니다. 여러 방법으로 이를 증명할 수도 있지만, 우리의 경험에 근거할 때 이 가정은 자연스럽습니다. 물론 다른 가능성도 있을 수 있지만, 그 역시 하나님을 증명하는 데 사용할 논리와 비슷한 방식을 따릅니다. 일단 우리는 존재하는 세상 속에 있다고 가정합시다"
+      "content": {
+        "eng": "Who is God? What is God? We can build a deeper understanding of him starting with some simple assumptions and building up.  We exist in an existing world. There are ways we can show this, but this is an easy assumption based on our own experiences. There are other possibilities, but they can also use similar logic to what we will do here to show God. For now, assume we exist in an existing world.",
+        "kor": "하나님은 누구신가요? 하나님은 무엇인가요? 간단한 가정에서 출발해 조금씩 쌓아가며 하나님을 깊이 이해할 수 있습니다. 우리는 존재하는 세상 속에 살고 있습니다. 여러 방법으로 이를 증명할 수도 있지만, 우리의 경험에 근거할 때 이 가정은 자연스럽습니다. 물론 다른 가능성도 있을 수 있지만, 그 역시 하나님을 증명하는 데 사용할 논리와 비슷한 방식을 따릅니다. 일단 우리는 존재하는 세상 속에 있다고 가정합시다"
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 85,
-      "eng": "Whatever the reason for all existence is, we call God. This concept must exist with no dependencies on anything else that exists, as it was before all is. So we say its existence is unconditional. He exists, always. All further characteristics of God are built on this.",
-      "kor": "모든 존재의 근원이 되는 이유를 우리는 하나님이라 부릅니다. 이 개념은 다른 어떤 것에도 의존하지 않고 존재합니다. 왜냐하면 모든 것 이전에 이미 하나님이 계셨기 때문입니다. 그래서 우리는 하나님이 '무조건적 존재'라고 말합니다. 하나님의 모든 다른 특성들은 이 존재로부터 비롯됩니다."
+      "content": {
+        "eng": "Whatever the reason for all existence is, we call God. This concept must exist with no dependencies on anything else that exists, as it was before all is. So we say its existence is unconditional. He exists, always. All further characteristics of God are built on this.",
+        "kor": "모든 존재의 근원이 되는 이유를 우리는 하나님이라 부릅니다. 이 개념은 다른 어떤 것에도 의존하지 않고 존재합니다. 왜냐하면 모든 것 이전에 이미 하나님이 계셨기 때문입니다. 그래서 우리는 하나님이 '무조건적 존재'라고 말합니다. 하나님의 모든 다른 특성들은 이 존재로부터 비롯됩니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 86,
-      "eng": "To understand God, we must start from nothing, discarding all previous notions. When we cling to prior ideas, we create explanations to reconcile them, leading to a web of stories grounded in wishful thinking rather than truth. Begin with the concept of unconditional existence.",
-      "kor": "하나님을 이해하려면, 모든 선입견을 내려놓고 완전히 새로운 마음으로 시작해야 합니다. 이전 생각들에 매달리면, 그것을 정당화하려는 설명을 만들어내기 쉽고, 결국 진리가 아닌 바람에 근거한 이야기가 얽히게 됩니다. 무조건적 존재라는 개념에서부터 시작해 봅시다."
+      "content": {
+        "eng": "To understand God, we must start from nothing, discarding all previous notions. When we cling to prior ideas, we create explanations to reconcile them, leading to a web of stories grounded in wishful thinking rather than truth. Begin with the concept of unconditional existence.",
+        "kor": "하나님을 이해하려면, 모든 선입견을 내려놓고 완전히 새로운 마음으로 시작해야 합니다. 이전 생각들에 매달리면, 그것을 정당화하려는 설명을 만들어내기 쉽고, 결국 진리가 아닌 바람에 근거한 이야기가 얽히게 됩니다. 무조건적 존재라는 개념에서부터 시작해 봅시다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 87,
-      "eng": "There is nothing in this world that belongs to the same class as God. Our language, derived from the world, fails to capture anything beyond it. Thus, describing God by stating what He is not provides the most accurate approach to His transcendent nature.",
-      "kor": "이 세상에는 하나님과 같은 범주에 속하는 것이 아무것도 없습니다. 우리가 사용하는 언어는 세상에서 비롯된 것이기에, 세상을 초월한 대상을 제대로 표현하지 못합니다. 그래서 하나님을 설명할 때, 무엇이 아닌지를 말하는 것이 그분의 초월적 본질을 가장 정확하게 전달하는 방법입니다."
+      "content": {
+        "eng": "There is nothing in this world that belongs to the same class as God. Our language, derived from the world, fails to capture anything beyond it. Thus, describing God by stating what He is not provides the most accurate approach to His transcendent nature.",
+        "kor": "이 세상에는 하나님과 같은 범주에 속하는 것이 아무것도 없습니다. 우리가 사용하는 언어는 세상에서 비롯된 것이기에, 세상을 초월한 대상을 제대로 표현하지 못합니다. 그래서 하나님을 설명할 때, 무엇이 아닌지를 말하는 것이 그분의 초월적 본질을 가장 정확하게 전달하는 방법입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 88,
-      "eng": "God has no dependencies, no cause or reason for His existence. Nothing else is needed for God to exist; all that God is, is contained within Himself. Even when there is absolutely nothing, God still is. As the only thing that existed, creation is attributed to Him.",
-      "kor": "하나님은 어떤 의존성도 없으신 분입니다. 존재하기 위한 원인이나 이유가 필요 없고, 하나님이 존재하시기 위해 다른 무엇도 필요하지 않습니다. 하나님 자신이 완전하게 충족되어 계십니다. 아무것도 없는 상황에서도 하나님은 여전히 존재하십니다. 모든 존재 이전에 오직 하나님만이 계셨습니다."
+      "content": {
+        "eng": "God has no dependencies, no cause or reason for His existence. Nothing else is needed for God to exist; all that God is, is contained within Himself. Even when there is absolutely nothing, God still is. As the only thing that existed, creation is attributed to Him.",
+        "kor": "하나님은 어떤 의존성도 없으신 분입니다. 존재하기 위한 원인이나 이유가 필요 없고, 하나님이 존재하시기 위해 다른 무엇도 필요하지 않습니다. 하나님 자신이 완전하게 충족되어 계십니다. 아무것도 없는 상황에서도 하나님은 여전히 존재하십니다. 모든 존재 이전에 오직 하나님만이 계셨습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 89,
-      "eng": "God is not many. If there are two Gods, rules must govern their interaction or non-interaction. These rules, being more fundamental, would then be the true God. Therefore, God is one, the ultimate cause and governing principle over all.",
-      "kor": "여러 신이 존재하는 것이 아닙니다. 만약 두 분의 신이 있다면, 그들 사이의 관계를 규율하는 어떤 법칙이 있어야 합니다. 그러한 법칙이 더 근본적이라면, 그 법칙이 진정한 신일 것입니다. 그러므로 하나님은 오직 하나이시며, 모든 것 위에 계신 궁극적인 원인과 통치 원리이십니다."
+      "content": {
+        "eng": "God is not many. If there are two Gods, rules must govern their interaction or non-interaction. These rules, being more fundamental, would then be the true God. Therefore, God is one, the ultimate cause and governing principle over all.",
+        "kor": "여러 신이 존재하는 것이 아닙니다. 만약 두 분의 신이 있다면, 그들 사이의 관계를 규율하는 어떤 법칙이 있어야 합니다. 그러한 법칙이 더 근본적이라면, 그 법칙이 진정한 신일 것입니다. 그러므로 하나님은 오직 하나이시며, 모든 것 위에 계신 궁극적인 원인과 통치 원리이십니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 90,
-      "eng": "God is not made of parts. If so, Gods existence is dependant on the existence and interaction between these parts. Because Gods existence has no dependencies, parts are not possible.",
-      "kor": "하나님은 부분들로 이루어진 분이 아니십니다. 만약 그렇다면, 하나님의 존재는 이 부분들의 존재와 상호작용에 의존하게 될 것입니다. 그러나 하나님의 존재는 어떠한 의존성도 없으므로, 부분들로 구성될 수 없습니다."
+      "content": {
+        "eng": "God is not made of parts. If so, Gods existence is dependant on the existence and interaction between these parts. Because Gods existence has no dependencies, parts are not possible.",
+        "kor": "하나님은 부분들로 이루어진 분이 아니십니다. 만약 그렇다면, 하나님의 존재는 이 부분들의 존재와 상호작용에 의존하게 될 것입니다. 그러나 하나님의 존재는 어떠한 의존성도 없으므로, 부분들로 구성될 수 없습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 91,
-      "eng": "God is not energy. Energy moves and transforms according to rules or a will, making these rules more fundamental than the energy itself. Since energy is thus dependent on a cause, and God, having no causes, is unconditional, He cannot be equated with energy.",
-      "kor": "하나님은 에너지가 아니십니다. 에너지는 일정한 법칙이나 의지에 따라 움직이고 변형되므로, 에너지보다 그 법칙이 더 근본적입니다. 에너지는 이처럼 원인에 의존하지만, 하나님은 어떤 원인에도 의존하지 않으시고 절대적이십니다. 따라서 하나님을 에너지로 볼 수는 없습니다."
+      "content": {
+        "eng": "God is not energy. Energy moves and transforms according to rules or a will, making these rules more fundamental than the energy itself. Since energy is thus dependent on a cause, and God, having no causes, is unconditional, He cannot be equated with energy.",
+        "kor": "하나님은 에너지가 아니십니다. 에너지는 일정한 법칙이나 의지에 따라 움직이고 변형되므로, 에너지보다 그 법칙이 더 근본적입니다. 에너지는 이처럼 원인에 의존하지만, 하나님은 어떤 원인에도 의존하지 않으시고 절대적이십니다. 따라서 하나님을 에너지로 볼 수는 없습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 92,
-      "eng": "God is changeless. Change implies a shift from potential to actuality, requiring a cause for this transition. If God were to change, He would depend on something to actualize His potential, contradicting His unconditional nature. Therefore, change is not possible in God.",
-      "kor": "하나님은 변하지 않으십니다. 변화란 잠재성이 실제로 바뀌는 것을 의미하며, 그 변화를 일으키는 원인이 필요합니다. 만약 하나님께 변화가 있다면, 잠재성을 실현시키기 위해 무언가에 의존하게 될 것이며, 이는 하나님의 절대성을 부정하는 것입니다. 그러므로 하나님께는 변화가 있을 수 없습니다."
+      "content": {
+        "eng": "God is changeless. Change implies a shift from potential to actuality, requiring a cause for this transition. If God were to change, He would depend on something to actualize His potential, contradicting His unconditional nature. Therefore, change is not possible in God.",
+        "kor": "하나님은 변하지 않으십니다. 변화란 잠재성이 실제로 바뀌는 것을 의미하며, 그 변화를 일으키는 원인이 필요합니다. 만약 하나님께 변화가 있다면, 잠재성을 실현시키기 위해 무언가에 의존하게 될 것이며, 이는 하나님의 절대성을 부정하는 것입니다. 그러므로 하나님께는 변화가 있을 수 없습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 93,
-      "eng": "God is spaceless. If God takes up space, then he must be matter or energy. Both of which can only move according to the laws of physics, and therefore create a dependency in God. This is not possible so God is spaceless.",
-      "kor": "하나님은 공간에 속하지 않으십니다. 만약 하나님이 공간을 차지하신다면 물질이나 에너지가 되어야 할 것입니다. 그러나 물질과 에너지는 물리 법칙에 따라 움직이기에 하나님께 의존성을 부여하게 됩니다. 하나님은 어떤 것에도 의존하지 않으시므로, 하나님은 공간에 구속되지 않으십니다."
+      "content": {
+        "eng": "God is spaceless. If God takes up space, then he must be matter or energy. Both of which can only move according to the laws of physics, and therefore create a dependency in God. This is not possible so God is spaceless.",
+        "kor": "하나님은 공간에 속하지 않으십니다. 만약 하나님이 공간을 차지하신다면 물질이나 에너지가 되어야 할 것입니다. 그러나 물질과 에너지는 물리 법칙에 따라 움직이기에 하나님께 의존성을 부여하게 됩니다. 하나님은 어떤 것에도 의존하지 않으시므로, 하나님은 공간에 구속되지 않으십니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 94,
-      "eng": "God is spaceless, so it is not possible for him to be in some places and not in others, because then he would take up measurable space. God is in no physical place, yet we see his causality everywhere, so we say he is everywhere.",
-      "kor": "하나님은 공간에 속하지 않으시기에 특정 장소에만 계시거나 다른 곳에 계시지 않는 것이 불가능합니다. 그렇게 된다면 하나님은 측정 가능한 공간을 차지하게 될 것입니다. 하나님은 물리적 장소에 계시지 않지만, 그분의 영향력은 어디에나 드러납니다. 그래서 하나님은 모든 곳에 계신다고 한다."
+      "content": {
+        "eng": "God is spaceless, so it is not possible for him to be in some places and not in others, because then he would take up measurable space. God is in no physical place, yet we see his causality everywhere, so we say he is everywhere.",
+        "kor": "하나님은 공간에 속하지 않으시기에 특정 장소에만 계시거나 다른 곳에 계시지 않는 것이 불가능합니다. 그렇게 된다면 하나님은 측정 가능한 공간을 차지하게 될 것입니다. 하나님은 물리적 장소에 계시지 않지만, 그분의 영향력은 어디에나 드러납니다. 그래서 하나님은 모든 곳에 계신다고 한다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 95,
-      "eng": "God is timeless. Time is only measurable when there is change. God is changeless, therefore is constant and unaffected by time. This is why he was, he is and he always will be.",
-      "kor": "하나님은 시간을 초월하십니다. 시간은 변화가 있을 때에만 측정될 수 있지만, 하나님은 변함이 없으시므로 시간에 영향을 받지 않고 항상 동일하십니다. 그래서 하나님은 과거에도 계셨고, 지금도 계시며, 영원히 계실 것입니다."
+      "content": {
+        "eng": "God is timeless. Time is only measurable when there is change. God is changeless, therefore is constant and unaffected by time. This is why he was, he is and he always will be.",
+        "kor": "하나님은 시간을 초월하십니다. 시간은 변화가 있을 때에만 측정될 수 있지만, 하나님은 변함이 없으시므로 시간에 영향을 받지 않고 항상 동일하십니다. 그래서 하나님은 과거에도 계셨고, 지금도 계시며, 영원히 계실 것입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 96,
-      "eng": "God is not measurable in any way. Measurement requires comparison, that way we can say one is more or less than the other. But there is only 1 God, so no similar being for comparison. God is also not a part of the world, so nothing worldly can measure him.",
-      "kor": "하나님은 어떤 방식으로도 측정할 수 없으십니다. 측정은 비교를 필요로 하며, 그로 인해 하나는 다른 것보다 더하거나 덜한다고 말할 수 있습니다. 그러나 하나님은 유일하신 분이시기에 비교할 대상이 없으며, 세상의 일부가 아니시기에 세상적인 어떤 것도 하나님을 측정할 수 없습니다."
+      "content": {
+        "eng": "God is not measurable in any way. Measurement requires comparison, that way we can say one is more or less than the other. But there is only 1 God, so no similar being for comparison. God is also not a part of the world, so nothing worldly can measure him.",
+        "kor": "하나님은 어떤 방식으로도 측정할 수 없으십니다. 측정은 비교를 필요로 하며, 그로 인해 하나는 다른 것보다 더하거나 덜한다고 말할 수 있습니다. 그러나 하나님은 유일하신 분이시기에 비교할 대상이 없으며, 세상의 일부가 아니시기에 세상적인 어떤 것도 하나님을 측정할 수 없습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 97,
-      "eng": "God has no flaws. For there to be a flaw, there needs to be a certain criteria for perfection, and an instance where this criteria is not met. God is not measurable so no criteria can be applied to God, so God has no flaws. This is why God is perfect by definition.",
-      "kor": "하나님께는 결함이 없으십니다. 결함이 있으려면 완전함의 기준이 존재하고 그 기준을 충족하지 못하는 경우가 있어야 합니다. 그러나 하나님은 측정할 수 없기에 어떠한 기준도 적용될 수 없습니다. 그러므로 하나님은 결함이 없으시며, 그 자체로 완전하십니다."
+      "content": {
+        "eng": "God has no flaws. For there to be a flaw, there needs to be a certain criteria for perfection, and an instance where this criteria is not met. God is not measurable so no criteria can be applied to God, so God has no flaws. This is why God is perfect by definition.",
+        "kor": "하나님께는 결함이 없으십니다. 결함이 있으려면 완전함의 기준이 존재하고 그 기준을 충족하지 못하는 경우가 있어야 합니다. 그러나 하나님은 측정할 수 없기에 어떠한 기준도 적용될 수 없습니다. 그러므로 하나님은 결함이 없으시며, 그 자체로 완전하십니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 98,
-      "eng": "God is not evil. Evil means there is a deviation from a morally good standard. God does not have any deviation from anything as God is perfect. So God can not have any evil. This is why God is good by definition.",
-      "kor": "하나님은 악하실 수 없습니다. 악이란 도덕적 선의 기준에서 벗어나는 것을 의미합니다. 그러나 하나님은 완전하시기에 어떠한 기준에서 벗어나지 않으십니다. 따라서 하나님께는 악이 있을 수 없으며, 그 자체로 선하신 분이십니다."
+      "content": {
+        "eng": "God is not evil. Evil means there is a deviation from a morally good standard. God does not have any deviation from anything as God is perfect. So God can not have any evil. This is why God is good by definition.",
+        "kor": "하나님은 악하실 수 없습니다. 악이란 도덕적 선의 기준에서 벗어나는 것을 의미합니다. 그러나 하나님은 완전하시기에 어떠한 기준에서 벗어나지 않으십니다. 따라서 하나님께는 악이 있을 수 없으며, 그 자체로 선하신 분이십니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 99,
-      "eng": "God has no emotions or feelings. Emotions require chemical reactions and hormones in a body to affect a mind. Since God has no physical form, He has no mechanism for emotions. Scriptural references to God's emotions are metaphors explaining His actions.",
-      "kor": "하나님께는 감정이 없으십니다. 감정은 신체 내에서 화학적 반응과 호르몬을 통해 마음에 영향을 미치는데, 하나님은 육체가 없으시기에 감정의 메커니즘을 가지지 않으십니다. 성경에 나오는 하나님의 감정 표현은 하나님의 행동을 설명하기 위한 비유적 표현입니다."
+      "content": {
+        "eng": "God has no emotions or feelings. Emotions require chemical reactions and hormones in a body to affect a mind. Since God has no physical form, He has no mechanism for emotions. Scriptural references to God's emotions are metaphors explaining His actions.",
+        "kor": "하나님께는 감정이 없으십니다. 감정은 신체 내에서 화학적 반응과 호르몬을 통해 마음에 영향을 미치는데, 하나님은 육체가 없으시기에 감정의 메커니즘을 가지지 않으십니다. 성경에 나오는 하나님의 감정 표현은 하나님의 행동을 설명하기 위한 비유적 표현입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 100,
-      "eng": "God has no hands, feet, face, voice, eyes, back or body. All these are part of a physical form. God does not have a physical form. Scriptural references to these are all to describe an aspect of God in terms easier for people to understand.",
-      "kor": "하나님께는 손, 발, 얼굴, 목소리, 눈, 등, 몸과 같은 신체가 없으십니다. 이 모든 것은 물리적인 형태의 일부이지만, 하나님은 물리적인 형태를 가지지 않으십니다. 성경에 나오는 이러한 표현들은 하나님을 사람들이 이해하기 쉽게 설명하기 위한 비유적 표현입니다."
+      "content": {
+        "eng": "God has no hands, feet, face, voice, eyes, back or body. All these are part of a physical form. God does not have a physical form. Scriptural references to these are all to describe an aspect of God in terms easier for people to understand.",
+        "kor": "하나님께는 손, 발, 얼굴, 목소리, 눈, 등, 몸과 같은 신체가 없으십니다. 이 모든 것은 물리적인 형태의 일부이지만, 하나님은 물리적인 형태를 가지지 않으십니다. 성경에 나오는 이러한 표현들은 하나님을 사람들이 이해하기 쉽게 설명하기 위한 비유적 표현입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 101,
-      "eng": "God has no needs. A need is something required to exist. God would then be dependant on the need. God has no dependencies, so God has no needs.",
-      "kor": "하나님께는 필요함이 없으십니다. 필요함이란 존재를 위해 요구되는 것을 의미하며, 그렇다면 하나님은 그 필요에 의존하게 될 것입니다. 그러나 하나님은 어떤 것에도 의존하지 않으시므로, 필요함이 없으십니다."
+      "content": {
+        "eng": "God has no needs. A need is something required to exist. God would then be dependant on the need. God has no dependencies, so God has no needs.",
+        "kor": "하나님께는 필요함이 없으십니다. 필요함이란 존재를 위해 요구되는 것을 의미하며, 그렇다면 하나님은 그 필요에 의존하게 될 것입니다. 그러나 하나님은 어떤 것에도 의존하지 않으시므로, 필요함이 없으십니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 102,
-      "eng": "God has no whims or impulses. Any sudden desire or change in mind is a change in itself. God is unchanging, and so will not have any whims. This means all he does is intentional and coherent with his character.",
-      "kor": "하나님은 변덕스럽거나 충동적이지 않으십니다. 갑작스러운 욕망이나 마음의 변화는 그 자체로 변화를 의미합니다. 하나님은 변하지 않으시기에, 변덕을 부리시지 않습니다. 이는 그분의 모든 행위가 의도적이며, 그분의 성품과 일관된 것임을 뜻합니다."
+      "content": {
+        "eng": "God has no whims or impulses. Any sudden desire or change in mind is a change in itself. God is unchanging, and so will not have any whims. This means all he does is intentional and coherent with his character.",
+        "kor": "하나님은 변덕스럽거나 충동적이지 않으십니다. 갑작스러운 욕망이나 마음의 변화는 그 자체로 변화를 의미합니다. 하나님은 변하지 않으시기에, 변덕을 부리시지 않습니다. 이는 그분의 모든 행위가 의도적이며, 그분의 성품과 일관된 것임을 뜻합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 103,
-      "eng": "God has no end goal. There is nothing God wants to finish. If God wants something to end, then when it ends, Gods state changes to having accomplished the goal. God is unchanging, so he cannot reach an accomplished state from an unaccomplished state.",
-      "kor": "하나님께는 끝 목표가 없습니다. 하나님이 이루고자 하는 것은 없다. 만약 하나님이 어떤 것을 끝내고자 하신다면, 그 일이 끝났을 때 하나님의 상태는 목표를 성취한 상태로 변하게 됩니다. 그러나 하나님은 변하지 않으시는 분이기에, 성취되지 않은 상태에서 성취된 상태로 변화하실 수 없습니다."
+      "content": {
+        "eng": "God has no end goal. There is nothing God wants to finish. If God wants something to end, then when it ends, Gods state changes to having accomplished the goal. God is unchanging, so he cannot reach an accomplished state from an unaccomplished state.",
+        "kor": "하나님께는 끝 목표가 없습니다. 하나님이 이루고자 하는 것은 없다. 만약 하나님이 어떤 것을 끝내고자 하신다면, 그 일이 끝났을 때 하나님의 상태는 목표를 성취한 상태로 변하게 됩니다. 그러나 하나님은 변하지 않으시는 분이기에, 성취되지 않은 상태에서 성취된 상태로 변화하실 수 없습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 104,
-      "eng": "God does not take action. Taking action requires movement of forces or a change in will to decide to do an action. Both of these warrant change in some way, and God is changeless. Therefore, God is constantly acting. His being is one constant act.",
-      "kor": "하나님은 행동을 취하지 않으십니다. 행동은 힘의 움직임이나 결심의 변화를 요구하는데, 이는 모두 변화를 의미합니다. 그러나 하나님은 변하지 않으십니다. 그러므로 하나님의 활동은 항상 한결같습니다. 다양한 결과들은 하나님의 변화가 아닌, 환경의 변화에서 비롯된 것입니다."
+      "content": {
+        "eng": "God does not take action. Taking action requires movement of forces or a change in will to decide to do an action. Both of these warrant change in some way, and God is changeless. Therefore, God is constantly acting. His being is one constant act.",
+        "kor": "하나님은 행동을 취하지 않으십니다. 행동은 힘의 움직임이나 결심의 변화를 요구하는데, 이는 모두 변화를 의미합니다. 그러나 하나님은 변하지 않으십니다. 그러므로 하나님의 활동은 항상 한결같습니다. 다양한 결과들은 하나님의 변화가 아닌, 환경의 변화에서 비롯된 것입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 105,
-      "eng": "God is not reactive. Reactivity implies that external stimuli cause God to act. But God depends on nothing external and is therefore not influenced by outside conditions. God simply acts, and creation receives and experiences His action in diverse ways.",
-      "kor": "하나님은 반응하시는 분이 아닙니다. 반응한다는 것은 외부의 자극이 하나님을 움직이게 한다는 의미를 담고 있습니다. 그러나 하나님은 외부에 의존하지 않으시고, 조건에 의해 영향을 받지 않는다. 하나님은 그저 활동하실 뿐이며, 창조물은 그분의 활동을 다양한 방식으로 받아들이고 경험합니다."
+      "content": {
+        "eng": "God is not reactive. Reactivity implies that external stimuli cause God to act. But God depends on nothing external and is therefore not influenced by outside conditions. God simply acts, and creation receives and experiences His action in diverse ways.",
+        "kor": "하나님은 반응하시는 분이 아닙니다. 반응한다는 것은 외부의 자극이 하나님을 움직이게 한다는 의미를 담고 있습니다. 그러나 하나님은 외부에 의존하지 않으시고, 조건에 의해 영향을 받지 않는다. 하나님은 그저 활동하실 뿐이며, 창조물은 그분의 활동을 다양한 방식으로 받아들이고 경험합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 106,
-      "eng": "God is not finite. To be finite is to be limited in some way, shape or form. To be limited is to be within a measurable standard. No standards can apply to God so God has no limits. So we say God is infinite, in his greatness, his love and his everything.",
-      "kor": "하나님은 유한하지 않으십니다. 유한하다는 것은 제한을 받는다는 뜻이며, 제한이 있다는 것은 측정 가능한 기준 안에 있다는 것입니다. 그러나 하나님께는 어떤 기준도 적용되지 않기에, 하나님은 제한이 없으십니다. 그래서 우리는 하나님의 위대함, 사랑, 모든 것이 무한하다고 말합니다."
+      "content": {
+        "eng": "God is not finite. To be finite is to be limited in some way, shape or form. To be limited is to be within a measurable standard. No standards can apply to God so God has no limits. So we say God is infinite, in his greatness, his love and his everything.",
+        "kor": "하나님은 유한하지 않으십니다. 유한하다는 것은 제한을 받는다는 뜻이며, 제한이 있다는 것은 측정 가능한 기준 안에 있다는 것입니다. 그러나 하나님께는 어떤 기준도 적용되지 않기에, 하나님은 제한이 없으십니다. 그래서 우리는 하나님의 위대함, 사랑, 모든 것이 무한하다고 말합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 107,
-      "eng": "God does not gain knowledge. New information being added to God would mean a change. God is unchanging, so his knowledge is fixed. God is perfect so he has no deficiency, so he must have all knowledge instead of some or none. Therefore God is omniscient.",
-      "kor": "하나님은 지식을 얻으시는 분이 아닙니다. 새로운 정보가 추가된다면 변화가 있다는 의미인데, 하나님은 변하지 않으십니다. 하나님은 완전하시기에 결핍이 없으시며, 따라서 일부가 아닌 모든 지식을 가지고 계십니다. 그러므로 하나님은 전지하십니다."
+      "content": {
+        "eng": "God does not gain knowledge. New information being added to God would mean a change. God is unchanging, so his knowledge is fixed. God is perfect so he has no deficiency, so he must have all knowledge instead of some or none. Therefore God is omniscient.",
+        "kor": "하나님은 지식을 얻으시는 분이 아닙니다. 새로운 정보가 추가된다면 변화가 있다는 의미인데, 하나님은 변하지 않으십니다. 하나님은 완전하시기에 결핍이 없으시며, 따라서 일부가 아닌 모든 지식을 가지고 계십니다. 그러므로 하나님은 전지하십니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 108,
-      "eng": "God is not stupid. To be stupid is to do illogical behaviour either with a bad premise or conclusion. God does not do anything based on anything. Gods actions are based on himself and are himself. This means the premise and conclusion is Him and therefore perfect.",
-      "kor": "하나님은 어리석지 않으십니다. 어리석음이란 잘못된 전제나 결론으로 비논리적인 행동을 하는 것을 의미합니다. 하나님은 어떤 외부 근거에 따라 행동하지 않으시고, 오직 자신 안에서 행동하십니다. 즉, 하나님의 전제는 하나님 자신이시기에 완전하며, 결론 또한 하나님 자신이시기에 완전합니다."
+      "content": {
+        "eng": "God is not stupid. To be stupid is to do illogical behaviour either with a bad premise or conclusion. God does not do anything based on anything. Gods actions are based on himself and are himself. This means the premise and conclusion is Him and therefore perfect.",
+        "kor": "하나님은 어리석지 않으십니다. 어리석음이란 잘못된 전제나 결론으로 비논리적인 행동을 하는 것을 의미합니다. 하나님은 어떤 외부 근거에 따라 행동하지 않으시고, 오직 자신 안에서 행동하십니다. 즉, 하나님의 전제는 하나님 자신이시기에 완전하며, 결론 또한 하나님 자신이시기에 완전합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 109,
-      "eng": "God is Love. The One with no needs, who is all good and perfection itself, has no reason or need to act. Yet, He created and sustains the universe’s existence. The only explanation is that this creation flows from His infinite, unconditional Love. This Love is his very being.",
-      "kor": "하나님은 사랑이십니다. 아무 필요가 없으시고, 완전하고 선하신 분께는 행동할 이유가 필요하지 않습니다. 그럼에도 하나님께서는 우주를 창조하시고 지금도 존재하게 하십니다. 이 모든 것은 오직 하나님의 무한하고 조건 없는 사랑에서 비롯됩니다. 이 사랑이 곧 하나님의 존재이십니다."
+      "content": {
+        "eng": "God is Love. The One with no needs, who is all good and perfection itself, has no reason or need to act. Yet, He created and sustains the universe’s existence. The only explanation is that this creation flows from His infinite, unconditional Love. This Love is his very being.",
+        "kor": "하나님은 사랑이십니다. 아무 필요가 없으시고, 완전하고 선하신 분께는 행동할 이유가 필요하지 않습니다. 그럼에도 하나님께서는 우주를 창조하시고 지금도 존재하게 하십니다. 이 모든 것은 오직 하나님의 무한하고 조건 없는 사랑에서 비롯됩니다. 이 사랑이 곧 하나님의 존재이십니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 110,
-      "eng": "Loving God unconditionally means needing nothing from Him. While many wish for riches, health, or happiness, our devotion doesn't depend on these. Even if we're poor, sick, or alone on our deathbed, our love for God remains greater than all.",
-      "kor": "하나님을 무조건적으로 사랑한다는 것은, 아무것도 바라지 않는다는 뜻입니다. 많은 사람들이 부, 건강, 행복을 원하지만, 우리의 헌신은 그런 것들에 달려 있지 않습니다. 우리가 가난하거나, 병들었거나, 죽음의 자리에서 홀로 있더라도, 하나님을 향한 우리의 사랑은 그 모든 것보다 더 큽니다."
+      "content": {
+        "eng": "Loving God unconditionally means needing nothing from Him. While many wish for riches, health, or happiness, our devotion doesn't depend on these. Even if we're poor, sick, or alone on our deathbed, our love for God remains greater than all.",
+        "kor": "하나님을 무조건적으로 사랑한다는 것은, 아무것도 바라지 않는다는 뜻입니다. 많은 사람들이 부, 건강, 행복을 원하지만, 우리의 헌신은 그런 것들에 달려 있지 않습니다. 우리가 가난하거나, 병들었거나, 죽음의 자리에서 홀로 있더라도, 하나님을 향한 우리의 사랑은 그 모든 것보다 더 큽니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 111,
-      "eng": "Many Christians think Jesus resurrection is historical and their faith is built in this being reality. Our faith is not dependent on the Bible's historical accuracy. Use the Bible as a tool to understand God, not as a history textbook. God is true, so the Bible is true.",
-      "kor": "많은 기독교인은 예수님의 부활을 역사적 사실로 여기며 그 사실에 신앙의 기초를 둡니다. 그러나 우리의 믿음은 성경의 역사적 정확성에 달려 있지 않습니다. 성경을 역사 교과서가 아닌, 하나님을 이해하는 도구로 사용하세요. 하나님이 진리이시기에 성경도 진리입니다."
+      "content": {
+        "eng": "Many Christians think Jesus resurrection is historical and their faith is built in this being reality. Our faith is not dependent on the Bible's historical accuracy. Use the Bible as a tool to understand God, not as a history textbook. God is true, so the Bible is true.",
+        "kor": "많은 기독교인은 예수님의 부활을 역사적 사실로 여기며 그 사실에 신앙의 기초를 둡니다. 그러나 우리의 믿음은 성경의 역사적 정확성에 달려 있지 않습니다. 성경을 역사 교과서가 아닌, 하나님을 이해하는 도구로 사용하세요. 하나님이 진리이시기에 성경도 진리입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 112,
-      "eng": "We invent a time machine and go to when Jesus died. How shaken would your faith be if we dont witness his resurrection and ascension? The truth of God is beyond what happens in our world. Our faith is not based in worldly events but God and God alone.",
-      "kor": "타임머신을 타고 예수님이 돌아가신 그 시대로 간다고 상상해 봅시다. 만약 그곳에서 부활이나 승천을 보지 못한다면, 당신의 믿음은 얼마나 흔들릴까요? 하나님의 진리는 세상의 사건을 넘어 존재합니다. 우리의 신앙은 세상의 일에 의존하지 않고 오직 하나님 한 분께만 뿌리를 두고 있습니다."
+      "content": {
+        "eng": "We invent a time machine and go to when Jesus died. How shaken would your faith be if we dont witness his resurrection and ascension? The truth of God is beyond what happens in our world. Our faith is not based in worldly events but God and God alone.",
+        "kor": "타임머신을 타고 예수님이 돌아가신 그 시대로 간다고 상상해 봅시다. 만약 그곳에서 부활이나 승천을 보지 못한다면, 당신의 믿음은 얼마나 흔들릴까요? 하나님의 진리는 세상의 사건을 넘어 존재합니다. 우리의 신앙은 세상의 일에 의존하지 않고 오직 하나님 한 분께만 뿌리를 두고 있습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 113,
-      "eng": "We have no worries. Our trust in God is greater than any worry. God is always there to lead us, no matter what. Allow yourself to be led, and cast all worries onto him.",
-      "kor": "우리에게 걱정은 없습니다. 하나님을 향한 우리의 신뢰가 그 어떤 염려보다 큽니다. 하나님은 언제나 우리를 인도해 주십니다. 무엇이든 그분께 맡기고, 그분의 인도하심을 따르세요."
+      "content": {
+        "eng": "We have no worries. Our trust in God is greater than any worry. God is always there to lead us, no matter what. Allow yourself to be led, and cast all worries onto him.",
+        "kor": "우리에게 걱정은 없습니다. 하나님을 향한 우리의 신뢰가 그 어떤 염려보다 큽니다. 하나님은 언제나 우리를 인도해 주십니다. 무엇이든 그분께 맡기고, 그분의 인도하심을 따르세요."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 114,
-      "eng": "Achieving goals only provides momentary satisfaction. Find the joy in the journey. There is only momentary joy in accomplishments. There is constant joy in the journey. To follow God is a journey with no end. Embrace the eternal life Christ has prepared for us.",
-      "kor": "목표를 이루는 것은 잠시의 만족을 줄 뿐입니다. 과정 속에서 기쁨을 찾으세요. 하나님은 결과에 집중하지 않으십니다. 성취에 잠깐의 기쁨이 있을 뿐, 진정한 기쁨은 여정에 있습니다. 하나님을 따라가는 길은 끝이 없는 여정입니다. 예수님께서 준비해 주신 영원한 삶을 마음껏 누리세요."
+      "content": {
+        "eng": "Achieving goals only provides momentary satisfaction. Find the joy in the journey. There is only momentary joy in accomplishments. There is constant joy in the journey. To follow God is a journey with no end. Embrace the eternal life Christ has prepared for us.",
+        "kor": "목표를 이루는 것은 잠시의 만족을 줄 뿐입니다. 과정 속에서 기쁨을 찾으세요. 하나님은 결과에 집중하지 않으십니다. 성취에 잠깐의 기쁨이 있을 뿐, 진정한 기쁨은 여정에 있습니다. 하나님을 따라가는 길은 끝이 없는 여정입니다. 예수님께서 준비해 주신 영원한 삶을 마음껏 누리세요."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 115,
-      "eng": "There is no grand plan for your life. God is not about chasing positive outcomes. What we do is constant, every second, we follow God. Whatever comes as the result of that is what it is. Consequently, this does lead to positive outcomes most of the time. But sometimes not.",
-      "kor": "하나님께서 우리의 삶에 거대한 계획을 세워두신 것은 아닙니다. 하나님을 따른다는 건 그저 긍정적인 결과를 추구하는 것이 아닙니다. 우리가 해야 할 일은 매 순간, 매 초마다 하나님을 따르는 것뿐입니다. 그 결과가 긍정적일 때가 많지만, 그렇지 않더라도 우리는 묵묵히 나아갑니다."
+      "content": {
+        "eng": "There is no grand plan for your life. God is not about chasing positive outcomes. What we do is constant, every second, we follow God. Whatever comes as the result of that is what it is. Consequently, this does lead to positive outcomes most of the time. But sometimes not.",
+        "kor": "하나님께서 우리의 삶에 거대한 계획을 세워두신 것은 아닙니다. 하나님을 따른다는 건 그저 긍정적인 결과를 추구하는 것이 아닙니다. 우리가 해야 할 일은 매 순간, 매 초마다 하나님을 따르는 것뿐입니다. 그 결과가 긍정적일 때가 많지만, 그렇지 않더라도 우리는 묵묵히 나아갑니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 116,
-      "eng": "Christians should have no ego, or even better, our ego is God. The ego mediates our instincts, moral conscience and reality to produce action. All we do is follow God. The Holy Spirit will mediate our instincts, conscience and reality and guide us to the right path.",
-      "kor": "그리스도인은 자아를 내려놓거나, 우리의 자아를 하나님으로 채워야 합니다. 자아란 본능, 도덕적 양심, 현실을 조율하여 행동을 만들어 내는 것인데, 우리는 그저 하나님의 인도하심을 따르는 자들입니다. 성령님께서 우리의 본능과 양심, 현실을 중재하시며 올바른 길로 이끌어 주실 것입니다."
+      "content": {
+        "eng": "Christians should have no ego, or even better, our ego is God. The ego mediates our instincts, moral conscience and reality to produce action. All we do is follow God. The Holy Spirit will mediate our instincts, conscience and reality and guide us to the right path.",
+        "kor": "그리스도인은 자아를 내려놓거나, 우리의 자아를 하나님으로 채워야 합니다. 자아란 본능, 도덕적 양심, 현실을 조율하여 행동을 만들어 내는 것인데, 우리는 그저 하나님의 인도하심을 따르는 자들입니다. 성령님께서 우리의 본능과 양심, 현실을 중재하시며 올바른 길로 이끌어 주실 것입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 117,
-      "eng": "When our ego is God and the Holy Spirit, we: Don't compare ourselves to anyone.",
-      "kor": ""
+      "content": {
+        "eng": "When our ego is God and the Holy Spirit, we: Don't compare ourselves to anyone.",
+        "kor": ""
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 118,
-      "eng": "Life is one big test. Every moment we're alive is an opportunity for us to prove to ourselves that God is the most important thing in our lives. Constantly check ourselves and our past behaviour so we know where we failed, and next time we can pass.",
-      "kor": "인생은 큰 시험과도 같습니다. 살아있는 매 순간, 우리는 하나님이 우리 삶에서 가장 중요한 분임을 스스로 증명할 기회를 얻습니다. 끊임없이 우리 자신과 지난 행동을 돌아보며 어디에서 실패했는지 깨닫고, 다음번에는 그 시험을 통과할 수 있도록 준비합시다."
+      "content": {
+        "eng": "Life is one big test. Every moment we're alive is an opportunity for us to prove to ourselves that God is the most important thing in our lives. Constantly check ourselves and our past behaviour so we know where we failed, and next time we can pass.",
+        "kor": "인생은 큰 시험과도 같습니다. 살아있는 매 순간, 우리는 하나님이 우리 삶에서 가장 중요한 분임을 스스로 증명할 기회를 얻습니다. 끊임없이 우리 자신과 지난 행동을 돌아보며 어디에서 실패했는지 깨닫고, 다음번에는 그 시험을 통과할 수 있도록 준비합시다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 119,
-      "eng": "God does not die. To die is lose something causing existence to not be possible. God's existence has no dependencies, so he can lose nothing which will cause him to die. When God dies, it is us who loses him, not Him who is gone.",
-      "kor": "하나님은 죽지 않으십니다. 죽는다는 것은 존재를 불가능하게 만드는 무언가를 잃는 것입니다. 하나님의 존재는 그 어떤 것에도 의존하지 않으시기에, 그분에게는 존재를 잃게 할 만한 것이 없습니다. 하나님이 '죽으신다'는 것은 그분이 사라지는 것이 아니라, 우리가 하나님을 잃는 것을 뜻합니다."
+      "content": {
+        "eng": "God does not die. To die is lose something causing existence to not be possible. God's existence has no dependencies, so he can lose nothing which will cause him to die. When God dies, it is us who loses him, not Him who is gone.",
+        "kor": "하나님은 죽지 않으십니다. 죽는다는 것은 존재를 불가능하게 만드는 무언가를 잃는 것입니다. 하나님의 존재는 그 어떤 것에도 의존하지 않으시기에, 그분에게는 존재를 잃게 할 만한 것이 없습니다. 하나님이 '죽으신다'는 것은 그분이 사라지는 것이 아니라, 우리가 하나님을 잃는 것을 뜻합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 120,
-      "eng": "God does not leave us. To be somewhere at some point, then no longer there, is a change. God does not change, so God cannot leave us. Fortunately for us, God is always with us. It is us who registers him or not.",
-      "kor": "하나님은 우리를 떠나지 않으십니다. 어떤 순간에 있다가 더 이상 그 자리에 없는 것은 '변화'입니다. 그러나 하나님은 변하지 않으시기에, 우리를 떠나실 수 없습니다. 다행히도 하나님은 항상 우리와 함께하십니다. 그분을 느끼고 인식하는 것은 바로 우리의 몫입니다."
+      "content": {
+        "eng": "God does not leave us. To be somewhere at some point, then no longer there, is a change. God does not change, so God cannot leave us. Fortunately for us, God is always with us. It is us who registers him or not.",
+        "kor": "하나님은 우리를 떠나지 않으십니다. 어떤 순간에 있다가 더 이상 그 자리에 없는 것은 '변화'입니다. 그러나 하나님은 변하지 않으시기에, 우리를 떠나실 수 없습니다. 다행히도 하나님은 항상 우리와 함께하십니다. 그분을 느끼고 인식하는 것은 바로 우리의 몫입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 121,
-      "eng": "Delusion is not the solution. It is twisting reality because we don't like reality. All reasons to twist reality are based on personal preference, not on God. God is the God of truth. Assess our own beliefs, and be sure they are grounded in reality.",
-      "kor": "환상은 해결책이 아닙니다. 현실이 마음에 들지 않아 왜곡하는 것일 뿐이죠. 현실을 왜곡하려는 모든 이유는 하나님이 아닌, 개인의 취향에서 비롯됩니다. 하나님은 진리의 하나님이십니다. 우리의 믿음을 점검하고, 그것이 현실에 뿌리내리고 있는지 확인합시다."
+      "content": {
+        "eng": "Delusion is not the solution. It is twisting reality because we don't like reality. All reasons to twist reality are based on personal preference, not on God. God is the God of truth. Assess our own beliefs, and be sure they are grounded in reality.",
+        "kor": "환상은 해결책이 아닙니다. 현실이 마음에 들지 않아 왜곡하는 것일 뿐이죠. 현실을 왜곡하려는 모든 이유는 하나님이 아닌, 개인의 취향에서 비롯됩니다. 하나님은 진리의 하나님이십니다. 우리의 믿음을 점검하고, 그것이 현실에 뿌리내리고 있는지 확인합시다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 122,
-      "eng": "To love God unconditionally is to live by God. To live by God is to love others unconditionally. For God is love, so shall we be love. Love for your family, your spouse, your friends, your community, your acquaintances, your enemies. Love all.",
-      "kor": "하나님을 무조건적으로 사랑한다는 것은 하나님 안에서 사는 것입니다. 하나님 안에서 사는 것은 곧 다른 이들을 무조건적으로 사랑하는 것이죠. 하나님은 사랑이십니다. 그러니 우리도 사랑이 되어야 합니다. 가족과 배우자, 친구와 이웃, 지인과 심지어 원수까지—모든 이를 사랑합시다."
+      "content": {
+        "eng": "To love God unconditionally is to live by God. To live by God is to love others unconditionally. For God is love, so shall we be love. Love for your family, your spouse, your friends, your community, your acquaintances, your enemies. Love all.",
+        "kor": "하나님을 무조건적으로 사랑한다는 것은 하나님 안에서 사는 것입니다. 하나님 안에서 사는 것은 곧 다른 이들을 무조건적으로 사랑하는 것이죠. 하나님은 사랑이십니다. 그러니 우리도 사랑이 되어야 합니다. 가족과 배우자, 친구와 이웃, 지인과 심지어 원수까지—모든 이를 사랑합시다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 123,
-      "eng": "When the time comes, how do we know we can make the right choices? Daily choices may seem small, but they prepare us for life’s biggest tests. By taking up our cross in every moment, we strengthen our resolve and faith, ready to bear the weight when the time truly comes.",
-      "kor": "그 순간이 왔을 때, 우리가 올바른 선택을 할 수 있을지 어떻게 알 수 있을까요? 매일의 작은 선택들은 작아 보일지 모르지만, 인생의 큰 시험을 준비하게 해줍니다. 매 순간 우리의 십자가를 지며 결단과 믿음을 단련해 두면, 진정 중요한 때가 왔을 때 그 무게를 감당할 준비가 되어 있을 것입니다."
+      "content": {
+        "eng": "When the time comes, how do we know we can make the right choices? Daily choices may seem small, but they prepare us for life’s biggest tests. By taking up our cross in every moment, we strengthen our resolve and faith, ready to bear the weight when the time truly comes.",
+        "kor": "그 순간이 왔을 때, 우리가 올바른 선택을 할 수 있을지 어떻게 알 수 있을까요? 매일의 작은 선택들은 작아 보일지 모르지만, 인생의 큰 시험을 준비하게 해줍니다. 매 순간 우리의 십자가를 지며 결단과 믿음을 단련해 두면, 진정 중요한 때가 왔을 때 그 무게를 감당할 준비가 되어 있을 것입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 124,
-      "eng": "Nothing is too small or insignificant in the service of God. He calls us to be humble, to do all things in devotion. As God serves us in all ways, so we should serve Him, fulfilling even the smallest duty.",
-      "kor": "하나님을 섬기는 일에 작거나 하찮은 것은 없습니다. 하나님은 우리에게 겸손을 요구하시며, 모든 일을 헌신으로 행하길 원하십니다. 하나님께서 모든 면에서 우리를 섬겨 주시듯, 우리도 하나님을 섬기며 작은 일 하나까지도 충실히 감당합시다."
+      "content": {
+        "eng": "Nothing is too small or insignificant in the service of God. He calls us to be humble, to do all things in devotion. As God serves us in all ways, so we should serve Him, fulfilling even the smallest duty.",
+        "kor": "하나님을 섬기는 일에 작거나 하찮은 것은 없습니다. 하나님은 우리에게 겸손을 요구하시며, 모든 일을 헌신으로 행하길 원하십니다. 하나님께서 모든 면에서 우리를 섬겨 주시듯, 우리도 하나님을 섬기며 작은 일 하나까지도 충실히 감당합시다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 125,
-      "eng": "To believe in God is to Love God. To Love God is to follow God. To follow God is to mimic God. Luckily we have the best example and person and God to follow, known as Jesus. Because he is man and God, we can follow him and therefore follow God.",
-      "kor": "하나님을 믿는 것은 하나님을 사랑하는 것입니다. 하나님을 사랑하는 것은 그분을 따르는 것이며, 하나님을 따르는 것은 그분을 닮아가는 것입니다. 다행히 예수님이라는 가장 완전한 본을 우리에게 주셨습니다. 사람이자 하나님이신 예수님을 따르며 하나님을 따릅니다."
+      "content": {
+        "eng": "To believe in God is to Love God. To Love God is to follow God. To follow God is to mimic God. Luckily we have the best example and person and God to follow, known as Jesus. Because he is man and God, we can follow him and therefore follow God.",
+        "kor": "하나님을 믿는 것은 하나님을 사랑하는 것입니다. 하나님을 사랑하는 것은 그분을 따르는 것이며, 하나님을 따르는 것은 그분을 닮아가는 것입니다. 다행히 예수님이라는 가장 완전한 본을 우리에게 주셨습니다. 사람이자 하나님이신 예수님을 따르며 하나님을 따릅니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 126,
-      "eng": "It is unreasonable to hold others to a standard they do not agree with. We can understand their values and maybe correct their actions from that. Or there's a fundamental difference in the values and that needs to change. We can help one, but only God can change someone's values.",
-      "kor": "다른 사람에게 그들이 동의하지 않는 기준을 강요하는 것은 무리한 일입니다. 그들의 가치를 이해하고 그에 맞춰 행동을 바로잡도록 도울 수는 있습니다. 하지만 근본적인 가치관의 차이가 있다면, 변화가 필요합니다. 행동은 우리가 도울 수 있지만, 가치의 변화는 하나님만이 이루실 수 있습니다."
+      "content": {
+        "eng": "It is unreasonable to hold others to a standard they do not agree with. We can understand their values and maybe correct their actions from that. Or there's a fundamental difference in the values and that needs to change. We can help one, but only God can change someone's values.",
+        "kor": "다른 사람에게 그들이 동의하지 않는 기준을 강요하는 것은 무리한 일입니다. 그들의 가치를 이해하고 그에 맞춰 행동을 바로잡도록 도울 수는 있습니다. 하지만 근본적인 가치관의 차이가 있다면, 변화가 필요합니다. 행동은 우리가 도울 수 있지만, 가치의 변화는 하나님만이 이루실 수 있습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 127,
-      "eng": "God is true and is the truth. He acts as the foundation of all our reality, values and beliefs. The bible is not God. It is not the truth. It is a guide and pointer to God, the truth. Find God in the bible, do not make the bible your God.",
-      "kor": "하나님은 참되시며 진리이십니다. 우리의 모든 현실, 가치, 믿음의 기초가 되십니다. 성경은 하나님이 아니며, 그 자체가 진리도 아닙니다. 성경은 진리이신 하나님을 향해 가리키는 길잡이일 뿐입니다. 성경 안에서 하나님을 찾으십시오. 성경을 하나님으로 삼지 마십시오."
+      "content": {
+        "eng": "God is true and is the truth. He acts as the foundation of all our reality, values and beliefs. The bible is not God. It is not the truth. It is a guide and pointer to God, the truth. Find God in the bible, do not make the bible your God.",
+        "kor": "하나님은 참되시며 진리이십니다. 우리의 모든 현실, 가치, 믿음의 기초가 되십니다. 성경은 하나님이 아니며, 그 자체가 진리도 아닙니다. 성경은 진리이신 하나님을 향해 가리키는 길잡이일 뿐입니다. 성경 안에서 하나님을 찾으십시오. 성경을 하나님으로 삼지 마십시오."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 128,
-      "eng": "Different people across generations wrote about the Truth and God. They were all writing about the same topic, so each of them can write something different and it can all be true and consistent. The best of which was compiled to be the Bible. So it is the Word of God.",
-      "kor": "세대를 넘어 다양한 사람들이 진리와 하나님에 대해 기록했습니다. 그들은 모두 같은 주제를 다루었기에 각기 다른 방식으로 썼지만, 그 모든 것이 진실하고 일관될 수 있었습니다. 그리고 그중에서 가장 탁월한 것들이 모여 성경이 되었습니다. 그래서 성경은 하나님의 말씀입니다."
+      "content": {
+        "eng": "Different people across generations wrote about the Truth and God. They were all writing about the same topic, so each of them can write something different and it can all be true and consistent. The best of which was compiled to be the Bible. So it is the Word of God.",
+        "kor": "세대를 넘어 다양한 사람들이 진리와 하나님에 대해 기록했습니다. 그들은 모두 같은 주제를 다루었기에 각기 다른 방식으로 썼지만, 그 모든 것이 진실하고 일관될 수 있었습니다. 그리고 그중에서 가장 탁월한 것들이 모여 성경이 되었습니다. 그래서 성경은 하나님의 말씀입니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 129,
-      "eng": "The bible is not to shape our reality. The bible is to shape our lives. Historic belief in the bible means for every miracle, we need to suspend disbelief and change our reality to one where the miracle is possible. Do not build reality on false notions.",
-      "kor": "성경은 우리의 현실을 형성하기 위한 것이 아니라, 우리의 삶을 변화시키기 위한 것입니다. 성경을 믿는다는 것은 모든 기적 앞에서 의심을 내려놓고, 기적이 가능한 현실을 받아들이는 것입니다. 그러나 현실에 맞지 않는 해석이나 설명을 붙이려는 노력이 오히려 진리와 멀어질 수 있습니다."
+      "content": {
+        "eng": "The bible is not to shape our reality. The bible is to shape our lives. Historic belief in the bible means for every miracle, we need to suspend disbelief and change our reality to one where the miracle is possible. Do not build reality on false notions.",
+        "kor": "성경은 우리의 현실을 형성하기 위한 것이 아니라, 우리의 삶을 변화시키기 위한 것입니다. 성경을 믿는다는 것은 모든 기적 앞에서 의심을 내려놓고, 기적이 가능한 현실을 받아들이는 것입니다. 그러나 현실에 맞지 않는 해석이나 설명을 붙이려는 노력이 오히려 진리와 멀어질 수 있습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 130,
-      "eng": "The bible has many unrealistic stories. God being true does not mean the bible is true. Believing the bible literally is a big ask for anyone rational. Many choose to just accept it as it. View the bible through the lens of reality, to see what the story truly intends to tell us.",
-      "kor": "성경에는 비현실적인 이야기가 많다. 하나님이 진실하다는 것이 곧 성경이 문자 그대로 사실임을 뜻하지는 않습니다. 하지만 많은 사람들이 단순히 성경을 있는 그대로 받아들입니다. 현실의 눈으로 성경을 바라보면, 그 이야기가 진정으로 전하려는 메시지가 무엇인지 알 수 있습니다."
+      "content": {
+        "eng": "The bible has many unrealistic stories. God being true does not mean the bible is true. Believing the bible literally is a big ask for anyone rational. Many choose to just accept it as it. View the bible through the lens of reality, to see what the story truly intends to tell us.",
+        "kor": "성경에는 비현실적인 이야기가 많다. 하나님이 진실하다는 것이 곧 성경이 문자 그대로 사실임을 뜻하지는 않습니다. 하지만 많은 사람들이 단순히 성경을 있는 그대로 받아들입니다. 현실의 눈으로 성경을 바라보면, 그 이야기가 진정으로 전하려는 메시지가 무엇인지 알 수 있습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 131,
-      "eng": "Taking the Bible as truth leads us to base arguments on it but for those who don’t trust it, this can hurt our credibility. Instead, we can ground discussions in universal principles, showing how they align with Scripture for a more effective witness.",
-      "kor": "성경을 진리로 받아들이면 그에 근거해 논쟁하게 되지만, 성경을 신뢰하지 않는 사람들에게는 우리의 신뢰도가 떨어질 수 있습니다. 대신 보편적인 원칙에 기반하여 대화를 이끌고, 그것이 성경과 어떻게 일치하는지를 보여줌으로써 더 효과적인 증거가 될 수 있습니다."
+      "content": {
+        "eng": "Taking the Bible as truth leads us to base arguments on it but for those who don’t trust it, this can hurt our credibility. Instead, we can ground discussions in universal principles, showing how they align with Scripture for a more effective witness.",
+        "kor": "성경을 진리로 받아들이면 그에 근거해 논쟁하게 되지만, 성경을 신뢰하지 않는 사람들에게는 우리의 신뢰도가 떨어질 수 있습니다. 대신 보편적인 원칙에 기반하여 대화를 이끌고, 그것이 성경과 어떻게 일치하는지를 보여줌으로써 더 효과적인 증거가 될 수 있습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 132,
-      "eng": "To mimic God is to be in a certain state of action constantly. Unconditional love of others is a part of it. It is unconditional as it is directly in line with our nature, which is in line with God. Emanate His Will just as He does.",
-      "kor": "하나님을 닮는다는 것은, 지속적으로 특정한 행동 상태에 있는 것을 의미합니다. 그 중 하나가 바로 타인에 대한 무조건적인 사랑입니다. 우리의 본성이 하나님과 일치하듯, 이 사랑 역시 조건 없이 흐릅니다. 하나님의 뜻을 그분처럼 자연스럽게 발하며 살아가십시오."
+      "content": {
+        "eng": "To mimic God is to be in a certain state of action constantly. Unconditional love of others is a part of it. It is unconditional as it is directly in line with our nature, which is in line with God. Emanate His Will just as He does.",
+        "kor": "하나님을 닮는다는 것은, 지속적으로 특정한 행동 상태에 있는 것을 의미합니다. 그 중 하나가 바로 타인에 대한 무조건적인 사랑입니다. 우리의 본성이 하나님과 일치하듯, 이 사랑 역시 조건 없이 흐릅니다. 하나님의 뜻을 그분처럼 자연스럽게 발하며 살아가십시오."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 133,
-      "eng": "Unconditionally loving others is hard. We care for them and do what is best for them in God. Not necessarily what they want. We must remain in line with God in all we do for others, so our motives remain pure and we remain pure.",
-      "kor": "타인을 무조건적으로 사랑하는 것은 참 어렵습니다. 그들을 사랑한다는 것은 그들이 원하는 것이 아니라, 하나님 안에서 그들에게 가장 좋은 것을 행하는 것입니다. 모든 일에서 하나님과 일치하는 마음을 지켜야 우리의 동기가 순수하고 우리 자신도 순수함을 유지할 수 있습니다."
+      "content": {
+        "eng": "Unconditionally loving others is hard. We care for them and do what is best for them in God. Not necessarily what they want. We must remain in line with God in all we do for others, so our motives remain pure and we remain pure.",
+        "kor": "타인을 무조건적으로 사랑하는 것은 참 어렵습니다. 그들을 사랑한다는 것은 그들이 원하는 것이 아니라, 하나님 안에서 그들에게 가장 좋은 것을 행하는 것입니다. 모든 일에서 하나님과 일치하는 마음을 지켜야 우리의 동기가 순수하고 우리 자신도 순수함을 유지할 수 있습니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 134,
-      "eng": "We are all welcome into God's arms. He is there for us all. He is always there to fall back on. Devotion to Him is a change in us to accept Jesus as our Lord. To make Him the most important thing in our life. So all we do is for Him.",
-      "kor": "우리는 모두 하나님의 품으로 초대받았습니다. 하나님은 항상 우리 곁에 계시며 우리가 의지할 수 있는 분이십니다. 그분께 헌신하는 것은 우리의 마음이 변화되어 예수님을 주님으로 받아들이는 것입니다. 하나님을 삶의 가장 중요한 분으로 모시고, 모든 행동이 그분을 위한 것이 되게 하는 것이죠."
+      "content": {
+        "eng": "We are all welcome into God's arms. He is there for us all. He is always there to fall back on. Devotion to Him is a change in us to accept Jesus as our Lord. To make Him the most important thing in our life. So all we do is for Him.",
+        "kor": "우리는 모두 하나님의 품으로 초대받았습니다. 하나님은 항상 우리 곁에 계시며 우리가 의지할 수 있는 분이십니다. 그분께 헌신하는 것은 우리의 마음이 변화되어 예수님을 주님으로 받아들이는 것입니다. 하나님을 삶의 가장 중요한 분으로 모시고, 모든 행동이 그분을 위한 것이 되게 하는 것이죠."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 135,
-      "eng": "In the beginning is God and in the end is God",
-      "kor": "처음에 하나님이 계시고 끝에도 하나님이 계신다."
+      "content": {
+        "eng": "In the beginning is God and in the end is God",
+        "kor": "처음에 하나님이 계시고 끝에도 하나님이 계신다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     }
   ]
 }
