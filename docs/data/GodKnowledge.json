@@ -10,7 +10,10 @@
         "eng": "",
         "kor": ""
       },
-      "references": []
+      "references": [{
+          "text": "Revelation 22:13",
+          "url": "https://www.biblegateway.com/passage/?search=Revelation+22%3A13&version=NIV"
+        }]
     },
     {
       "id": 2,
