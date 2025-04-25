@@ -24,12 +24,17 @@
       text-align: center;
     }
 
+    .lang-select {
+      margin-bottom: 1rem;
+    }
+
     .links {
       display: flex;
       flex-direction: column;
       gap: 1rem;
       width: 100%;
       max-width: 400px;
+      margin-bottom: 1.5rem;
     }
 
     .link-item {
@@ -48,8 +53,18 @@
       transform: translateY(-2px);
     }
 
+    .social-media {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+    .social-media a {
+      color: #82cfff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
     .footer {
-      margin-top: 2rem;
       font-size: 0.8rem;
       opacity: 0.6;
       text-align: center;
@@ -59,10 +74,56 @@
 <body>
   <h1>📚 GonaeNZ Resources</h1>
 
+  <!-- Language selector -->
+  <div class="lang-select">
+    <label for="lang-selector" style="margin-right: 0.5rem; color: #fff;">Language:</label>
+    <select id="lang-selector">
+      <option value="eng">English</option>
+      <option value="kor">한국어</option>
+    </select>
+  </div>
+
+  <!-- Main links -->
   <div class="links">
-    <a class="link-item" href="GodKnowledge/index.html">📖 God Knowledge Compilation</a>
+    <a id="god-link" class="link-item" href="GodKnowledge/index.html">
+      📖 God Knowledge Compilation
+    </a>
+  </div>
+
+  <!-- Social media -->
+  <div class="social-media">
+    <a id="twitter-link" href="#" target="_blank">Twitter</a>
+    <a id="instagram-link" href="#" target="_blank">Instagram</a>
   </div>
 
   <div class="footer">© 2025 GonaeNZ</div>
+
+  <!-- Inline script to wire up language & links -->
+  <script>
+    const langSelector     = document.getElementById('lang-selector');
+    const godLink          = document.getElementById('god-link');
+    const twitterLink      = document.getElementById('twitter-link');
+    const instagramLink    = document.getElementById('instagram-link');
+
+    function updateIndexPage() {
+      const lang = langSelector.value;
+      if (lang === 'eng') {
+        godLink.textContent      = '📖 God Knowledge Compilation';
+        twitterLink.href         = 'https://x.com/GonaeNZ';
+        twitterLink.textContent  = 'Twitter';
+        instagramLink.href       = 'https://www.instagram.com/gonaenz/';
+        instagramLink.textContent= 'Instagram';
+      } else {
+        godLink.textContent      = '📖 하나님의 지식 모음';
+        twitterLink.href         = 'https://x.com/GonaeKR';
+        twitterLink.textContent  = '트위터';
+        instagramLink.href       = 'https://www.instagram.com/gonaenz/';
+        instagramLink.textContent= '인스타그램';
+      }
+    }
+
+    langSelector.addEventListener('change', updateIndexPage);
+    updateIndexPage();
+  </script>
 </body>
 </html>
