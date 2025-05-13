@@ -11,13 +11,34 @@
         "kor": ""
       },
       "references": [
-        "Revelation 22:13",
-        "Revelation 1:8",
-        "Revelation 4:8",
-        "Isaiah 44:6",
-        "Genesis 1:1",
-        "Psalm 90:2",
-        "John 1:1–3"
+        {
+          "text": "Revelation 22:13",
+          "url": "https://www.biblegateway.com/passage/?search=Revelation+22%3A13&version=NIV"
+        },
+        {
+          "text": "Revelation 1:8",
+          "url": "https://www.biblegateway.com/passage/?search=Revelation+1%3A8&version=NIV"
+        },
+        {
+          "text": "Revelation 4:8",
+          "url": "https://www.biblegateway.com/passage/?search=Revelation 4:8&version=NIV"
+        },
+        {
+          "text": "Isaiah 44:6",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah+44%3A6&version=NIV"
+        },
+        {
+          "text": "Genesis 1:1",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A1&version=NIV"
+        },
+        {
+          "text": "Psalm 90:2",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+90%3A2&version=NIV"
+        },
+        {
+          "text": "John 1:1–3",
+          "url": "https://www.biblegateway.com/passage/?search=John 1:1-3&version=NIV"
+        }
       ]
     },
     {
@@ -31,11 +52,22 @@
         "kor": ""
       },
       "references": [
-        "Exodus 32:4-6",
-        "Job 42:7",
-        "Isaiah 55:8-9",
-        "Acts 17:23"
-      ]
+        {
+          "text": "Exodus 32:4-6",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 32:4-6&version=NIV"
+        },
+        {
+          "text": "Job 42:7",
+          "url": "https://www.biblegateway.com/passage/?search=Job 42:7&version=NIV"
+        },
+        {
+          "text": "Isaiah 55:8-9",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah 55:8-9&version=NIV"
+        },
+        {
+          "text": "Acts 17:23",
+          "url": "https://www.biblegateway.com/passage/?search=Acts 17:23&version=NIV"
+        }]
     },
     {
       "id": 3,
@@ -60,15 +92,38 @@
         "kor": ""
       },
       "references": [
-        "Genesis 1:1",
-        "John 1:1–3",
-        "Exodus 3:14",
-        "Romans 11:36",
-        "Malachi 3:6",
-        "Isaiah 44:6",
-        "Job 41:11",
-        "Revelation 4:11"
-      ]
+        {
+          "text": "Genesis 1:1",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A1&version=NIV"
+        },
+        {
+          "text": "John 1:1–3",
+          "url": "https://www.biblegateway.com/passage/?search=John 1:1-3&version=NIV"
+        },
+        {
+          "text": "Exodus 3:14",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        },
+        {
+          "text": "Romans 11:36",
+          "url": "https://www.biblegateway.com/passage/?search=Romans 11:36&version=NIV"
+        },
+        {
+          "text": "Malachi 3:6",
+          "url": "https://www.biblegateway.com/passage/?search=Malachi 3:6&version=NIV"
+        },
+        {
+          "text": "Isaiah 44:6",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah 44:6&version=NIV"
+        },
+        {
+          "text": "Job 41:11",
+          "url": "https://www.biblegateway.com/passage/?search=Job 41:11&version=NIV"
+        },
+        {
+          "text": "Revelation 4:11",
+          "url": "https://www.biblegateway.com/passage/?search=Revelation 4:11&version=NIV"
+        }]
     },
     {
       "id": 5,
@@ -81,14 +136,34 @@
         "kor": ""
       },
       "references": [
-        "Exodus 3:14",
-        "Isaiah 40:18",
-        "Isaiah 40:25",
-        "1 Timothy 6:16",
-        "Exodus 15:11",
-        "Exodus 33:20",
-        "Deuteronomy 4:15-16"
-      ]
+        {
+          "text": "Exodus 3:14",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        },
+        {
+          "text": "Isaiah 40:18",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah 40:18&version=NIV"
+        },
+        {
+          "text": "Isaiah 40:25",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah 40:25&version=NIV"
+        },
+        {
+          "text": "1 Timothy 6:16",
+          "url": "https://www.biblegateway.com/passage/?search=1 Timothy 6:16&version=NIV"
+        },
+        {
+          "text": "Exodus 15:11",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 15:11&version=NIV"
+        },
+        {
+          "text": "Exodus 33:20",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 33:20&version=NIV"
+        },
+        {
+          "text": "Deuteronomy 4:15-16",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy 4:15-16&version=NIV"
+        }]
     },
     {
       "id": 7,
@@ -101,14 +176,34 @@
         "kor": ""
       },
       "references": [
-        "Job 41:11",
-        "John 1:1–3",
-        "Exodus 3:14",
-        "Genesis 1:1",
-        "Acts 17:24-25",
-        "Colossians 1:16-17",
-        "Revelation 1:8"
-      ]
+        {
+          "text": "Job 41:11",
+          "url": "https://www.biblegateway.com/passage/?search=Job 41:11&version=NIV"
+        },
+        {
+          "text": "John 1:1–3",
+          "url": "https://www.biblegateway.com/passage/?search=John 1:1-3&version=NIV"
+        },
+        {
+          "text": "Exodus 3:14",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        },
+        {
+          "text": "Genesis 1:1",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A1&version=NIV"
+        },
+        {
+          "text": "Acts 17:24-25",
+          "url": "https://www.biblegateway.com/passage/?search=Acts 17:24-25&version=NIV"
+        },
+        {
+          "text": "Colossians 1:16-17",
+          "url": "https://www.biblegateway.com/passage/?search=Colossians 1:16-17&version=NIV"
+        },
+        {
+          "text": "Revelation 1:8",
+          "url": "https://www.biblegateway.com/passage/?search=Revelation 1:8&version=NIV"
+        }]
     },
     {
       "id": 8,
@@ -121,11 +216,22 @@
         "kor": ""
       },
       "references": [
-        "Deuteronomy 6:4",
-        "Isaiah 45:5-6",
-        "1 Corinthians 8:4-6",
-        "James 2:19"
-      ]
+        {
+          "text": "Deuteronomy 6:4",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy 6:4&version=NIV"
+        },
+        {
+          "text": "Isaiah 45:5-6",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah 45:5-6&version=NIV"
+        },
+        {
+          "text": "1 Corinthians 8:4-6",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corinthians 8:4-6&version=NIV"
+        },
+        {
+          "text": "James 2:19",
+          "url": "https://www.biblegateway.com/passage/?search=James 2:19&version=NIV"
+        }]
     },
     {
       "id": 9,
@@ -138,9 +244,14 @@
         "kor": ""
       },
       "references": [
-        "Exodus 3:14",
-        "John 1:1"
-      ]
+        {
+          "text": "Exodus 3:14",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        },
+        {
+          "text": "John 1:1",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        }]
     },
     {
       "id": 10,
@@ -153,11 +264,22 @@
         "kor": ""
       },
       "references": [
-        "Exodus 3:14",
-        "John 8:23",
-        "1 Kings 8:27",
-        "1 Timothy 6:16"
-      ]
+        {
+          "text": "Exodus 3:14",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        },
+        {
+          "text": "John 8:23",
+          "url": "https://www.biblegateway.com/passage/?search=John 8:23&version=NIV"
+        },
+        {
+          "text": "1 Kings 8:27",
+          "url": "https://www.biblegateway.com/passage/?search=1 Kings 8:27&version=NIV"
+        },
+        {
+          "text": "1 Timothy 6:16",
+          "url": "https://www.biblegateway.com/passage/?search=1 Timothy 6:16&version=NIV"
+        }]
     },
     {
       "id": 11,
@@ -170,20 +292,43 @@
         "kor": ""
       },
       "references": [
-        "Exodus 3:14",
-        "Malachi 3:6",
-        "Hebrews 13:8",
-        "Psalm 102:25–27",
-        "Isaiah 46:9–10",
-        "James 1:17",
-        "Psalm 102:25–27",
-        "2 Peter 3:8"
-      ]
+        {
+          "text": "Exodus 3:14",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        },
+        {
+          "text": "Malachi 3:6",
+          "url": "https://www.biblegateway.com/passage/?search=Malachi 3:6&version=NIV"
+        },
+        {
+          "text": "Hebrews 13:8",
+          "url": "https://www.biblegateway.com/passage/?search=Hebrews 13:8&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Isaiah 46:9–10",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah 46:9–10&version=NIV"
+        },
+        {
+          "text": "James 1:17",
+          "url": "https://www.biblegateway.com/passage/?search=James 1:17&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "2 Peter 3:8",
+          "url": "https://www.biblegateway.com/passage/?search=2 Peter 3:8&version=NIV"
+        }]
     },
     {
       "id": 13,
       "content": {
-        "eng": "God is spaceless. If God takes up space, then he must be matter or energy. Both of which can only move according to the laws of physics, and therefore create a dependency in God. This is not possible so God is spaceless. It is also not possible for him to be in some places and not in others, because then he would take up measurable space. God is in no physical place, yet we see his causality everywhere, so we say he is everywhere.",
+        "eng": "God is spaceless. If God takes up space, then he must be matter or energy. Both of which can only move according to the laws of physics, and therefore create a dependency in God. This is not possible so God is spaceless.",
         "kor": "하나님은 공간에 속하지 않으십니다. 만약 하나님이 공간을 차지하신다면 물질이나 에너지가 되어야 할 것입니다. 그러나 물질과 에너지는 물리 법칙에 따라 움직이기에 하나님께 의존성을 부여하게 됩니다. 하나님은 어떤 것에도 의존하지 않으시므로, 하나님은 공간에 구속되지 않으십니다."
       },
       "commentary": {
@@ -191,39 +336,86 @@
         "kor": ""
       },
       "references": [
-        "Genesis 1:1",
-        "Exodus 3:14",
-        "John 1:18",
-        "John 4:28",
-        "Hebrews 11:3",
-        "Jeremiah 22:22-24",
-        "1 Kings 8:27",
-        "Isaiah 66:1",
-        "Jeremiah 22:24",
-        "Psalms 139: 7-10",
-        "Acts 17:27-29"
-      ]
+        {
+          "text": "Genesis 1:1",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis 1:1&version=NIV"
+        },
+        {
+          "text": "Exodus 3:14",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        }]
+    },
+    {
+      "id": 14,
+      "content": {
+        "eng": "God is spaceless, so it is not possible for him to be in some places and not in others, because then he would take up measurable space. God is in no physical place, yet we see his causality everywhere, so we say he is everywhere.",
+        "kor": "하나님은 공간에 속하지 않으시기에 특정 장소에만 계시거나 다른 곳에 계시지 않는 것이 불가능합니다. 그렇게 된다면 하나님은 측정 가능한 공간을 차지하게 될 것입니다. 하나님은 물리적 장소에 계시지 않지만, 그분의 영향력은 어디에나 드러납니다. 그래서 하나님은 모든 곳에 계신다고 한다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 15,
       "content": {
-        "eng": "God is timeless. Time is only measurable when there is change and time only exists when there is stuff that happens over time. God is changeless, therefore is constant. God exists where there is no stuff, so God exists even when there is no time. This is why he was, he is and he always will be. ",
+        "eng": "God is timeless. Time is only measurable when there is change. God is changeless, therefore is constant and unaffected by time. This is why he was, he is and he always will be.",
         "kor": "하나님은 시간을 초월하십니다. 시간은 변화가 있을 때에만 측정될 수 있지만, 하나님은 변함이 없으시므로 시간에 영향을 받지 않고 항상 동일하십니다. 그래서 하나님은 과거에도 계셨고, 지금도 계시며, 영원히 계실 것입니다."
       },
       "commentary": {
         "eng": "",
         "kor": ""
       },
-      "references": [
-        "Genesis 1:1",
-        "Revelations 1:8",
-        "2 Peter 3:8",
-        "Hebrews 13:8",
-        "1 Timothy 6:16",
-        "Romans 1:20",
-        "Psalms 93:2",
-        "Revelation 4:8"
-      ]
+      "references": []
+    },
+    {
+      "id": 16,
+      "content": {
+        "eng": "Time is only relevant when stuff happens over time. When there is no stuff, there is no time. God exists where there is no stuff, so no time, so God is not influenced by time.",
+        "kor": "시간은 무언가가 시간에 걸쳐 일어날 때만 의미가 있다. 아무것도 존재하지 않으면 시간도 존재하지 않는다. 하나님은 아무것도 없는 곳에 존재하시기 때문에 시간의 제약을 받지 않으신다."
+      },
+      "commentary": {
+        "eng": "repeat",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 17,
@@ -235,15 +427,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": [
-        "Isaiah 40:18",
-        "Isaiah 46:5",
-        "Exodus 15:11",
-        "Job 11:7-9",
-        "Psalm 145:3",
-        "Romans 11:33",
-        "Deuteronomy 4:35"
-      ]
+      "references": []
     },
     {
       "id": 18,
@@ -255,13 +439,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": [
-        "Deuteronomy 32:4",
-        "Matthew 5:48",
-        "Job 37:16",
-        "Psalm 18:30",
-        "James 1:17"
-      ]
+      "references": []
     },
     {
       "id": 19,
@@ -270,19 +448,10 @@
         "kor": "하나님은 악하실 수 없습니다. 악이란 도덕적 선의 기준에서 벗어나는 것을 의미합니다. 그러나 하나님은 완전하시기에 어떠한 기준에서 벗어나지 않으십니다. 따라서 하나님께는 악이 있을 수 없으며, 그 자체로 선하신 분이십니다."
       },
       "commentary": {
-        "eng": "This is the why for God is good. Being good is a derivation from the criteria of evil. Evil is the lack of Good. Good is the positive attribute and the initial foundation. Removal of it creates evil. Not the removal of evil creating Good.",
+        "eng": "",
         "kor": ""
       },
-      "references": [
-        "1 John 1:5",
-        "Psalms 147:17",
-        "Deuteronomy 32:4",
-        "Mark 10:18",
-        "Nahum 1:7",
-        "2 Chronicles 5:13",
-        "Titus 3:4-5",
-        "Psalms 100:5"
-      ]
+      "references": []
     },
     {
       "id": 20,
@@ -291,20 +460,10 @@
         "kor": "하나님께는 감정이 없으십니다. 감정은 신체 내에서 화학적 반응과 호르몬을 통해 마음에 영향을 미치는데, 하나님은 육체가 없으시기에 감정의 메커니즘을 가지지 않으십니다. 성경에 나오는 하나님의 감정 표현은 하나님의 행동을 설명하기 위한 비유적 표현입니다."
       },
       "commentary": {
-        "eng": "God did not do anything because of his emotions. He reacts however he reacts and we assign emotions to the outcomes. When someone disobeys God, there may be negative consequences that happen and we attribute it to Gods wrath.",
+        "eng": "",
         "kor": ""
       },
-      "references": [
-        "Genesis 6:6",
-        "1 Samuel 15:29",
-        "Exodus 32:14",
-        "Isaiah 55:8-9",
-        "Exodus 32:10",
-        "Deuteronomy 9:8",
-        "Romans 1:18",
-        "Judges 2:18",
-        "Psalms 103:13"
-      ]
+      "references": []
     },
     {
       "id": 21,
@@ -316,13 +475,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": [
-        "John 4:24",
-        "1 Timothy 1:17",
-        "Deuteronomy 4:15-16",
-        "Isaiah 40:18",
-        "John 1:18"
-      ]
+      "references": []
     },
     {
       "id": 22,
@@ -334,11 +487,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": [
-        "Issaiah 55:11",
-        "Psalm 33:6",
-        "Issaiah 55:8"
-      ]
+      "references": []
     },
     {
       "id": 23,

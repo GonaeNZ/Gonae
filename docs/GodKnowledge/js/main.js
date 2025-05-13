@@ -21,9 +21,8 @@ async function renderModules(restoreScroll = true) {
     const container = document.getElementById('content');
     const currentLang = getCurrentLang();
   
-    const previouslyExpanded = getExpandedIds();
-    const topEntryId = restoreScroll ? getTopVisibleEntryId() : null;
-  
+    const scrollState = restoreScroll ? getScrollState() : null;
+    const expandedStates = getExpandedStates();
     container.innerHTML = `
       <div class="intro">
         <h2>Version: ${meta.version} | Date: ${meta.date}</h2>
@@ -37,7 +36,7 @@ async function renderModules(restoreScroll = true) {
   
       const commentaryText = cleanText(entry.commentary[currentLang]);
       const showCommentary = commentaryText && commentaryText !== "No commentary yet.";
-      const refsHtml = formatReferences(entry.references);
+      const refsHtml = formatReferences(entry.references, currentLang);
       const hasVerses = refsHtml && refsHtml.trim() !== '';
   
       para.innerHTML = `
@@ -56,7 +55,7 @@ async function renderModules(restoreScroll = true) {
     });
   
     initializeExpandButtons();
-    restoreExpanded(previouslyExpanded);
+    restoreExpanded(expandedStates);
   
     // Add verse toggle handlers
     document.querySelectorAll('.toggle-verses').forEach(btn => {
@@ -72,8 +71,9 @@ async function renderModules(restoreScroll = true) {
       });
     });
   
-    if (restoreScroll && topEntryId) {
-      scrollToEntryById(topEntryId);
+    if (restoreScroll) {
+      // small delay to ensure layout has settled
+      requestAnimationFrame(() => restoreScroll(scrollState));
     }
   }
   
@@ -86,16 +86,44 @@ async function renderModules(restoreScroll = true) {
       .map(el => el.closest('.entry')?.querySelector('.meta')?.textContent);
   }
   
-  function restoreExpanded(ids) {
-    ids.forEach(id => {
+  function getExpandedStates() {
+    const states = [];
+    document.querySelectorAll('.entry').forEach(entry => {
+      const id = entry.querySelector('.meta')?.textContent;
+      const commentary = entry.querySelector('.commentary');
+      if (commentary && commentary.style.display === 'block') {
+        states.push({ id, type: 'commentary' });
+      }
+      const verses = entry.querySelector('.verses');
+      if (verses && verses.style.display === 'block') {
+        states.push({ id, type: 'verses' });
+      }
+    });
+    return states;
+  }
+  
+  // 2. Restore both commentary and verses
+  function restoreExpanded(states) {
+    states.forEach(({ id, type }) => {
       const entry = [...document.querySelectorAll('.entry')]
         .find(e => e.querySelector('.meta')?.textContent === id);
-      if (entry) {
-        const commentary = entry.querySelector('.commentary');
-        if (commentary) commentary.style.display = 'block';
+      if (!entry) return;
+  
+      if (type === 'commentary') {
+        const com = entry.querySelector('.commentary');
+        if (com) com.style.display = 'block';
+      }
+      else if (type === 'verses') {
+        const verses = entry.querySelector('.verses');
+        const btn = entry.querySelector('.toggle-verses');
+        if (verses) {
+          verses.style.display = 'block';
+          if (btn) btn.textContent = '✖ Hide Verses';
+        }
       }
     });
   }
+  
   
   function getTopVisibleEntryId() {
       const entries = [...document.querySelectorAll('.entry')];
@@ -111,10 +139,30 @@ async function renderModules(restoreScroll = true) {
       return null;
     }
     
-    function scrollToEntryById(id) {
+    function getScrollState() {
+      const entries = [...document.querySelectorAll('.entry')];
+      const y = window.scrollY;
+      for (const entry of entries) {
+        const rect = entry.getBoundingClientRect();
+        const entryTop = rect.top + y;
+        // first entry whose top is <= current scrollY + a small tolerance
+        if (entryTop + rect.height > y + 1) {
+          const id = entry.querySelector('.meta')?.textContent;
+          const offset = y - entryTop;
+          return { id, offset };
+        }
+      }
+      return null;
+    }
+    
+    // 2) Restore to exactly entryTop + offset
+    function restoreScroll(scrollState) {
+      if (!scrollState) return;
+      const { id, offset } = scrollState;
       const entry = [...document.querySelectorAll('.entry')]
         .find(e => e.querySelector('.meta')?.textContent === id);
-      if (entry) {
-        entry.scrollIntoView({ behavior: 'auto', block: 'start' });
-      }
+      if (!entry) return;
+      const rect = entry.getBoundingClientRect();
+      const entryTop = rect.top + window.scrollY;
+      window.scrollTo(0, entryTop + offset);
     }
