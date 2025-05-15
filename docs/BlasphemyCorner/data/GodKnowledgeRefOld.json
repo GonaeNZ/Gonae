@@ -11,13 +11,34 @@
         "kor": ""
       },
       "references": [
-        "Revelation 22:13",
-        "Revelation 1:8",
-        "Revelation 4:8",
-        "Isaiah 44:6",
-        "Genesis 1:1",
-        "Psalm 90:2",
-        "John 1:1-3"
+        {
+          "text": "Revelation 22:13",
+          "url": "https://www.biblegateway.com/passage/?search=Revelation+22%3A13&version=NIV"
+        },
+        {
+          "text": "Revelation 1:8",
+          "url": "https://www.biblegateway.com/passage/?search=Revelation+1%3A8&version=NIV"
+        },
+        {
+          "text": "Revelation 4:8",
+          "url": "https://www.biblegateway.com/passage/?search=Revelation 4:8&version=NIV"
+        },
+        {
+          "text": "Isaiah 44:6",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah+44%3A6&version=NIV"
+        },
+        {
+          "text": "Genesis 1:1",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A1&version=NIV"
+        },
+        {
+          "text": "Psalm 90:2",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+90%3A2&version=NIV"
+        },
+        {
+          "text": "John 1:1–3",
+          "url": "https://www.biblegateway.com/passage/?search=John 1:1-3&version=NIV"
+        }
       ]
     },
     {
@@ -31,11 +52,22 @@
         "kor": ""
       },
       "references": [
-        "Exodus 32:4-6",
-        "Job 42:7",
-        "Isaiah 55:8-9",
-        "Acts 17:23"
-      ]
+        {
+          "text": "Exodus 32:4-6",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 32:4-6&version=NIV"
+        },
+        {
+          "text": "Job 42:7",
+          "url": "https://www.biblegateway.com/passage/?search=Job 42:7&version=NIV"
+        },
+        {
+          "text": "Isaiah 55:8-9",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah 55:8-9&version=NIV"
+        },
+        {
+          "text": "Acts 17:23",
+          "url": "https://www.biblegateway.com/passage/?search=Acts 17:23&version=NIV"
+        }]
     },
     {
       "id": 3,
@@ -60,15 +92,38 @@
         "kor": ""
       },
       "references": [
-        "Genesis 1:1",
-        "John 1:1-3",
-        "Exodus 3:14",
-        "Romans 11:36",
-        "Malachi 3:6",
-        "Isaiah 44:6",
-        "Job 41:11",
-        "Revelation 4:11"
-      ]
+        {
+          "text": "Genesis 1:1",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A1&version=NIV"
+        },
+        {
+          "text": "John 1:1–3",
+          "url": "https://www.biblegateway.com/passage/?search=John 1:1-3&version=NIV"
+        },
+        {
+          "text": "Exodus 3:14",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        },
+        {
+          "text": "Romans 11:36",
+          "url": "https://www.biblegateway.com/passage/?search=Romans 11:36&version=NIV"
+        },
+        {
+          "text": "Malachi 3:6",
+          "url": "https://www.biblegateway.com/passage/?search=Malachi 3:6&version=NIV"
+        },
+        {
+          "text": "Isaiah 44:6",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah 44:6&version=NIV"
+        },
+        {
+          "text": "Job 41:11",
+          "url": "https://www.biblegateway.com/passage/?search=Job 41:11&version=NIV"
+        },
+        {
+          "text": "Revelation 4:11",
+          "url": "https://www.biblegateway.com/passage/?search=Revelation 4:11&version=NIV"
+        }]
     },
     {
       "id": 5,
@@ -81,14 +136,34 @@
         "kor": ""
       },
       "references": [
-        "Exodus 3:14",
-        "Isaiah 40:18",
-        "Isaiah 40:25",
-        "1 Timothy 6:16",
-        "Exodus 15:11",
-        "Exodus 33:20",
-        "Deuteronomy 4:15-16"
-      ]
+        {
+          "text": "Exodus 3:14",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        },
+        {
+          "text": "Isaiah 40:18",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah 40:18&version=NIV"
+        },
+        {
+          "text": "Isaiah 40:25",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah 40:25&version=NIV"
+        },
+        {
+          "text": "1 Timothy 6:16",
+          "url": "https://www.biblegateway.com/passage/?search=1 Timothy 6:16&version=NIV"
+        },
+        {
+          "text": "Exodus 15:11",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 15:11&version=NIV"
+        },
+        {
+          "text": "Exodus 33:20",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 33:20&version=NIV"
+        },
+        {
+          "text": "Deuteronomy 4:15-16",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy 4:15-16&version=NIV"
+        }]
     },
     {
       "id": 7,
@@ -101,14 +176,34 @@
         "kor": ""
       },
       "references": [
-        "Job 41:11",
-        "John 1:1-3",
-        "Exodus 3:14",
-        "Genesis 1:1",
-        "Acts 17:24-25",
-        "Colossians 1:16-17",
-        "Revelation 1:8"
-      ]
+        {
+          "text": "Job 41:11",
+          "url": "https://www.biblegateway.com/passage/?search=Job 41:11&version=NIV"
+        },
+        {
+          "text": "John 1:1–3",
+          "url": "https://www.biblegateway.com/passage/?search=John 1:1-3&version=NIV"
+        },
+        {
+          "text": "Exodus 3:14",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        },
+        {
+          "text": "Genesis 1:1",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A1&version=NIV"
+        },
+        {
+          "text": "Acts 17:24-25",
+          "url": "https://www.biblegateway.com/passage/?search=Acts 17:24-25&version=NIV"
+        },
+        {
+          "text": "Colossians 1:16-17",
+          "url": "https://www.biblegateway.com/passage/?search=Colossians 1:16-17&version=NIV"
+        },
+        {
+          "text": "Revelation 1:8",
+          "url": "https://www.biblegateway.com/passage/?search=Revelation 1:8&version=NIV"
+        }]
     },
     {
       "id": 8,
@@ -121,11 +216,22 @@
         "kor": ""
       },
       "references": [
-        "Deuteronomy 6:4",
-        "Isaiah 45:5-6",
-        "1 Corinthians 8:4-6",
-        "James 2:19"
-      ]
+        {
+          "text": "Deuteronomy 6:4",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy 6:4&version=NIV"
+        },
+        {
+          "text": "Isaiah 45:5-6",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah 45:5-6&version=NIV"
+        },
+        {
+          "text": "1 Corinthians 8:4-6",
+          "url": "https://www.biblegateway.com/passage/?search=1 Corinthians 8:4-6&version=NIV"
+        },
+        {
+          "text": "James 2:19",
+          "url": "https://www.biblegateway.com/passage/?search=James 2:19&version=NIV"
+        }]
     },
     {
       "id": 9,
@@ -138,9 +244,14 @@
         "kor": ""
       },
       "references": [
-        "Exodus 3:14",
-        "John 1:1"
-      ]
+        {
+          "text": "Exodus 3:14",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        },
+        {
+          "text": "John 1:1",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        }]
     },
     {
       "id": 10,
@@ -153,11 +264,22 @@
         "kor": ""
       },
       "references": [
-        "Exodus 3:14",
-        "John 8:23",
-        "1 Kings 8:27",
-        "1 Timothy 6:16"
-      ]
+        {
+          "text": "Exodus 3:14",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        },
+        {
+          "text": "John 8:23",
+          "url": "https://www.biblegateway.com/passage/?search=John 8:23&version=NIV"
+        },
+        {
+          "text": "1 Kings 8:27",
+          "url": "https://www.biblegateway.com/passage/?search=1 Kings 8:27&version=NIV"
+        },
+        {
+          "text": "1 Timothy 6:16",
+          "url": "https://www.biblegateway.com/passage/?search=1 Timothy 6:16&version=NIV"
+        }]
     },
     {
       "id": 11,
@@ -170,20 +292,43 @@
         "kor": ""
       },
       "references": [
-        "Exodus 3:14",
-        "Malachi 3:6",
-        "Hebrews 13:8",
-        "Psalm 102:25-27",
-        "Isaiah 46:9-10",
-        "James 1:17",
-        "Psalm 102:25-27",
-        "2 Peter 3:8"
-      ]
+        {
+          "text": "Exodus 3:14",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        },
+        {
+          "text": "Malachi 3:6",
+          "url": "https://www.biblegateway.com/passage/?search=Malachi 3:6&version=NIV"
+        },
+        {
+          "text": "Hebrews 13:8",
+          "url": "https://www.biblegateway.com/passage/?search=Hebrews 13:8&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Isaiah 46:9–10",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah 46:9–10&version=NIV"
+        },
+        {
+          "text": "James 1:17",
+          "url": "https://www.biblegateway.com/passage/?search=James 1:17&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "2 Peter 3:8",
+          "url": "https://www.biblegateway.com/passage/?search=2 Peter 3:8&version=NIV"
+        }]
     },
     {
       "id": 13,
       "content": {
-        "eng": "God is spaceless. If God takes up space, then he must be matter or energy. Both of which can only move according to the laws of physics, and therefore create a dependency in God. This is not possible so God is spaceless. It is also not possible for him to be in some places and not in others, because then he would take up measurable space. God is in no physical place, yet we see his causality everywhere, so we say he is everywhere.",
+        "eng": "God is spaceless. If God takes up space, then he must be matter or energy. Both of which can only move according to the laws of physics, and therefore create a dependency in God. This is not possible so God is spaceless.",
         "kor": "하나님은 공간에 속하지 않으십니다. 만약 하나님이 공간을 차지하신다면 물질이나 에너지가 되어야 할 것입니다. 그러나 물질과 에너지는 물리 법칙에 따라 움직이기에 하나님께 의존성을 부여하게 됩니다. 하나님은 어떤 것에도 의존하지 않으시므로, 하나님은 공간에 구속되지 않으십니다."
       },
       "commentary": {
@@ -191,39 +336,86 @@
         "kor": ""
       },
       "references": [
-        "Genesis 1:1",
-        "Exodus 3:14",
-        "John 1:18",
-        "John 4:28",
-        "Hebrews 11:3",
-        "Jeremiah 22:22-24",
-        "1 Kings 8:27",
-        "Isaiah 66:1",
-        "Jeremiah 22:24",
-        "Psalms 139: 7-10",
-        "Acts 17:27-29"
-      ]
+        {
+          "text": "Genesis 1:1",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis 1:1&version=NIV"
+        },
+        {
+          "text": "Exodus 3:14",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus 3:14&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        },
+        {
+          "text": "Psalm 102:25–27",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm 102:25–27&version=NIV"
+        }]
+    },
+    {
+      "id": 14,
+      "content": {
+        "eng": "God is spaceless, so it is not possible for him to be in some places and not in others, because then he would take up measurable space. God is in no physical place, yet we see his causality everywhere, so we say he is everywhere.",
+        "kor": "하나님은 공간에 속하지 않으시기에 특정 장소에만 계시거나 다른 곳에 계시지 않는 것이 불가능합니다. 그렇게 된다면 하나님은 측정 가능한 공간을 차지하게 될 것입니다. 하나님은 물리적 장소에 계시지 않지만, 그분의 영향력은 어디에나 드러납니다. 그래서 하나님은 모든 곳에 계신다고 한다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 15,
       "content": {
-        "eng": "God is timeless. Time is only measurable when there is change and time only exists when there is stuff that happens over time. God is changeless, therefore is constant. God exists where there is no stuff, so God exists even when there is no time. This is why he was, he is and he always will be. ",
+        "eng": "God is timeless. Time is only measurable when there is change. God is changeless, therefore is constant and unaffected by time. This is why he was, he is and he always will be.",
         "kor": "하나님은 시간을 초월하십니다. 시간은 변화가 있을 때에만 측정될 수 있지만, 하나님은 변함이 없으시므로 시간에 영향을 받지 않고 항상 동일하십니다. 그래서 하나님은 과거에도 계셨고, 지금도 계시며, 영원히 계실 것입니다."
       },
       "commentary": {
         "eng": "",
         "kor": ""
       },
-      "references": [
-        "Genesis 1:1",
-        "Revelations 1:8",
-        "2 Peter 3:8",
-        "Hebrews 13:8",
-        "1 Timothy 6:16",
-        "Romans 1:20",
-        "Psalms 93:2",
-        "Revelation 4:8"
-      ]
+      "references": []
+    },
+    {
+      "id": 16,
+      "content": {
+        "eng": "Time is only relevant when stuff happens over time. When there is no stuff, there is no time. God exists where there is no stuff, so no time, so God is not influenced by time.",
+        "kor": "시간은 무언가가 시간에 걸쳐 일어날 때만 의미가 있다. 아무것도 존재하지 않으면 시간도 존재하지 않는다. 하나님은 아무것도 없는 곳에 존재하시기 때문에 시간의 제약을 받지 않으신다."
+      },
+      "commentary": {
+        "eng": "repeat",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 17,
@@ -235,15 +427,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": [
-        "Isaiah 40:18",
-        "Isaiah 46:5",
-        "Exodus 15:11",
-        "Job 11:7-9",
-        "Psalm 145:3",
-        "Romans 11:33",
-        "Deuteronomy 4:35"
-      ]
+      "references": []
     },
     {
       "id": 18,
@@ -255,13 +439,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": [
-        "Deuteronomy 32:4",
-        "Matthew 5:48",
-        "Job 37:16",
-        "Psalm 18:30",
-        "James 1:17"
-      ]
+      "references": []
     },
     {
       "id": 19,
@@ -270,19 +448,10 @@
         "kor": "하나님은 악하실 수 없습니다. 악이란 도덕적 선의 기준에서 벗어나는 것을 의미합니다. 그러나 하나님은 완전하시기에 어떠한 기준에서 벗어나지 않으십니다. 따라서 하나님께는 악이 있을 수 없으며, 그 자체로 선하신 분이십니다."
       },
       "commentary": {
-        "eng": "This is the why for God is good. Being good is a derivation from the criteria of evil. Evil is the lack of Good. Good is the positive attribute and the initial foundation. Removal of it creates evil. Not the removal of evil creating Good.",
+        "eng": "",
         "kor": ""
       },
-      "references": [
-        "1 John 1:5",
-        "Psalms 147:17",
-        "Deuteronomy 32:4",
-        "Mark 10:18",
-        "Nahum 1:7",
-        "2 Chronicles 5:13",
-        "Titus 3:4-5",
-        "Psalms 100:5"
-      ]
+      "references": []
     },
     {
       "id": 20,
@@ -291,20 +460,10 @@
         "kor": "하나님께는 감정이 없으십니다. 감정은 신체 내에서 화학적 반응과 호르몬을 통해 마음에 영향을 미치는데, 하나님은 육체가 없으시기에 감정의 메커니즘을 가지지 않으십니다. 성경에 나오는 하나님의 감정 표현은 하나님의 행동을 설명하기 위한 비유적 표현입니다."
       },
       "commentary": {
-        "eng": "God did not do anything because of his emotions. He reacts however he reacts and we assign emotions to the outcomes. When someone disobeys God, there may be negative consequences that happen and we attribute it to Gods wrath.",
+        "eng": "",
         "kor": ""
       },
-      "references": [
-        "Genesis 6:6",
-        "1 Samuel 15:29",
-        "Exodus 32:14",
-        "Isaiah 55:8-9",
-        "Exodus 32:10",
-        "Deuteronomy 9:8",
-        "Romans 1:18",
-        "Judges 2:18",
-        "Psalms 103:13"
-      ]
+      "references": []
     },
     {
       "id": 21,
@@ -316,13 +475,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": [
-        "John 4:24",
-        "1 Timothy 1:17",
-        "Deuteronomy 4:15-16",
-        "Isaiah 40:18",
-        "John 1:18"
-      ]
+      "references": []
     },
     {
       "id": 22,
@@ -334,11 +487,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": [
-        "Issaiah 55:11",
-        "Psalm 33:6",
-        "Issaiah 55:8"
-      ]
+      "references": []
     },
     {
       "id": 23,
@@ -350,7 +499,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": ["Acts 17:24-25","Job 41:11","Psalm 50:10-12","Romans 11:35-36"]
+      "references": []
     },
     {
       "id": 24,
@@ -359,10 +508,10 @@
         "kor": "하나님은 변덕스럽거나 충동적이지 않으십니다. 갑작스러운 욕망이나 마음의 변화는 그 자체로 변화를 의미합니다. 하나님은 변하지 않으시기에, 변덕을 부리시지 않습니다. 이는 그분의 모든 행위가 의도적이며, 그분의 성품과 일관된 것임을 뜻합니다."
       },
       "commentary": {
-        "eng": "There are many places where God does appear to change his mind. These are more the people and the situation changing, so Gods reaction changes. Not that God changed his mind. Sometimes God's word can be argued against as well. When Abraham does so, it is more that God is revealing himself to Abraham, then Abraham changing Gods mind.",
+        "eng": "",
         "kor": ""
       },
-      "references": ["Malachi 3:6","Numbers 23:19", "1 Samuel 15:29","Psalm 33:11", "Exodus 32:14","Genesis 6:6","1 Samuel 15:11","Jonah 3:10","Amos 7:3, 6","Genesis 18:22-33"]
+      "references": []
     },
     {
       "id": 25,
@@ -374,7 +523,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": ["Malachi 3:6","Numbers 23:19", "Isaiah 46:10","Acts 17:24-25"]
+      "references": []
     },
     {
       "id": 26,
@@ -386,19 +535,19 @@
         "eng": "",
         "kor": ""
       },
-      "references": ["Exodus 3:14","Malachi 3:6","Numbers 23:19", "Isaiah 46:10","Acts 17:24-25","Colossians 1:17","Hebrews 1:3"]
+      "references": []
     },
     {
       "id": 27,
       "content": {
-        "eng": "God is not reactive. Reactivity implies that external stimuli cause God to act. But God depends on nothing external and is therefore not influenced by outside conditions. God simply acts, and creation receives and experiences His action in diverse ways. We can see some similarity as the sun giving us light. The sun remains a constant source of light. But sometimes it burns, sometimes its warm, it makes desserts and forrests, grants seasons and all variation on Earth.",
+        "eng": "God is not reactive. Reactivity implies that external stimuli cause God to act. But God depends on nothing external and is therefore not influenced by outside conditions. God simply acts, and creation receives and experiences His action in diverse ways.",
         "kor": "하나님은 반응하시는 분이 아닙니다. 반응한다는 것은 외부의 자극이 하나님을 움직이게 한다는 의미를 담고 있습니다. 그러나 하나님은 외부에 의존하지 않으시고, 조건에 의해 영향을 받지 않는다. 하나님은 그저 활동하실 뿐이며, 창조물은 그분의 활동을 다양한 방식으로 받아들이고 경험합니다."
       },
       "commentary": {
-        "eng": "This is a seemingly contradictory idea as the bible shows God helps and doesnt help many people. But as per 24, it is the situation changing that makes God appear different. \"If you follow my ways, you will be blessed with life, but if you turn away from me, my fire will burn against you.\" It is us and the world accepting God differently.",
+        "eng": "",
         "kor": ""
       },
-      "references": ["Isaiah 40:13-14", "Romans 9:18-21", "Jeremiah 21:8-10", "Deuteronomy 28:1-2", "Deuteronomy 28:15", "Isaiah 1:19-20", "Hebrews 10:26-27"]
+      "references": []
     },
     {
       "id": 28,
@@ -410,7 +559,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": ["Psalm 145:3","Job 11:7-9","Ephesians 3:18-19","1 Kings 8:27"]
+      "references": []
     },
     {
       "id": 29,
@@ -422,31 +571,31 @@
         "eng": "",
         "kor": ""
       },
-      "references": ["1 John 3:20", "Hebrews 4:13", "Matthew 5:48", "Job 36:4", "Isaiah 42:9","Psalm 139:1-4"]
+      "references": []
     },
     {
       "id": 30,
       "content": {
-        "eng": "God is not irrational. Irrationality arises from false premises or invalid conclusions. God's actions are not derived from external causes or arbitrary premises. His actions proceed from His own nature, which is perfect and necessary. Therefore, both the grounds (premises) and outcomes (conclusions) of His actions are Himself—unchanging, necessary, and perfect.",
+        "eng": "God is not stupid. To be stupid is to do illogical behaviour either with a bad premise or conclusion. God does not do anything based on anything. Gods actions are based on himself and are himself. This means the premise and conclusion is Him and therefore perfect.",
         "kor": "하나님은 어리석지 않으십니다. 어리석음이란 잘못된 전제나 결론으로 비논리적인 행동을 하는 것을 의미합니다. 하나님은 어떤 외부 근거에 따라 행동하지 않으시고, 오직 자신 안에서 행동하십니다. 즉, 하나님의 전제는 하나님 자신이시기에 완전하며, 결론 또한 하나님 자신이시기에 완전합니다."
       },
       "commentary": {
         "eng": "",
         "kor": ""
       },
-      "references": ["Exodus 3:14","Ephesians 1:11", "Isaiah 46:10", "Romans 11:33-34","John 5:26"]
+      "references": []
     },
     {
       "id": 31,
       "content": {
-        "eng": "God is Love. The One with no needs, who is all good and perfection itself, has no reason or need to act. Yet, He created and sustains the universe's existence. The only explanation is that this creation flows from His infinite, unconditional Love. This Love is his very being.",
+        "eng": "God is Love. The One with no needs, who is all good and perfection itself, has no reason or need to act. Yet, He created and sustains the universe’s existence. The only explanation is that this creation flows from His infinite, unconditional Love. This Love is his very being.",
         "kor": "하나님은 사랑이십니다. 아무 필요가 없으시고, 완전하고 선하신 분께는 행동할 이유가 필요하지 않습니다. 그럼에도 하나님께서는 우주를 창조하시고 지금도 존재하게 하십니다. 이 모든 것은 오직 하나님의 무한하고 조건 없는 사랑에서 비롯됩니다. 이 사랑이 곧 하나님의 존재이십니다."
       },
       "commentary": {
-        "eng": "This is the conclusion of the logic chain. Remember that God is not loving. But God is Love in itself. He is Perfect, Good, Love, Life and infinte all as one, but restricted by our vocabulary.",
+        "eng": "",
         "kor": ""
       },
-      "references": ["Exodus 3:14","1 John 4:8", "Job 41:11","Psalm 136:5-9","Jeremiah 31:3","John 3:16","Colossians 1:16-17"]
+      "references": []
     },
     {
       "id": 32,
@@ -458,7 +607,55 @@
         "eng": "",
         "kor": ""
       },
-      "references": ["Genesis 1:26-27","Colossians 3:10","Ephesians 4:24"]
+      "references": []
+    },
+    {
+      "id": 33,
+      "content": {
+        "eng": "We were made in the image of God, does not mean we look like him. God who existed before everything has no image.",
+        "kor": "우리는 하나님의 형상대로 지음받았지만, 그것이 곧 하나님의 외형을 닮았다는 뜻은 아닙니다. 만물 이전부터 계셨던 하나님은 형상이 없으신 분입니다"
+      },
+      "commentary": {
+        "eng": "maybe dont need",
+        "kor": ""
+      },
+      "references": []
+    },
+    {
+      "id": 34,
+      "content": {
+        "eng": "The perfection of God is beyond human measurement. When we say God is great, he is not actually great. He is on a totally different dimension of great such that the word fails to describe him. This applies to any positive attribute.",
+        "kor": "하나님의 완전함은 인간의 기준으로 측정할 수 없는 것이다. 우리가 하나님이 위대하시다고 말할 때, 사실 그분은 위대하신 것이 아니다. 그는 완전히 다른 차원의 위대함을 지니고 계셔서, 이런 단어나 속성으로 설명할수 없다. 무슨 긍정적인 속성이든 그런다."
+      },
+      "commentary": {
+        "eng": "check criteria section of 85-106",
+        "kor": ""
+      },
+      "references": []
+    },
+    {
+      "id": 35,
+      "content": {
+        "eng": "When I say \"the sea was angry\" you have a clear image of what the sea might look like. But we know the sea does not have emotions. When the sea looks or does something, we attribute an emotion to it that we relate to. God's emotions are the same.",
+        "kor": "\"바다가 화가 났다\"라고 말하면, 우리는 바다가 어떤 모습일지 분명히 상상할 수 있다. 하지만 우리는 바다에 감정이 없다는 것을 알고 있다. 바다가 어떤 모습이거나 무언가를 할 때, 우리는 우리가 느끼는 감정을 그것에 투영한다. 하나님의 감정도 마찬가지다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
+    },
+    {
+      "id": 36,
+      "content": {
+        "eng": "Imagine a spring gushing out water. The spring could create a river, pond, lake, flood. It can be the life of a forest or farmland. All the spring does is exist. The various outcomes are due to the environment. The spring is God. His Will is in constant action.",
+        "kor": "샘이 물을 쏟아내는 모습을 상상해 보라. 샘은 강, 연못, 호수, 홍수를 만들 수 있고, 숲이나 농장의 생명줄이 될 수도 있다. 샘이 하는 일은 단지 존재하는 것뿐이다. 다양한 결과는 환경에 따른 것이다. 이 샘이 바로 하나님이시다. 하나님의 뜻은 끊임없이 작용하고 있다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 37,
@@ -467,10 +664,34 @@
         "kor": "존재의 관점에서 하나님을 설명하려는 나의 최선의 시도는 수학입니다. 순수 수학은 물리적 형태도, 힘도, 에너지도 없지만, 우주 전체에 분명한 영향을 미칩니다. 수학은 우리한테 말할 수 있고. 수학은 객관적이고. 수학은 진리입니다. 하나님도 그렇습니다."
       },
       "commentary": {
-        "eng": "A clear difference is in its causal nature as maths governs but does nto cause anything, while God causes everything.",
+        "eng": "",
         "kor": ""
       },
-      "references": ["Proverbs 8:27-30", "John 1:1-3"]
+      "references": []
+    },
+    {
+      "id": 38,
+      "content": {
+        "eng": "God created the universe means God is not anything in the universe. No animal, plant or rock is God. No material substance is God. God is incorporeal. Be wary of any image you form of God for he is no thing.",
+        "kor": "하나님이 세상을 창조하셨다는 것은 하나님이 세상 안의 어떤 것도 아니라는 뜻이다. 어떤 동물도, 식물도, 돌도 하나님이 아니다. 어떤 물질도 하나님이 아니다. 하나님은 무형이시다. 하나님에 대해 어떤 형상을 떠올릴 때 조심하라, 하나님은 어떤 것도 아니기 때문이다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
+    },
+    {
+      "id": 39,
+      "content": {
+        "eng": "God created the universe means God's existence is not dependent on the universe. God was the only thing that existed in nothing and so the only thing that can take responsibility as the cause for everything else. God's existence is unconditional.",
+        "kor": "하나님이 세상을 창조하셨다는 것은 하나님의 존재가 세상에 의존하지 않는다는 뜻이다. 하나님은 아무것도 없는 상태에서 유일하게 존재하셨으며, 그러므로 모든 것의 원인으로 책임을 질 수 있는 유일한 분이시다. 하나님의 존재는 무조건적이다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": []
     },
     {
       "id": 40,
@@ -482,7 +703,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": ["Romans 1:20", "Hebrews 1:1-2","2 Timothy 3:16","Genesis 1:26-27"]
+      "references": []
     },
     {
       "id": 41,
@@ -494,19 +715,19 @@
         "eng": "",
         "kor": ""
       },
-      "references": ["John 14:6","Romans 1:25","2 Thessalonians 2:10-11","Proverbs 12:22","Psalm 51:6"]
+      "references": []
     },
     {
       "id": 42,
       "content": {
-        "eng": "Taking the Bible as truth leads us to base arguments on it but for those who don't trust it, this can hurt our credibility. Instead, we can ground discussions in universal principles, showing how they align with Scripture for a more effective witness.",
+        "eng": "Taking the Bible as truth leads us to base arguments on it but for those who don’t trust it, this can hurt our credibility. Instead, we can ground discussions in universal principles, showing how they align with Scripture for a more effective witness.",
         "kor": "성경을 진리로 받아들이면 그에 근거해 논쟁하게 되지만, 성경을 신뢰하지 않는 사람들에게는 우리의 신뢰도가 떨어질 수 있습니다. 대신 보편적인 원칙에 기반하여 대화를 이끌고, 그것이 성경과 어떻게 일치하는지를 보여줌으로써 더 효과적인 증거가 될 수 있습니다."
       },
       "commentary": {
-        "eng": "This is especially for skeptics and non believers. Believers are able to build arguments baased on the bible as it is accepted as a premise.",
+        "eng": "",
         "kor": ""
       },
-      "references": ["Romans 2:14-15","Acts 17:22-31","John 1:9"]
+      "references": []
     },
     {
       "id": 43,
@@ -515,10 +736,10 @@
         "kor": "다른 사람에게 그들이 동의하지 않는 기준을 강요하는 것은 무리한 일입니다. 그들의 가치를 이해하고 그에 맞춰 행동을 바로잡도록 도울 수는 있습니다. 하지만 근본적인 가치관의 차이가 있다면, 변화가 필요합니다. 행동은 우리가 도울 수 있지만, 가치의 변화는 하나님만이 이루실 수 있습니다."
       },
       "commentary": {
-        "eng": "All the logic and understanding in the world will not turn someone to God. We can lead the horse to water. It is up to the individual to be touched by God.",
+        "eng": "",
         "kor": ""
       },
-      "references": ["Romans 2:14-15","2 Timothy 2:24-26","Ezekiel 36:26","1 Corinthians 3:6-7"]
+      "references": []
     },
     {
       "id": 44,
@@ -530,7 +751,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": ["Acts 17:28","John 5:39–40","2 Timothy 3:15–17"]
+      "references": []
     },
     {
       "id": 45,
@@ -788,7 +1009,7 @@
       "id": 66,
       "content": {
         "eng": "I pray every moment of my life, because how else will I know what God wants me to do? It is a prayer for me because when I determine the best course of action, the best is what God would want. For most people, the best course of action is what's best for them.",
-        "kor": "저는 매 순간 기도합니다. 그렇지 않으면 하나님이 내가 무엇을 하길 원하시는지 어떻게 알겠습니까? 내가 가장 좋은 행동 방침을 결정할 때, 그 ‘가장 좋음'은 하나님이 원하시는 것입니다. 대부분의 사람들에게는 가장 좋은 행동 방침이 그들에게 가장 이익이 되는 것입니다."
+        "kor": "저는 매 순간 기도합니다. 그렇지 않으면 하나님이 내가 무엇을 하길 원하시는지 어떻게 알겠습니까? 내가 가장 좋은 행동 방침을 결정할 때, 그 ‘가장 좋음’은 하나님이 원하시는 것입니다. 대부분의 사람들에게는 가장 좋은 행동 방침이 그들에게 가장 이익이 되는 것입니다."
       },
       "commentary": {
         "eng": "",
@@ -1220,7 +1441,7 @@
       "id": 102,
       "content": {
         "eng": "Asking, 'What do I need to do for xyz to happen?' misses the point. Following God isn't about chasing outcomes but embracing a way of life. It's about living each day in a manner pleasing to God, focusing on faithfulness rather than results.",
-        "kor": "어떻게 해야 이것을 이룰 수 있을까?'라는 질문은 핵심을 놓치는 것입니다. 하나님을 따른다는 것은 결과를 좇는 것이 아니라, 하나님이 기뻐하시는 삶의 방식을 받아들이는 것입니다. 하루하루를 신실함에 초점을 맞추며 살아가는 것이지, 결과에 매달리는 것이 아닙니다."
+        "kor": "어떻게 해야 이것을 이룰 수 있을까?’라는 질문은 핵심을 놓치는 것입니다. 하나님을 따른다는 것은 결과를 좇는 것이 아니라, 하나님이 기뻐하시는 삶의 방식을 받아들이는 것입니다. 하루하루를 신실함에 초점을 맞추며 살아가는 것이지, 결과에 매달리는 것이 아닙니다."
       },
       "commentary": {
         "eng": "",
@@ -1327,7 +1548,7 @@
     {
       "id": 111,
       "content": {
-        "eng": "When the time comes, how do we know we can make the right choices? Daily choices may seem small, but they prepare us for life's biggest tests. By taking up our cross in every moment, we strengthen our resolve and faith, ready to bear the weight when the time truly comes.",
+        "eng": "When the time comes, how do we know we can make the right choices? Daily choices may seem small, but they prepare us for life’s biggest tests. By taking up our cross in every moment, we strengthen our resolve and faith, ready to bear the weight when the time truly comes.",
         "kor": "그 순간이 왔을 때, 우리가 올바른 선택을 할 수 있을지 어떻게 알 수 있을까요? 매일의 작은 선택들은 작아 보일지 모르지만, 인생의 큰 시험을 준비하게 해줍니다. 매 순간 우리의 십자가를 지며 결단과 믿음을 단련해 두면, 진정 중요한 때가 왔을 때 그 무게를 감당할 준비가 되어 있을 것입니다."
       },
       "commentary": {
@@ -1483,7 +1704,7 @@
     {
       "id": 124,
       "content": {
-        "eng": "I strive to be no one. No ego, no self. Just our flesh and talents that we move according to the will of God. Allow ourselves to be God's vessel on Earth and be a part of Heaven on Earth.",
+        "eng": "I strive to be no one. No ego, no self. Just our flesh and talents that we move according to the will of God. Allow ourselves to be God’s vessel on Earth and be a part of Heaven on Earth.",
         "kor": "나는 아무도 아니다. 자아도, 자신도 없습니다. 오직 우리의 육체와 재능을 하나님의 뜻에 따라 움직입니다. 우리 자신을 하나님의 도구로 내어드려, 이 땅에서 하늘의 일부가 되길 원합니다."
       },
       "commentary": {
@@ -1556,7 +1777,7 @@
       "id": 130,
       "content": {
         "eng": "Human rights are a way to view morality. Biblically, people don't have rights, but obligations to not treat others badly. We don't love others because of their rights, we love them because it is our duty to love.",
-        "kor": "인권은 도덕을 바라보는 하나의 관점입니다. 그러나 성경적으로 보면, 사람에게는 ‘권리'가 아니라, 타인을 함부로 대하지 않을 ‘책임'이 있습니다. 우리는 다른 사람을 그들의 권리 때문이 아니라, 사랑해야 할 의무가 있기 때문에 사랑합니다."
+        "kor": "인권은 도덕을 바라보는 하나의 관점입니다. 그러나 성경적으로 보면, 사람에게는 ‘권리’가 아니라, 타인을 함부로 대하지 않을 ‘책임’이 있습니다. 우리는 다른 사람을 그들의 권리 때문이 아니라, 사랑해야 할 의무가 있기 때문에 사랑합니다."
       },
       "commentary": {
         "eng": "",
