@@ -437,6 +437,30 @@
       "references": ["Exodus 3:14","Ephesians 1:11", "Isaiah 46:10", "Romans 11:33-34","John 5:26"]
     },
     {
+      "id": 114,
+      "content": {
+        "eng": "God does not die. To die is lose something causing existence to not be possible. God's existence has no dependencies, so he can lose nothing which will cause him to die. If anyone says God is dead, it is them who lost him, not Him who is gone.",
+        "kor": "하나님은 죽지 않으십니다. 죽는다는 것은 존재를 불가능하게 만드는 무언가를 잃는 것입니다. 하나님의 존재는 그 어떤 것에도 의존하지 않으시기에, 그분에게는 존재를 잃게 할 만한 것이 없습니다. 하나님이 '죽으신다'는 것은 그분이 사라지는 것이 아니라, 우리가 하나님을 잃는 것을 뜻합니다."
+      },
+      "commentary": {
+        "eng": "",
+        "kor": ""
+      },
+      "references": ["Exodus 3:14","Psalm 90:2","Isaiah 40:28","1 Timothy 6:16"]
+    },
+    {
+      "id": 115,
+      "content": {
+        "eng": "God does not leave us. To be somewhere at some point, then no longer there, is a change. God does not change, so God cannot leave us. Fortunately for us, God is always with us. It is us who registers him or not.",
+        "kor": "하나님은 우리를 떠나지 않으십니다. 어떤 순간에 있다가 더 이상 그 자리에 없는 것은 '변화'입니다. 그러나 하나님은 변하지 않으시기에, 우리를 떠나실 수 없습니다. 다행히도 하나님은 항상 우리와 함께하십니다. 그분을 느끼고 인식하는 것은 바로 우리의 몫입니다."
+      },
+      "commentary": {
+        "eng": "God leaves and forsakes people in the bible. This is the natural consequence of having gone against God. The act of going against God causes one to not feel God anymore.",
+        "kor": ""
+      },
+      "references": ["Malachi 3:6","Psalm 139:7-10","Deuteronomy 31:6","Matthew 28:20","Hebrews 13:5","Isaiah 41:10","Judges 16:20","1 Samuel 16:14","Hosea 5:6","Jeremiah 23:39"]
+    },
+    {
       "id": 31,
       "content": {
         "eng": "God is Love. The One with no needs, who is all good and perfection itself, has no reason or need to act. Yet, He created and sustains the universe's existence. The only explanation is that this creation flows from His infinite, unconditional Love. This Love is his very being.",
@@ -1226,7 +1250,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": []
+      "references": ["Luke 16:10","Luke 9:23","Matthew 25:21","James 1:2-4","Proverbs 3:5-6","Hebrews 12:11","Galatians 6:9"]
     },
     {
       "id": 112,
@@ -1238,7 +1262,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": []
+      "references": ["Colossians 3:23-24","Matthew 25:40","Luke 16:10","Philippians 2:3-4","John 13:14-15","Micah 6:8"]
     },
     {
       "id": 113,
@@ -1250,31 +1274,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": []
-    },
-    {
-      "id": 114,
-      "content": {
-        "eng": "God does not die. To die is lose something causing existence to not be possible. God's existence has no dependencies, so he can lose nothing which will cause him to die. When God dies, it is us who loses him, not Him who is gone.",
-        "kor": "하나님은 죽지 않으십니다. 죽는다는 것은 존재를 불가능하게 만드는 무언가를 잃는 것입니다. 하나님의 존재는 그 어떤 것에도 의존하지 않으시기에, 그분에게는 존재를 잃게 할 만한 것이 없습니다. 하나님이 '죽으신다'는 것은 그분이 사라지는 것이 아니라, 우리가 하나님을 잃는 것을 뜻합니다."
-      },
-      "commentary": {
-        "eng": "God desciption section?",
-        "kor": ""
-      },
-      "references": []
-    },
-    {
-      "id": 115,
-      "content": {
-        "eng": "God does not leave us. To be somewhere at some point, then no longer there, is a change. God does not change, so God cannot leave us. Fortunately for us, God is always with us. It is us who registers him or not.",
-        "kor": "하나님은 우리를 떠나지 않으십니다. 어떤 순간에 있다가 더 이상 그 자리에 없는 것은 '변화'입니다. 그러나 하나님은 변하지 않으시기에, 우리를 떠나실 수 없습니다. 다행히도 하나님은 항상 우리와 함께하십니다. 그분을 느끼고 인식하는 것은 바로 우리의 몫입니다."
-      },
-      "commentary": {
-        "eng": "God desciption section?",
-        "kor": ""
-      },
-      "references": []
+      "references": ["John 14:15","1 John 2:3-6","Ephesians 5:1-2","Hebrews 1:3","Colossians 1:15","Philippians 2:5-8"]
     },
     {
       "id": 116,
@@ -1289,28 +1289,16 @@
       "references": []
     },
     {
-      "id": 117,
-      "content": {
-        "eng": "Truth is what aligns with reality. The bible and God are true, so they must align with reality. The bible cannot be literally true as that does not align with reality. When we consider reality while studying the bible, we are able to discern what the deeper truths may be.",
-        "kor": "진리는 현실과 일치하는 것이다. 성경과 하나님은 진리이기에, 그들은 반드시 현실과 일치해야 한다. 성경을 문자 그대로 받아들일 수는 없다, 왜냐하면 그것이 현실과 일치하지 않기 때문이다. 우리가 성경을 공부하면서 현실을 고려할 때, 더 깊은 진리를 분별할 수 있게 된다."
-      },
-      "commentary": {
-        "eng": "",
-        "kor": ""
-      },
-      "references": []
-    },
-    {
       "id": 118,
       "content": {
         "eng": "Being objective is to be Holy. To be objective you need a criteria to work against. That criteria is God. Our critical thinking is what will allow us to know what course of action to take. Constantly think about what you should do. That is also a form of prayer.",
         "kor": "객관적이 된다는 것은 거룩해진다는 것이다. 객관적이 되기 위해서는 기준이 필요하며, 그 기준이 바로 하나님이다. 우리의 비판적 사고는 어떤 행동을 취해야 할지 알게 해주는 도구이다. 끊임없이 무엇을 해야 할지 생각하는 것은 하나의 기도의 형태이기도 하다."
       },
       "commentary": {
-        "eng": "",
+        "eng": "Holy refers to what aligns with God. Holiness is not about personal feelings or cultural influence but about how much something aligns with God. How aligned something is, is an objective determination.",
         "kor": ""
       },
-      "references": []
+      "references": ["Isaiah 1:18","Proverbs 2:6","Philippians 4:8","Romans 12:2","1 Thessalonians 5:17","Leviticus 19:2","Leviticus 11:44"]
     },
     {
       "id": 119,
@@ -1322,103 +1310,43 @@
         "eng": "",
         "kor": ""
       },
-      "references": []
-    },
-    {
-      "id": 120,
-      "content": {
-        "eng": "Philosophy deals with the nature of truth and morality. Science does not. Religion engages with morality and defines Truth. These Truths are abstracted into stories or parables, making moral lessons easier to grasp, but seeing the Truth may require further reflection.",
-        "kor": "철학은 진리와 도덕의 본질을 다룹니다. 과학은 그렇지 않습니다. 종교는 도덕과 진리를 다루며, 이 진리들은 이야기나 비유로 추상화되어 도덕적 교훈을 쉽게 이해할 수 있게 합니다. 그러나 진리를 제대로 이해하려면 더 깊은 성찰이 필요할 수 있습니다."
-      },
-      "commentary": {
-        "eng": "",
-        "kor": ""
-      },
-      "references": []
+      "references": ["Romans 2:14–15","Proverbs 14:12","1 Timothy 4:2","Jeremiah 31:33"]
     },
     {
       "id": 121,
       "content": {
-        "eng": "Religion is closer to philosophy than science. But it only has answers as the questions have been lost to time. Relies on tradition to keep future generations in alignment with God. To understand God, you must understand the role of Religion, and step beyond the known surface.",
+        "eng": "Philosophy deals with the nature of truth and morality. Science does not. Religion engages with morality and defines Truth. Religion is closer to philosophy than science. But it only has answers as the questions have been lost to time. It relies on tradition to keep future generations in alignment with God. To understand God, you must understand the role of Religion, and develop your personal connection with God through Jesus.",
         "kor": "종교는 과학보다 철학에 가깝습니다. 그러나 시간이 지나면서 질문은 잃어버리고, 답만 남았습니다. 전통에 의존해 미래 세대가 하나님과의 관계를 유지하도록 합니다. 하나님을 이해하려면, 종교의 역할을 이해하고 알려진 표면을 넘어서는 것이 필요합니다."
       },
       "commentary": {
         "eng": "",
         "kor": ""
       },
-      "references": []
+      "references": ["Proverbs 21:3","Job 8:8","Mark 7:13","John 14:6"]
     },
     {
       "id": 122,
       "content": {
-        "eng": "Throw yourself away and fill this empty vessel with the waters of God. You are a physical manifestation with unique talents, to be used in the execution of God's will. Don't let anything else determine your actions.",
-        "kor": "자신을 버리고 이 빈 그릇을 하나님의 물로 채우세요. 당신은 하나님의 뜻을 실행하기 위해 주어진 특별한 재능을 가진 물리적 존재입니다. 그 외의 어떤 것도 당신의 행동을 결정하지 못하게 하세요."
+        "eng": "Throw yourself away and fill this empty vessel with the waters of God. You are a physical manifestation with unique talents, to be used in the execution of God's will. This is to no longer be driven by subjective desires, be driven by objectively chosen actions based on God. Don't let anything else determine your actions. I strive to be no one. No ego, no self. Just our flesh and talents that we move according to the will of God. Allow ourselves to be God's vessel on Earth and be a part of Heaven on Earth.",
+        "kor": "자신을 버리고 이 빈 그릇을 하나님의 물로 채우세요. 당신은 하나님의 뜻을 실행하기 위해 주어진 특별한 재능을 가진 물리적 존재입니다. 이것은 더 이상 주관적인 욕망에 이끌리지 않고, 하나님을 기준으로 한 객관적으로 선택된 행동에 의해 이끌리는 삶을 사는 것입니다. 그 외의 어떤 것도 당신의 행동을 결정하지 못하게 하세요. 나는 아무도 아니다. 자아도, 자신도 없습니다. 오직 우리의 육체와 재능을 하나님의 뜻에 따라 움직입니다. 우리 자신을 하나님의 도구로 내어드려, 이 땅에서 하늘의 일부가 되길 원합니다."
       },
       "commentary": {
         "eng": "",
         "kor": ""
       },
-      "references": []
-    },
-    {
-      "id": 123,
-      "content": {
-        "eng": "Throw away your fleshly desires and give your body up to God. This is to no longer be driven by subjective desires, be driven by objectively chosen actions based on God.",
-        "kor": "육신의 욕망을 버리고 당신의 몸을 하나님께 맡기십시오. 이것은 더 이상 주관적인 욕망에 이끌리지 않고, 하나님을 기준으로 한 객관적으로 선택된 행동에 의해 이끌리는 삶을 사는 것입니다."
-      },
-      "commentary": {
-        "eng": "",
-        "kor": ""
-      },
-      "references": []
-    },
-    {
-      "id": 124,
-      "content": {
-        "eng": "I strive to be no one. No ego, no self. Just our flesh and talents that we move according to the will of God. Allow ourselves to be God's vessel on Earth and be a part of Heaven on Earth.",
-        "kor": "나는 아무도 아니다. 자아도, 자신도 없습니다. 오직 우리의 육체와 재능을 하나님의 뜻에 따라 움직입니다. 우리 자신을 하나님의 도구로 내어드려, 이 땅에서 하늘의 일부가 되길 원합니다."
-      },
-      "commentary": {
-        "eng": "",
-        "kor": ""
-      },
-      "references": []
+      "references": ["Luke 9:23","Galatians 2:20","2 Corinthians 4:7","Romans 12:1","Psalm 119:105","1 John 2:15","Colossians 3:2-3","Philippians 2:5-7","Matthew 6:10","John 3:30"]
     },
     {
       "id": 125,
       "content": {
-        "eng": "Idol worship has multiple meanings. Creating an incorrect idea of God to worship is Idol worship. Giving him any form or image is creating an idol. The golden calf is such an example. Remember, there is no physical likeness we can associate with God.",
-        "kor": "우상 숭배는 여러 가지 의미를 가지고 있다. 하나님에 대한 잘못된 개념을 만들어 숭배하는 것 또한 우상 숭배이다. 하나님께 어떤 형태나 이미지를 부여하는 것은 우상을 만드는 것이다. 금송아지가 그 한 예이다. 하나님과 연관지을 수 있는 물리적 형상은 없다."
+        "eng": "Idol worship has multiple meanings. Creating an incorrect idea of God to worship is Idol worship. Giving him any form or image is creating an idol. The golden calf is such an example. Remember, there is no physical likeness we can associate with God.<br>Putting something else as more important than God is idol worship. This could be money, fame, popularity, sex, and anything else. This is referred to as \"slave to sin\".<br>Attaching arbitrary meaning to anything is idol worship. Idols are things that were given arbitrary meaning. Our thoughts and opinions should be based on facts and logically derived from such. Be careful of information you're told to just accept.",
+        "kor": "우상 숭배는 여러 가지 의미를 가지고 있다. 하나님에 대한 잘못된 개념을 만들어 숭배하는 것 또한 우상 숭배이다. 하나님께 어떤 형태나 이미지를 부여하는 것은 우상을 만드는 것이다. 금송아지가 그 한 예이다. 하나님과 연관지을 수 있는 물리적 형상은 없다.<br>하나님보다 다른 것을 더 중요하게 여기는 것이 우상 숭배이다. 이것은 돈, 명성, 인기, 성적 욕망 등 무엇이든 될 수 있다. 이를 \"죄의 종\"이라고 한다.<br>무엇에 임의로 의미를 부여하는 것이 바로 우상 숭배이다. 우상은 임의로 부여된 의미를 가진 것들이다. 우리의 생각과 의견은 사실에 근거하고, 사실로부터 논리적으로 도출되어야 합니다. 그냥 받아들이라고 하는 정보에 대해서는 신중해야 합니다."
       },
       "commentary": {
         "eng": "",
         "kor": ""
       },
-      "references": []
-    },
-    {
-      "id": 126,
-      "content": {
-        "eng": "Idol worship has many meanings. Putting something else as more important than God is idol worship. This could be money, fame, popularity, sex, and anything else. This is referred to as \"slave to sin\".",
-        "kor": "우상 숭배는 여러 가지 의미를 가진다. 하나님보다 다른 것을 더 중요하게 여기는 것이 우상 숭배이다. 이것은 돈, 명성, 인기, 성적 욕망 등 무엇이든 될 수 있다. 이를 \"죄의 종\"이라고 한다."
-      },
-      "commentary": {
-        "eng": "",
-        "kor": ""
-      },
-      "references": []
-    },
-    {
-      "id": 127,
-      "content": {
-        "eng": "Idol worship has many meanings. Attaching arbitrary meaning to anything is idol worship. Idols are things that were given arbitrary meaning. Our thoughts and opinions should be based on facts and logically derived from such. Be careful of information you're told to just accept.",
-        "kor": "우상 숭배는 여러 가지 의미를 가지고 있다. 무엇에 임의로 의미를 부여하는 것이 바로 우상 숭배이다. 우상은 임의로 부여된 의미를 가진 것들이다. 우리의 생각과 의견은 사실에 근거하고, 사실로부터 논리적으로 도출되어야 합니다. 그냥 받아들이라고 하는 정보에 대해서는 신중해야 합니다."
-      },
-      "commentary": {
-        "eng": "",
-        "kor": ""
-      },
-      "references": []
+      "references": ["Exodus 20:4-5","Isaiah 40:18","Deuteronomy 4:15-16","Romans 1:25","Matthew 6:24","Philippians 3:19","Ezekiel 14:3","Colossians 2:8","Isaiah 29:13","Matthew 15:9","1 Thessalonians 5:21"]
     },
     {
       "id": 128,
@@ -1430,19 +1358,19 @@
         "eng": "",
         "kor": ""
       },
-      "references": []
+      "references": ["John 14:6","Psalm 119:160","Isaiah 5:20","Micah 6:8","Proverbs 14:12","Romans 1:25","1 John 1:6"]
     },
     {
       "id": 129,
       "content": {
-        "eng": "The criteria for good and bad is not \"what is best for us\". The criteria is, \"what is Godly and not Godly\". This criteria means nothing to our situations. All situations are equal. It is our actions we measure to the criteria. Good luck everyone.",
-        "kor": "좋고 나쁨의 기준은 \"우리에게 가장 좋은 것\"이 아닙니다. 그 기준은 \"하나님께 합당한가, 합당하지 않은가\"입니다. 이 기준은 우리의 상황과는 상관이 없습니다. 모든 상황은 동등하며, 우리가 평가해야 할 것은 그 상황에서 우리가 한 행동입니다. 다들 잘하기를 바라며, 파이팅!"
+        "eng": "The criteria for good and bad is not \"what is best for us\". The criteria is, \"what is Godly and not Godly\". This criteria means nothing to our situations. All situations are equal. It is our actions we measure to the criteria. There is no such thing as good or bad results. Whatever happens happens. Our priority is whether we are following God, not seeking a specific result. You do everything right and the result does not matter.",
+        "kor": "좋고 나쁨의 기준은 \"우리에게 가장 좋은 것\"이 아닙니다. 그 기준은 \"하나님께 합당한가, 합당하지 않은가\"입니다. 이 기준은 우리의 상황과는 상관이 없습니다. 모든 상황은 동등하며, 우리가 평가해야 할 것은 그 상황에서 우리가 한 행동입니다. 일이 잘되든 못되든 상관없습니다. 무엇이 일어나든, 그저 일어나는 것입니다. 우리의 우선순위는 어떤 결과를 추구하는 것이 아니라, 우리가 하나님을 따르고 있는가에 있습니다. 우리가 모든 것을 올바르게 했을 때, 그 결과는 중요하지 않습니다."
       },
       "commentary": {
         "eng": "",
         "kor": ""
       },
-      "references": []
+      "references": ["Micah 6:8","Leviticus 11:44","Deuteronomy 30:19","Proverbs 16:2","Acts 10:34-35","Ecclesiastes 12:13-14","Luke 17:10","Matthew 6:33","Job 1:21"]
     },
     {
       "id": 130,
@@ -1454,19 +1382,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": []
-    },
-    {
-      "id": 131,
-      "content": {
-        "eng": "There is no such thing as good or bad results. Whatever happens happens. Our priority is whether we are following God, not seeking a specific result. You do everything right and the result does not matter.",
-        "kor": "일이 잘되든 못되든 상관없습니다. 무엇이 일어나든, 그저 일어나는 것입니다. 우리의 우선순위는 어떤 결과를 추구하는 것이 아니라, 우리가 하나님을 따르고 있는가에 있습니다. 우리가 모든 것을 올바르게 했을 때, 그 결과는 중요하지 않습니다."
-      },
-      "commentary": {
-        "eng": "",
-        "kor": ""
-      },
-      "references": []
+      "references": ["Romans 13:8","Luke 17:10","Matthew 22:37-39","Exodus 22:22", "Deuteronomy 24:17", "Leviticus 19:15","1 Timothy 5:8","Luke 12:48"]
     },
     {
       "id": 132,
@@ -1478,19 +1394,19 @@
         "eng": "",
         "kor": ""
       },
-      "references": []
+      "references": ["1 Corinthians 10:13","Philippians 4:11-13","Proverbs 24:10","Deuteronomy 30:11-14","James 1:2-4","Hebrews 12:1-4"]
     },
     {
       "id": 133,
       "content": {
-        "eng": "Living is suffering. Even if not for you, it may be for someone else. Feel the suffering of the world to empathize with others who suffer. We push through this hardship with the power from God, as God is always there to guide us. Trust in God and all hardships can be traversed.",
+        "eng": "Living is suffering. Even if not for you, it may be for someone else. Feel the suffering of the world to empathize with others who suffer. We push through this hardship with the power from God, as God is always there to guide us. Trust in God and all hardships can be traversed, even if they are not resolved.",
         "kor": "사는 것은 고난입니다. 비록 당신에게 해당되지 않더라도, 다른 누군가에게는 그럴 수 있습니다. 세상의 고통을 느끼며 고통받는 이들과 공감하세요. 우리는 하나님의 힘으로 이 고난을 이겨냅니다. 하나님은 항상 우리를 인도하시기 때문입니다. 하나님을 신뢰하면 모든 고난을 극복할 수 있습니다."
       },
       "commentary": {
         "eng": "",
         "kor": ""
       },
-      "references": []
+      "references": ["Job 14:1 ","Ecclesiastes 1:14","Romans 12:15","Isaiah 40:29-31","2 Corinthians 12:9-10","Proverbs 3:5-6"]
     },
     {
       "id": 134,
@@ -1502,7 +1418,7 @@
         "eng": "",
         "kor": ""
       },
-      "references": []
+      "references": ["Galatians 1:10","Ephesians 4:15","1 John 3:18","Romans 12:9","Matthew 5:8","Proverbs 16:2"]
     },
     {
       "id": 135,
@@ -1514,7 +1430,14 @@
         "eng": "",
         "kor": ""
       },
-      "references": []
+      "references": [
+        "Revelation 22:13",
+        "Revelation 1:8",
+        "Revelation 4:8",
+        "Isaiah 44:6",
+        "Genesis 1:1",
+        "Psalm 90:2",
+        "John 1:1-3"]
     }
   ]
 }
