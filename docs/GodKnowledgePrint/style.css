@@ -1,0 +1,121 @@
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+.entry {
+  margin-bottom: 2rem;
+}
+.entry .meta {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+.commentary {
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  border-left: 3px solid #888;
+}
+button.toggle-commentary {
+  margin-top: 0.5rem;
+}
+.header {
+  padding: 1rem;
+}
+
+.title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.title-row h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  flex-grow: 1;
+}
+
+.lang-select {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.toggle-bar {
+  display: none; /* Default hidden */
+  position: sticky;
+  top: 0;
+  text-align: center;
+  padding: 0.5rem;
+  z-index: 100;
+}
+
+
+.toggle-bar button {
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.verses {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  margin-top: 0.5rem;
+}
+
+.verses div {
+  flex: none;
+}
+
+.verses a {
+  white-space: nowrap;
+  text-decoration: underline;
+  color: #0645ad;
+  font-size: 11pt;
+}
+@media print {
+  body {
+    background: white;
+    color: black;
+    font-size: 11pt;
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    max-width: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .verses {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.2rem 0.75rem;
+    line-height: 0.5;
+  }
+
+  .verses a {
+    font-size: 10pt;
+    white-space: nowrap;
+    line-height: 0.5;
+    color: black;
+  }
+  .verses div {
+    break-inside: avoid;
+    margin-bottom: 0.25rem;
+  }
+
+  .header, .social-media, .back-link, .toggle-bar {
+    display: none !important;
+  }
+
+  .commentary {
+    page-break-inside: avoid;
+  }
+}

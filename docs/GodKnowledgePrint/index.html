@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>God Knowledge Compilation</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #fff;
+      color: #000;
+    }
+
+    .entry {
+      margin-bottom: 1rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #ccc;
+    }
+
+    .meta-text {
+      font-weight: bold;
+      display: inline;
+      margin-right: 0.5rem;
+    }
+
+    .text {
+      display: inline;
+    }
+
+    .commentary {
+      background-color: #f4f4f4;
+      margin-top: 0.5rem;
+      padding: 0.5rem;
+      border-radius: 5px;
+    }
+
+    .verses {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.5rem;
+      margin-top: 0.5rem;
+    }
+
+    .verses a {
+      text-decoration: underline;
+      color: #0645ad;
+    }
+
+    .back-link a,
+    .social-media a {
+      color: #0645ad;
+    }
+
+    .lang-select {
+      margin-top: 1rem;
+    }
+
+    .intro {
+      margin-bottom: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>📖 God Knowledge Compilation</h1>
+    <div class="lang-select">
+      <label for="lang-selector">Verse Language:</label>
+      <select id="lang-selector">
+        <option value="eng">English</option>
+        <option value="kor">한국어</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="back-link">
+    <a href="../index.html">← Back to Linktree</a>
+  </div>
+
+  <div id="content"></div>
+
+  <div class="social-media" style="margin: 1rem 0;">
+    <a href="#">Twitter</a>
+    <a href="#" style="margin-left:1rem;">Instagram</a>
+  </div>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
