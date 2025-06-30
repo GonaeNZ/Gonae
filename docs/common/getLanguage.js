@@ -1,22 +1,31 @@
-let currentLang = 'eng';
-let lastNonEnglishLang = null;
+let currentLang = localStorage.getItem('lang') || 'eng';
+let lastNonEnglishLang = currentLang !== 'eng' ? currentLang : null;
 
-// expose getter
+// 🔓 Global getter
 export function getCurrentLang() {
   return currentLang;
 }
 
 export function initLanguageSelector(onChangeCallback) {
-  const selector     = document.getElementById('lang-selector');
-  const toggleBar    = document.getElementById('toggle-bar');
-  const toggleButton = document.getElementById('toggle-lang');
-
-  // grab your social anchors once
+  const selector      = document.getElementById('lang-selector');
+  const toggleBar     = document.getElementById('toggle-bar');
+  const toggleButton  = document.getElementById('toggle-lang');
   const twitterLink   = document.getElementById('twitter-link');
   const instagramLink = document.getElementById('instagram-link');
 
-  // helper to update the social URLs + text
+  // 🛡 Safety checks
+  if (!selector || !toggleBar || !toggleButton) {
+    console.warn("Missing UI elements for language selector.");
+    return;
+  }
+
+  // 🧩 Assign dropdown to match saved or default language
+  selector.value = currentLang;
+
+  // 🧠 Update social media links
   function updateSocialLinks(lang) {
+    if (!twitterLink || !instagramLink) return;
+
     if (lang === 'kor') {
       twitterLink.href        = 'https://x.com/GonaeKR';
       twitterLink.textContent = '트위터';
@@ -30,8 +39,10 @@ export function initLanguageSelector(onChangeCallback) {
     }
   }
 
-  // helper to refresh UI elements whenever lang changes
+  // 🔄 Refresh UI elements based on currentLang
   function refreshUI(restoreScroll) {
+    localStorage.setItem('lang', currentLang);
+
     // 1) toggle button text
     if (currentLang === 'eng' && lastNonEnglishLang) {
       toggleButton.textContent = `Switch to ${lastNonEnglishLang.toUpperCase()}`;
@@ -39,27 +50,26 @@ export function initLanguageSelector(onChangeCallback) {
       toggleButton.textContent = 'Switch to English';
     }
 
-    // 2) show/hide the toggle bar
+    // 2) toggle bar visibility
     toggleBar.style.display = lastNonEnglishLang ? 'block' : 'none';
 
-    // 3) update socials
+    // 3) socials
     updateSocialLinks(currentLang);
 
-    // 4) finally, trigger your page‐content loader
+    // 4) re-render content
     onChangeCallback(restoreScroll);
   }
 
-  // when the dropdown itself changes
+  // ⬇ When dropdown is changed manually
   selector.addEventListener('change', () => {
     currentLang = selector.value;
     if (currentLang !== 'eng') {
       lastNonEnglishLang = currentLang;
     }
-    // false = don't restore scroll
-    refreshUI(false);
+    refreshUI(false); // do not restore scroll
   });
 
-  // when the “switch to…” button is clicked
+  // 🔁 When toggle button is clicked
   toggleButton.addEventListener('click', () => {
     if (currentLang === 'eng' && lastNonEnglishLang) {
       currentLang    = lastNonEnglishLang;
@@ -68,10 +78,9 @@ export function initLanguageSelector(onChangeCallback) {
       currentLang    = 'eng';
       selector.value = 'eng';
     }
-    // true = restore scroll
-    refreshUI(true);
+    refreshUI(true); // do restore scroll
   });
 
-  // initial draw
+  // 🚀 Initial load
   refreshUI(false);
 }

@@ -1,120 +1,41 @@
-import { cleanText } from '../../common/cleanText.js';
-import { formatReferences } from '../../common/formatReferences.js';
-import { initializeExpandButtons } from '../../common/initializeExpand.js';
 import { getCurrentLang, initLanguageSelector } from '../../common/getLanguage.js';
 
-const metaPath = 'data/meta.json';
-const modulesPath = 'data/GodKnowledge.json';
+const contentBasePath = 'content/pageContent'; // prefix for lang-based file paths
 
-async function loadModules() {
-  const [metaRes, modulesRes] = await Promise.all([
-    fetch(metaPath),
-    fetch(modulesPath)
-  ]);
-  const meta = await metaRes.json();
-  const modules = await modulesRes.json();
-  return { meta, modules };
+function getTextFilePath(langCode) {
+  return `${contentBasePath}${langCode}.txt`;
 }
 
-async function renderModules(restoreScroll = true) {
-    const { meta, modules } = await loadModules();
-    const container = document.getElementById('content');
-    const currentLang = getCurrentLang();
-  
-    const previouslyExpanded = getExpandedIds();
-    const topEntryId = restoreScroll ? getTopVisibleEntryId() : null;
-  
-    container.innerHTML = `
-      <div class="intro">
-        <h2>Version: ${meta.version} | Date: ${meta.date}</h2>
-        <p>${meta.intro[currentLang].replace(/\n/g, '<br>')}</p>
-      </div><hr/>
-    `;
-  
-    modules.modules.forEach(entry => {
-      const para = document.createElement('div');
-      para.className = 'entry';
-  
-      const commentaryText = cleanText(entry.commentary[currentLang]);
-      const showCommentary = commentaryText && commentaryText !== "No commentary yet.";
-      const refsHtml = formatReferences(entry.references);
-      const hasVerses = refsHtml && refsHtml.trim() !== '';
-  
-      para.innerHTML = `
-        <div class="meta">${entry.id}</div>
-        <div class="text">${cleanText(entry.content[currentLang])}</div>
-        ${showCommentary ? `
-          <button class="toggle-commentary">💬 Commentary</button>
-          <div class="commentary">${commentaryText}</div>
-        ` : ''}
-        ${hasVerses ? `
-          <button class="toggle-verses">📖 Verses</button>
-          <div class="verses" style="display: none;">${refsHtml}</div>
-        ` : ''}
-      `;
-      container.appendChild(para);
-    });
-  
-    initializeExpandButtons();
-    restoreExpanded(previouslyExpanded);
-  
-    // Add verse toggle handlers
-    document.querySelectorAll('.toggle-verses').forEach(btn => {
-      btn.addEventListener('click', () => {
-        const verses = btn.nextElementSibling;
-        if (verses.style.display === 'block') {
-          verses.style.display = 'none';
-          btn.textContent = '📖 Verses';
-        } else {
-          verses.style.display = 'block';
-          btn.textContent = '✖ Hide Verses';
-        }
-      });
-    });
-  
-    if (restoreScroll && topEntryId) {
-      scrollToEntryById(topEntryId);
-    }
+async function loadTextContent(langCode) {
+  const container = document.getElementById('content');
+  container.innerHTML = '<p>Loading content...</p>';
+
+  const filePath = getTextFilePath(langCode);
+
+  try {
+    const response = await fetch(filePath);
+    if (!response.ok) throw new Error(`File not found: ${filePath}`);
+    const text = await response.text();
+    container.innerHTML = formatPlainText(text);
+  } catch (err) {
+    container.innerHTML = `<p>Content not available for <strong>${langCode}</strong>.</p>`;
+    console.error(`Error loading ${filePath}:`, err);
   }
-  
-  initLanguageSelector(renderModules);
-  document.addEventListener('DOMContentLoaded', renderModules);
-  
-  function getExpandedIds() {
-    return [...document.querySelectorAll('.commentary')]
-      .filter(el => el.style.display === 'block')
-      .map(el => el.closest('.entry')?.querySelector('.meta')?.textContent);
-  }
-  
-  function restoreExpanded(ids) {
-    ids.forEach(id => {
-      const entry = [...document.querySelectorAll('.entry')]
-        .find(e => e.querySelector('.meta')?.textContent === id);
-      if (entry) {
-        const commentary = entry.querySelector('.commentary');
-        if (commentary) commentary.style.display = 'block';
-      }
-    });
-  }
-  
-  function getTopVisibleEntryId() {
-      const entries = [...document.querySelectorAll('.entry')];
-      const top = window.scrollY;
-    
-      for (const entry of entries) {
-        const rect = entry.getBoundingClientRect();
-        const absTop = rect.top + window.scrollY;
-        if (absTop >= top) {
-          return entry.querySelector('.meta')?.textContent;
-        }
-      }
-      return null;
-    }
-    
-    function scrollToEntryById(id) {
-      const entry = [...document.querySelectorAll('.entry')]
-        .find(e => e.querySelector('.meta')?.textContent === id);
-      if (entry) {
-        entry.scrollIntoView({ behavior: 'auto', block: 'start' });
-      }
-    }
+}
+
+function formatPlainText(text) {
+  return text
+    .split('\n\n').map(paragraph =>
+      `<p>${paragraph.trim().replace(/\n/g, '<br/>')}</p>`
+    ).join('\n');
+}
+
+async function renderTextPage(restoreScroll = false) {
+  const langCode = getCurrentLang();
+  await loadTextContent(langCode);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  initLanguageSelector(renderTextPage);
+  renderTextPage();
+});

@@ -1,82 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
-  <style>
-  /*–– Verse link overrides for dark theme ––*/
-.verses a {
-  color: #64B5F6;           /* lighter, sky-blue hue */
-  text-decoration: underline;
-}
-
-.verses a:visited {
-  color: #90CAF9;           /* slightly softer after click */
-}
-
-.verses a:hover,
-.verses a:focus {
-  color: #42A5F5;           /* brighten on hover/focus */
-}
-/*–– Back-to-Linktree link overrides for dark theme ––*/
-.back-link a {
-  color: #64B5F6;           /* lighter, sky-blue hue */
-  text-decoration: underline;
-}
-
-.back-link a:visited {
-  color: #90CAF9;           /* slightly softer after click */
-}
-
-.back-link a:hover,
-.back-link a:focus {
-  color: #42A5F5;           /* brighten on hover/focus */
-}
-/*–– Social-media link overrides for dark theme ––*/
-.social-media a {
-  color: #64B5F6;           /* lighter, sky-blue hue */
-  text-decoration: underline;
-}
-
-.social-media a:visited {
-  color: #90CAF9;           /* slightly softer after click */
-}
-
-.social-media a:hover,
-.social-media a:focus {
-  color: #42A5F5;           /* brighten on hover/focus */
-}
-
-
-</style>
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Logic To God</title>
+  <title>Logic to God</title>
   <link rel="stylesheet" href="style.css" />
+  <style>
+    .verses a, .back-link a, .social-media a {
+      color: #64B5F6;
+      text-decoration: underline;
+    }
+    .verses a:visited, .back-link a:visited, .social-media a:visited {
+      color: #90CAF9;
+    }
+    .verses a:hover, .verses a:focus,
+    .back-link a:hover, .back-link a:focus,
+    .social-media a:hover, .social-media a:focus {
+      color: #42A5F5;
+    }
+
+    body {
+      font-family: sans-serif;
+      background-color: #121212;
+      color: #e0e0e0;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+
+    .back-link {
+      margin-bottom: 1.5rem;
+    }
+
+    .social-media {
+      margin-top: 2rem;
+    }
+  </style>
 </head>
 <body>
   <div class="header">
-    <div class="title-row">
-      <h1>📖 Logic To God</h1>
-      <div class="lang-select">
-        <label for="lang-selector" style="margin-right: 0.5rem;">Language:</label>
-        <select id="lang-selector">
-          <option value="eng">English</option>
-          <option value="kor">한국어</option>
-        </select>
-      </div>
+    <h1>Logic to God</h1>
+    <div class="lang-select">
+      <label for="lang-selector" style="margin-right: 0.5rem;">Language:</label>
+      <select id="lang-selector">
+        <option value="eng" selected>English</option>
+        <option value="kor">한국어</option>
+        <!-- Future languages can be added here -->
+      </select>
     </div>
   </div>
-
-  <div class="toggle-bar" id="toggle-bar">
-    <button id="toggle-lang">Switch to English</button>
-  </div>
+<div id="toggle-bar" style="display:none;">
+  <button id="toggle-lang">Switch to English</button>
+</div>
   <div class="back-link">
     <a href="../index.html">← Back to Linktree</a>
   </div>
-  <div class="container" id="content"></div>
-  <div class="social-media" style="margin: 1rem 0;">
+
+  <div class="container" id="content">
+    <p>Loading content...</p>
+  </div>
+
+  <div class="social-media">
     <a id="twitter-link" href="#" target="_blank">Twitter</a>
     <a id="instagram-link" href="#" target="_blank" style="margin-left:1rem;">Instagram</a>
   </div>
-  <script type="module" src="js/main.js"></script>
+
 </body>
+  <script type="module" src="js/main.js"></script>
 </html>
